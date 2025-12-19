@@ -1,0 +1,8 @@
+import sqlite3 # bring in sql
+conn = sqlite3.connect('Saftey.db') # connect to database 
+
+import pandas as pd # load dataset
+df_counts = pd.read_csv('Data/exposure/saftey_even_counts_by_daily_quicksight_2025-12-16.csv') 
+df_counts.to_sql('raw_counts', conn, if_exists = 'replace', index = False) # create table 
+
+conn.close() # close database
