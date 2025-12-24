@@ -1,0 +1,8 @@
+import sqlite3
+import pandas as pd 
+
+conn = sqlite3.connect('database/Safety.db')
+site = pd.read_sql('SELECT * FROM raw_site_details LIMIT 5;', conn)
+print(site)
+
+conn.close()
