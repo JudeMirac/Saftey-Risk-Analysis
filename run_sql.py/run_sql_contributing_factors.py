@@ -5,10 +5,10 @@ def run_sql_file(db_path: str, sql_path: str) -> None: # function created to con
         sql = f.read() # store f objectv as sql (better for interpretability)
 
     with sqlite3.connect('database/Safety.db') as conn: # connecting to db 
-        conn.executescsript(sql) # executing sql querry
+        conn.executescript(sql) # executing sql querry
 
-    if __name__ == '__main__': 
-        run_sql_file('database/Safety.db', 'staged_contributing_factors.sql')
+if __name__ == '__main__': 
+    run_sql_file('database/Safety.db', 'sql/staged_contributing_factors.sql')
 
 # validation check 
 import pandas as pd
