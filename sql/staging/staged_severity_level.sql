@@ -9,7 +9,7 @@ TRIM(LOWER("Metric 3"))  AS severity,
 -- numeric values 
 CAST(Incidents AS INTEGER) AS incidents, 
 CAST("incident_id(CUSTOM)" AS REAL) AS incident_id,
-CAST(RI AS INTEGER) AS RI, 
+CAST(RI AS INTEGER) AS ri, 
 CAST("recordable(CUSTOM)" AS REAL) AS "recordable_pct", 
 CAST("MSD RI" AS INTEGER) AS msd_ri, 
 CAST("%MSD RI" AS REAL) AS "msd_ri_pct", 

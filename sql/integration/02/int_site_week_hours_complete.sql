@@ -2,9 +2,9 @@
 -- integration; site x fiscal_year x period 
 -- grain: site x year x week x hours x metrics 
 
-DROP VIEW IF EXISTS int_site_year_week_hours_metrics; 
+DROP VIEW IF EXISTS int_site_week_hours; 
 
-CREATE VIEW int_site_year_week_hours_metrics AS 
+CREATE VIEW int_site_week_hours AS 
 SELECT 
 site, 
 fiscal_year, 
