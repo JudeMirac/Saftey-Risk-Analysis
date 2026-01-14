@@ -1,9 +1,9 @@
 -- integration: site x fiscal year x period x process path
 -- grain: 1 row per site per fiscal year per period name per process path
 
-DROP VIEW IF EXISTS int_site_period_process_path; 
+DROP VIEW IF EXISTS int_site_process_path; 
 
-CREATE VIEW int_site_period_process_path as 
+CREATE VIEW int_site_process_path as 
 SELECT
 site, 
 period_name, 

@@ -11,7 +11,7 @@ e.period_name,
 w.week_sum, 
 
 -- measures
-e.sir_incidents, 
+e.air_incidents, 
 e.hours, 
 e.rate,
 e.period_over_period_pct_change,

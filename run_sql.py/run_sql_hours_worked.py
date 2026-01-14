@@ -8,7 +8,7 @@ def run_sql_file(db_path: str, sql_path: str) -> None: # # bridges path to datab
         conn.executescript(sql) # connects to database, stores it as conn obeject and executes query 
     
 if __name__ == '__main__': # block runs only when you run python run_sql_py
-    run_sql_file('database/Safety.db', 'sql/staged_hours_worked.sql') # connects to db and passes function
+    run_sql_file('database/Safety.db', 'sql/staging/staged_hours_worked.sql') # connects to db and passes function
 
 
 

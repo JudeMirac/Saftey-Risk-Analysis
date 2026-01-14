@@ -9,7 +9,7 @@ TRIM(LOWER("METRIC 1")) AS process_path,
 
 -- numerical values 
 CAST(Incidents AS INTEGER) AS incidents, 
-CAST(Incident_id AS REAL) AS incident_pct, 
+CAST("incident_id (CUSTOM)" AS REAL) AS incident_pct, 
 CAST(RI AS INTEGER) AS ri, 
 CAST("recordable(CUSTOM)" AS REAL) AS recordable_pct, 
 CAST("MSD RI" AS INTEGER) AS msd_ri, 

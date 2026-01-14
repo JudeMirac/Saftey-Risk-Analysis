@@ -11,7 +11,7 @@ fiscal_year,
 period_name,  
 
 -- measures
-sir_incidents, 
+air_incidents, 
 hours, 
 rate, 
 period_over_period_pct_change

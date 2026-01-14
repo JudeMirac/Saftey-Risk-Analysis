@@ -8,7 +8,7 @@ def run_sql_file(db_path: str, sql_path: str) -> None: # function created to con
         conn.executescript(sql) # executing sql querry
 
 if __name__ == '__main__': 
-    run_sql_file('database/Safety.db', 'sql/staged_contributing_factors.sql')
+    run_sql_file('database/Safety.db', 'sql/staging/staged_contributing_factors.sql')
 
 # validation check 
 import pandas as pd

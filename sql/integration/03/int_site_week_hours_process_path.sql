@@ -2,16 +2,16 @@
 -- intergration: site x period x week x hours x process path 
 -- grain: site x week x hours x process path
 
-DROP VIEW IF EXISTS int_site_period_week_hours_path; 
+DROP VIEW IF EXISTS int_site_week_hours_path; 
 
-CREATE VIEW int_site_period_week_hours_path AS 
+CREATE VIEW int_site_week_hours_path AS 
 SELECT 
 -- table of contents from int_site_week_hours completed 
 e.site, 
 e.fiscal_year, 
 e.period_name, 
 e.week_sum, 
-e.sir_incidents, 
+e.air_incidents, 
 e.hours, 
 e.rate,
 e.period_over_period_pct_change, 
@@ -27,7 +27,7 @@ w.fclm_hours_pct,
 w.process_path, 
 w.year
 
-FROM int_site_year_week_hours_metrics e 
+FROM int_site_week_hours e 
 
 LEFT JOIN int_site_period_process_path w
 ON w.site = e.site

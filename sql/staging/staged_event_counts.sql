@@ -16,7 +16,7 @@ CAST(fiscal_year as INTEGER) AS fiscal_year,
 TRIM(period_name) as period_name, 
 
 -- Metrics
-CAST("Incidents" AS INTEGER)            AS sir_incidents,
+CAST("Incidents" AS INTEGER)            AS air_incidents,
 CAST("Hours" AS REAL)                   AS hours,
 CAST("Rate" AS REAL)                    AS rate,
 CAST("Period Over Period* (%Change)" AS REAL) AS period_over_period_pct_change

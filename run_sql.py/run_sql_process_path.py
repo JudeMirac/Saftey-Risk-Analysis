@@ -8,11 +8,11 @@ def run_sql_file(db_path: str, sql_path: str) -> None: # connecting to db and op
         conn.executescript(sql) # querry sql
 
     if __namme__ == '__main__':
-        run_sql_file('database/Safety.db', 'sql/staged_process_path.sql')
+        run_sql_file('database/Safety.db', 'sql/staging/staged_process_path.sql')
     
     ## validation check 
 import pandas as pd
 with sqlite3.connect('database/Safety.db') as conn: 
     print(pd.read_sql('select count (*) from raw_process_path;', conn))
     print(pd.read_sql('select count (*) from stg_process_path;', conn))
-    print(pd.read_sql('select (*) from stg_process_path limit 5;', conn))
+    print(pd.read_sql('select * from stg_process_path limit 5;', conn))

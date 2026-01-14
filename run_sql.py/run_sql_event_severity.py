@@ -8,7 +8,7 @@ def run_file_sql(db_path: str, sql_path: str) -> None: # function for connecting
         conn.executescript(sql) # querry sql file
 
 if __name__ == '__main__': # activates when you run sql in py
-    run_file_sql('database/Safety.db', 'sql/staged_severity_level.sql')
+    run_file_sql('database/Safety.db', 'sql/staging/staged_severity_level.sql')
 
 # validation check 
 import pandas as pd
