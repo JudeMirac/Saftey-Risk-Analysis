@@ -19,14 +19,15 @@ FROM int_site_week_hours
 
 base_weekly AS (
     SELECT *, 
-       -- Currently our data is cumalative/runnning total based. We need to incidents and hours that occured for the specific week
-       -- weekly_data = cumulative this week - cumulative last week
+-- Currently our data is cumalative/runnning total based. We need to incidents and hours that occured for the specific week
+-- weekly_data = cumulative this week - cumulative last week
 
-       -- lag: 1 = go back one row
-        -- lag: 0 = if there is no previous row, use 0 instead
+-- lag: 1 = go back one row
+-- lag: 0 = if there is no previous row, use 0 instead
+
        (air_incidents - LAG(air_incidents, 1, 0) OVER 
        (PARTITION by site, fiscal_year 
-       ORDER BY week_sum)) as incidents_weekly, 
+       ORDER BY week_sum)) as incidents_weekly,
        
        (hours - LAG(hours, 1, 0) OVER                 
        (PARTITION by site, fiscal_year              
@@ -51,7 +52,7 @@ rolling AS (
         ROWS BETWEEN 3 PRECEDING AND CURRENT ROW)
             AS incidents_4wk_avg, 
 
-        AVG(rate) OVER 
+        AVG(rate) OVER -- average 4wk rate 
         (PARTITION by site
         ORDER by week_sum
         ROWS BETWEEN 3 PRECEDING AND CURRENT ROW)
@@ -83,7 +84,13 @@ rolling AS (
             ROWS BETWEEN 3 PRECEDING AND CURRENT ROW
             )
         )
-    ) as incidents_4wk_std
+    ) as incidents_4wk_std,
+
+
+CASE     -- When weekly hours is greater than 0 Logic: display as hours_worked (Hours that have not been adjusted, removed, corrected)
+    WHEN hours_weekly >= 0 THEN hours_weekly ELSE 0 END as hours_worked, 
+CASE     -- If weekly hours is less than 0 Logic: Hours have been adjusted, removed, corrected for that week. 
+    WHEN hours_weekly < 0 THEN hours_weekly ELSE 0 END as hours_adjusted
             
 FROM base_weekly
 
@@ -100,6 +107,7 @@ SELECT *,
 CASE 
     WHEN incidents_weekly  > incidents_4wk_avg THEN 1 ELSE 0    --logic: if incidents exceed over incident 4wk average flag spike 
         END as incident_spike_flag 
+
 
 FROM rolling; 
 

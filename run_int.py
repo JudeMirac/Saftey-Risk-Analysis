@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     # ---- INTEGRATION (creation of a unified dataset using specific mapping) -- 
     run_sql_file('database/Safety.db',"sql/integration/01/int_site_period.sql") #
-    run_sql_file('database/Safety.db', 'sql/integration/week_mapping.sql')
+    run_sql_file('database/Safety.db', 'sql/integration/02/week_mapping.sql')
     run_sql_file('database/Safety.db', 'sql/integration/02/int_site_week_hours.sql')
     run_sql_file('database/Safety.db', 'sql/integration/03/int_site_process_path.sql')
     run_sql_file('database/Safety.db', 'sql/integration/03/int_site_week_hours_process_path.sql')
