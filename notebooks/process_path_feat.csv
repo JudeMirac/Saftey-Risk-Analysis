@@ -1,0 +1,2524 @@
+site,fiscal_year,week_sum,incidents,fclm_hours,process_path,incidents_per_10k_hours,process_path_rank,top_3_flag_path
+teb3,2025,1,0,4877.0,pick,0.0,1,1
+teb3,2025,1,0,2184.62,admin/hr/it,0.0,1,1
+teb3,2025,1,0,1562.52,stow to prime,0.0,1,1
+teb3,2025,1,0,1777.24,pack singles,0.0,1,1
+teb3,2025,1,0,1293.2,ic-qa-cs,0.0,1,1
+teb3,2025,1,0,1358.8,container build,0.0,1,1
+teb3,2025,1,0,1009.61,rsr support,0.0,1,1
+teb3,2025,1,0,1307.53,fluid load,0.0,1,1
+teb3,2025,1,0,794.76,each-receive,0.0,1,1
+teb3,2025,1,0,412.29,,0.0,1,1
+teb3,2025,1,0,307.72,transfer out,0.0,1,1
+teb3,2025,1,0,709.79,each transfer in,0.0,1,1
+teb3,2025,1,0,606.25,pick support,0.0,1,1
+teb3,2025,1,0,569.7,pack support,0.0,1,1
+teb3,2025,1,0,480.92,receive dock,0.0,1,1
+teb3,2025,1,0,408.68,receive-support,0.0,1,1
+teb3,2025,1,0,422.9,pack multis,0.0,1,1
+teb3,2025,1,0,340.78,ib problem solve,0.0,1,1
+teb3,2025,1,0,597.75,transfer in dock,0.0,1,1
+teb3,2025,1,0,117.18,transfer out dock,0.0,1,1
+teb3,2025,1,0,265.21,outbound lead/pa,0.0,1,1
+teb3,2025,1,0,280.07,container load,0.0,1,1
+teb3,2025,1,0,97.13,ship dock support,0.0,1,1
+teb3,2025,1,0,77.86,stow to prime spt,0.0,1,1
+teb3,2025,1,0,232.0,container move,0.0,1,1
+teb3,2025,1,0,301.09,sort-batch,0.0,1,1
+teb3,2025,1,0,252.6,transfer in support,0.0,1,1
+teb3,2025,1,0,104.32,ob problem solve,0.0,1,1
+teb3,2025,1,0,142.55,inbound lead/pa,0.0,1,1
+teb3,2025,1,0,159.56,c-returns processed,0.0,1,1
+teb3,2025,1,0,127.47,ship dock lead/pa,0.0,1,1
+teb3,2025,1,0,104.92,v-returns pick,0.0,1,1
+teb3,2025,1,0,104.94,c-returns support,0.0,1,1
+teb3,2025,1,0,157.66,pallet transfer in,0.0,1,1
+teb3,2025,1,0,61.48,pallet-receive,0.0,1,1
+teb3,2025,1,0,57.58,lp-receive,0.0,1,1
+teb3,2025,1,0,56.09,v-returns support,0.0,1,1
+teb3,2025,1,0,142.55,box on demand,0.0,1,1
+teb3,2025,1,0,108.96,prep recorder,0.0,1,1
+teb3,2025,1,0,35.56,cubiscan,0.0,1,1
+teb3,2025,1,0,85.33,whd grading support,0.0,1,1
+teb3,2025,1,0,34.8,whd grading,0.0,1,1
+teb3,2025,1,0,2.45,on boarding,0.0,1,1
+teb3,2025,1,0,38.82,transfer out lead/pa,0.0,1,1
+teb3,2025,1,0,10.68,v-returns pack,0.0,1,1
+teb3,2025,1,0,6.3,gift-wrap,0.0,1,1
+teb3,2025,1,0,7.13,unrecognizedprocess,0.0,1,1
+teb3,2025,1,0,1.37,custom packaging,0.0,1,1
+teb3,2025,1,0,0.9,v-returns rvr,0.0,1,1
+teb3,2025,2,1,2007.77,ic-qa-cs,4.980650174073723,1,1
+teb3,2025,2,0,5184.92,pick,0.0,2,1
+teb3,2025,2,0,2850.89,admin/hr/it,0.0,2,1
+teb3,2025,2,0,2516.51,stow to prime,0.0,2,1
+teb3,2025,2,0,1763.55,pack singles,0.0,2,1
+teb3,2025,2,0,1355.52,container build,0.0,2,1
+teb3,2025,2,0,1509.55,rsr support,0.0,2,1
+teb3,2025,2,0,1488.97,fluid load,0.0,2,1
+teb3,2025,2,0,1106.8,each-receive,0.0,2,1
+teb3,2025,2,0,414.26,,0.0,2,1
+teb3,2025,2,0,351.87,transfer out,0.0,2,1
+teb3,2025,2,0,1163.73,each transfer in,0.0,2,1
+teb3,2025,2,0,987.27,pick support,0.0,2,1
+teb3,2025,2,0,689.07,pack support,0.0,2,1
+teb3,2025,2,0,527.13,receive dock,0.0,2,1
+teb3,2025,2,0,442.83,receive-support,0.0,2,1
+teb3,2025,2,0,500.48,pack multis,0.0,2,1
+teb3,2025,2,0,430.44,ib problem solve,0.0,2,1
+teb3,2025,2,0,813.69,transfer in dock,0.0,2,1
+teb3,2025,2,0,119.77,transfer out dock,0.0,2,1
+teb3,2025,2,0,367.01,outbound lead/pa,0.0,2,1
+teb3,2025,2,0,286.51,container load,0.0,2,1
+teb3,2025,2,0,108.35,ship dock support,0.0,2,1
+teb3,2025,2,0,727.31,stow to prime spt,0.0,2,1
+teb3,2025,2,0,247.58,container move,0.0,2,1
+teb3,2025,2,0,350.51,sort-batch,0.0,2,1
+teb3,2025,2,0,401.16,transfer in support,0.0,2,1
+teb3,2025,2,0,152.28,ob problem solve,0.0,2,1
+teb3,2025,2,0,151.72,inbound lead/pa,0.0,2,1
+teb3,2025,2,0,58.14,c-returns processed,0.0,2,1
+teb3,2025,2,0,84.21,ship dock lead/pa,0.0,2,1
+teb3,2025,2,0,111.64,v-returns pick,0.0,2,1
+teb3,2025,2,0,17.26,c-returns support,0.0,2,1
+teb3,2025,2,0,206.77,pallet transfer in,0.0,2,1
+teb3,2025,2,0,92.89,pallet-receive,0.0,2,1
+teb3,2025,2,0,84.6,lp-receive,0.0,2,1
+teb3,2025,2,0,123.23,v-returns support,0.0,2,1
+teb3,2025,2,0,128.27,box on demand,0.0,2,1
+teb3,2025,2,0,86.53,prep recorder,0.0,2,1
+teb3,2025,2,0,44.34,cubiscan,0.0,2,1
+teb3,2025,2,0,114.04,whd grading support,0.0,2,1
+teb3,2025,2,0,40.01,whd grading,0.0,2,1
+teb3,2025,2,0,240.84,on boarding,0.0,2,1
+teb3,2025,2,0,57.63,transfer out lead/pa,0.0,2,1
+teb3,2025,2,0,6.64,v-returns pack,0.0,2,1
+teb3,2025,2,0,7.61,gift-wrap,0.0,2,1
+teb3,2025,2,0,6.62,unrecognizedprocess,0.0,2,1
+teb3,2025,2,0,1.8,custom packaging,0.0,2,1
+teb3,2025,3,1,2998.84,admin/hr/it,3.33462272078537,1,1
+teb3,2025,3,1,3523.95,stow to prime,2.8377247123256573,1,1
+teb3,2025,3,1,1378.91,fluid load,7.2521049234540325,1,1
+teb3,2025,3,0,5118.89,pick,0.0,4,0
+teb3,2025,3,0,1658.27,pack singles,0.0,4,0
+teb3,2025,3,0,1973.69,ic-qa-cs,0.0,4,0
+teb3,2025,3,0,1310.64,container build,0.0,4,0
+teb3,2025,3,0,1593.97,rsr support,0.0,4,0
+teb3,2025,3,0,1305.3,each-receive,0.0,4,0
+teb3,2025,3,0,515.37,,0.0,4,0
+teb3,2025,3,0,273.45,transfer out,0.0,4,0
+teb3,2025,3,0,1084.12,each transfer in,0.0,4,0
+teb3,2025,3,0,815.06,pick support,0.0,4,0
+teb3,2025,3,0,658.93,pack support,0.0,4,0
+teb3,2025,3,0,591.0,receive dock,0.0,4,0
+teb3,2025,3,0,598.65,receive-support,0.0,4,0
+teb3,2025,3,0,487.11,pack multis,0.0,4,0
+teb3,2025,3,0,468.85,ib problem solve,0.0,4,0
+teb3,2025,3,0,673.24,transfer in dock,0.0,4,0
+teb3,2025,3,0,168.64,transfer out dock,0.0,4,0
+teb3,2025,3,0,396.52,outbound lead/pa,0.0,4,0
+teb3,2025,3,0,263.64,container load,0.0,4,0
+teb3,2025,3,0,113.15,ship dock support,0.0,4,0
+teb3,2025,3,0,645.63,stow to prime spt,0.0,4,0
+teb3,2025,3,0,245.97,container move,0.0,4,0
+teb3,2025,3,0,323.31,sort-batch,0.0,4,0
+teb3,2025,3,0,414.6,transfer in support,0.0,4,0
+teb3,2025,3,0,122.74,ob problem solve,0.0,4,0
+teb3,2025,3,0,127.78,inbound lead/pa,0.0,4,0
+teb3,2025,3,0,187.47,c-returns processed,0.0,4,0
+teb3,2025,3,0,155.09,ship dock lead/pa,0.0,4,0
+teb3,2025,3,0,157.26,v-returns pick,0.0,4,0
+teb3,2025,3,0,135.88,c-returns support,0.0,4,0
+teb3,2025,3,0,205.68,pallet transfer in,0.0,4,0
+teb3,2025,3,0,64.13,pallet-receive,0.0,4,0
+teb3,2025,3,0,99.87,lp-receive,0.0,4,0
+teb3,2025,3,0,77.53,v-returns support,0.0,4,0
+teb3,2025,3,0,159.04,box on demand,0.0,4,0
+teb3,2025,3,0,72.0,prep recorder,0.0,4,0
+teb3,2025,3,0,83.24,cubiscan,0.0,4,0
+teb3,2025,3,0,144.71,whd grading support,0.0,4,0
+teb3,2025,3,0,32.84,whd grading,0.0,4,0
+teb3,2025,3,0,178.92,on boarding,0.0,4,0
+teb3,2025,3,0,48.98,transfer out lead/pa,0.0,4,0
+teb3,2025,3,0,28.88,v-returns pack,0.0,4,0
+teb3,2025,3,0,45.85,gift-wrap,0.0,4,0
+teb3,2025,3,0,5.79,unrecognizedprocess,0.0,4,0
+teb3,2025,3,0,2.62,v-returns rvr,0.0,4,0
+teb3,2025,3,0,7.06,sort support,0.0,4,0
+teb3,2025,4,1,5063.97,pick,1.9747352373730491,1,1
+teb3,2025,4,1,1382.72,each-receive,7.232122193936589,1,1
+teb3,2025,4,0,3161.66,admin/hr/it,0.0,3,1
+teb3,2025,4,0,3985.45,stow to prime,0.0,3,1
+teb3,2025,4,0,1573.36,pack singles,0.0,3,1
+teb3,2025,4,0,2168.5,ic-qa-cs,0.0,3,1
+teb3,2025,4,0,1221.63,container build,0.0,3,1
+teb3,2025,4,0,1574.86,rsr support,0.0,3,1
+teb3,2025,4,0,1249.11,fluid load,0.0,3,1
+teb3,2025,4,0,476.42,,0.0,3,1
+teb3,2025,4,0,322.6,transfer out,0.0,3,1
+teb3,2025,4,0,902.46,each transfer in,0.0,3,1
+teb3,2025,4,0,744.6,pick support,0.0,3,1
+teb3,2025,4,0,583.21,pack support,0.0,3,1
+teb3,2025,4,0,652.7,receive dock,0.0,3,1
+teb3,2025,4,0,493.12,receive-support,0.0,3,1
+teb3,2025,4,0,444.95,pack multis,0.0,3,1
+teb3,2025,4,0,397.74,ib problem solve,0.0,3,1
+teb3,2025,4,0,553.02,transfer in dock,0.0,3,1
+teb3,2025,4,0,48.62,transfer out dock,0.0,3,1
+teb3,2025,4,0,298.81,outbound lead/pa,0.0,3,1
+teb3,2025,4,0,224.54,container load,0.0,3,1
+teb3,2025,4,0,71.71,ship dock support,0.0,3,1
+teb3,2025,4,0,232.3,stow to prime spt,0.0,3,1
+teb3,2025,4,0,217.39,container move,0.0,3,1
+teb3,2025,4,0,309.92,sort-batch,0.0,3,1
+teb3,2025,4,0,399.51,transfer in support,0.0,3,1
+teb3,2025,4,0,114.43,ob problem solve,0.0,3,1
+teb3,2025,4,0,117.79,inbound lead/pa,0.0,3,1
+teb3,2025,4,0,199.65,c-returns processed,0.0,3,1
+teb3,2025,4,0,132.85,ship dock lead/pa,0.0,3,1
+teb3,2025,4,0,130.23,v-returns pick,0.0,3,1
+teb3,2025,4,0,184.16,c-returns support,0.0,3,1
+teb3,2025,4,0,194.57,pallet transfer in,0.0,3,1
+teb3,2025,4,0,61.16,pallet-receive,0.0,3,1
+teb3,2025,4,0,112.57,lp-receive,0.0,3,1
+teb3,2025,4,0,106.97,v-returns support,0.0,3,1
+teb3,2025,4,0,91.31,box on demand,0.0,3,1
+teb3,2025,4,0,117.85,prep recorder,0.0,3,1
+teb3,2025,4,0,85.45,cubiscan,0.0,3,1
+teb3,2025,4,0,164.09,whd grading support,0.0,3,1
+teb3,2025,4,0,43.92,whd grading,0.0,3,1
+teb3,2025,4,0,67.44,on boarding,0.0,3,1
+teb3,2025,4,0,20.15,transfer out lead/pa,0.0,3,1
+teb3,2025,4,0,17.88,v-returns pack,0.0,3,1
+teb3,2025,4,0,32.9,gift-wrap,0.0,3,1
+teb3,2025,4,0,8.85,unrecognizedprocess,0.0,3,1
+teb3,2025,4,0,1.2,custom packaging,0.0,3,1
+teb3,2025,4,0,15.81,c-returns stow,0.0,3,1
+teb3,2025,4,0,7.33,v-returns rvr,0.0,3,1
+teb3,2025,5,3,3433.4,stow to prime,8.737694413700705,1,1
+teb3,2025,5,2,1144.89,each transfer in,17.468927145839338,2,1
+teb3,2025,5,1,1547.87,pack singles,6.460490868096159,3,1
+teb3,2025,5,0,5112.36,pick,0.0,4,0
+teb3,2025,5,0,2935.47,admin/hr/it,0.0,4,0
+teb3,2025,5,0,1777.37,ic-qa-cs,0.0,4,0
+teb3,2025,5,0,1308.39,container build,0.0,4,0
+teb3,2025,5,0,1395.07,rsr support,0.0,4,0
+teb3,2025,5,0,1355.85,fluid load,0.0,4,0
+teb3,2025,5,0,1092.61,each-receive,0.0,4,0
+teb3,2025,5,0,813.8,,0.0,4,0
+teb3,2025,5,0,405.25,transfer out,0.0,4,0
+teb3,2025,5,0,695.12,pick support,0.0,4,0
+teb3,2025,5,0,531.73,pack support,0.0,4,0
+teb3,2025,5,0,506.15,receive dock,0.0,4,0
+teb3,2025,5,0,483.31,receive-support,0.0,4,0
+teb3,2025,5,0,492.16,pack multis,0.0,4,0
+teb3,2025,5,0,351.11,ib problem solve,0.0,4,0
+teb3,2025,5,0,681.42,transfer in dock,0.0,4,0
+teb3,2025,5,0,174.09,transfer out dock,0.0,4,0
+teb3,2025,5,0,282.44,outbound lead/pa,0.0,4,0
+teb3,2025,5,0,223.02,container load,0.0,4,0
+teb3,2025,5,0,125.07,ship dock support,0.0,4,0
+teb3,2025,5,0,140.85,stow to prime spt,0.0,4,0
+teb3,2025,5,0,226.64,container move,0.0,4,0
+teb3,2025,5,0,326.73,sort-batch,0.0,4,0
+teb3,2025,5,0,344.1,transfer in support,0.0,4,0
+teb3,2025,5,0,111.08,ob problem solve,0.0,4,0
+teb3,2025,5,0,155.93,inbound lead/pa,0.0,4,0
+teb3,2025,5,0,209.51,c-returns processed,0.0,4,0
+teb3,2025,5,0,117.16,ship dock lead/pa,0.0,4,0
+teb3,2025,5,0,141.39,v-returns pick,0.0,4,0
+teb3,2025,5,0,219.49,c-returns support,0.0,4,0
+teb3,2025,5,0,217.3,pallet transfer in,0.0,4,0
+teb3,2025,5,0,59.22,pallet-receive,0.0,4,0
+teb3,2025,5,0,68.16,lp-receive,0.0,4,0
+teb3,2025,5,0,90.3,v-returns support,0.0,4,0
+teb3,2025,5,0,126.09,box on demand,0.0,4,0
+teb3,2025,5,0,106.46,prep recorder,0.0,4,0
+teb3,2025,5,0,55.04,cubiscan,0.0,4,0
+teb3,2025,5,0,145.55,whd grading support,0.0,4,0
+teb3,2025,5,0,51.75,whd grading,0.0,4,0
+teb3,2025,5,0,,on boarding,,4,0
+teb3,2025,5,0,72.31,transfer out lead/pa,0.0,4,0
+teb3,2025,5,0,22.48,v-returns pack,0.0,4,0
+teb3,2025,5,0,37.87,gift-wrap,0.0,4,0
+teb3,2025,5,0,13.69,unrecognizedprocess,0.0,4,0
+teb3,2025,5,0,1.7,custom packaging,0.0,4,0
+teb3,2025,5,0,4.82,v-returns rvr,0.0,4,0
+teb3,2025,6,2,3347.27,stow to prime,5.9750184478694575,1,1
+teb3,2025,6,1,352.72,sort-batch,28.35110002268088,2,1
+teb3,2025,6,0,5555.28,pick,0.0,3,1
+teb3,2025,6,0,2838.2,admin/hr/it,0.0,3,1
+teb3,2025,6,0,1658.23,pack singles,0.0,3,1
+teb3,2025,6,0,1692.05,ic-qa-cs,0.0,3,1
+teb3,2025,6,0,1378.37,container build,0.0,3,1
+teb3,2025,6,0,1204.88,rsr support,0.0,3,1
+teb3,2025,6,0,1290.78,fluid load,0.0,3,1
+teb3,2025,6,0,950.16,each-receive,0.0,3,1
+teb3,2025,6,0,985.47,,0.0,3,1
+teb3,2025,6,0,638.08,transfer out,0.0,3,1
+teb3,2025,6,0,825.73,each transfer in,0.0,3,1
+teb3,2025,6,0,691.79,pick support,0.0,3,1
+teb3,2025,6,0,584.72,pack support,0.0,3,1
+teb3,2025,6,0,456.74,receive dock,0.0,3,1
+teb3,2025,6,0,350.77,receive-support,0.0,3,1
+teb3,2025,6,0,498.68,pack multis,0.0,3,1
+teb3,2025,6,0,334.77,ib problem solve,0.0,3,1
+teb3,2025,6,0,427.05,transfer in dock,0.0,3,1
+teb3,2025,6,0,247.16,transfer out dock,0.0,3,1
+teb3,2025,6,0,308.8,outbound lead/pa,0.0,3,1
+teb3,2025,6,0,248.05,container load,0.0,3,1
+teb3,2025,6,0,125.79,ship dock support,0.0,3,1
+teb3,2025,6,0,178.62,stow to prime spt,0.0,3,1
+teb3,2025,6,0,251.73,container move,0.0,3,1
+teb3,2025,6,0,319.5,transfer in support,0.0,3,1
+teb3,2025,6,0,123.1,ob problem solve,0.0,3,1
+teb3,2025,6,0,98.7,inbound lead/pa,0.0,3,1
+teb3,2025,6,0,293.13,c-returns processed,0.0,3,1
+teb3,2025,6,0,116.23,ship dock lead/pa,0.0,3,1
+teb3,2025,6,0,122.41,v-returns pick,0.0,3,1
+teb3,2025,6,0,376.22,c-returns support,0.0,3,1
+teb3,2025,6,0,196.91,pallet transfer in,0.0,3,1
+teb3,2025,6,0,62.41,pallet-receive,0.0,3,1
+teb3,2025,6,0,81.64,lp-receive,0.0,3,1
+teb3,2025,6,0,56.47,v-returns support,0.0,3,1
+teb3,2025,6,0,98.55,box on demand,0.0,3,1
+teb3,2025,6,0,93.46,prep recorder,0.0,3,1
+teb3,2025,6,0,37.44,cubiscan,0.0,3,1
+teb3,2025,6,0,137.97,whd grading support,0.0,3,1
+teb3,2025,6,0,61.94,whd grading,0.0,3,1
+teb3,2025,6,0,4.46,on boarding,0.0,3,1
+teb3,2025,6,0,103.3,transfer out lead/pa,0.0,3,1
+teb3,2025,6,0,17.28,v-returns pack,0.0,3,1
+teb3,2025,6,0,37.37,gift-wrap,0.0,3,1
+teb3,2025,6,0,8.48,unrecognizedprocess,0.0,3,1
+teb3,2025,6,0,5.92,custom packaging,0.0,3,1
+teb3,2025,6,0,2.28,v-returns rvr,0.0,3,1
+teb3,2025,7,2,4976.16,pick,4.019163370952703,1,1
+teb3,2025,7,1,3141.53,stow to prime,3.1831623444627297,2,1
+teb3,2025,7,0,2626.4,admin/hr/it,0.0,3,1
+teb3,2025,7,0,1538.63,pack singles,0.0,3,1
+teb3,2025,7,0,1514.55,ic-qa-cs,0.0,3,1
+teb3,2025,7,0,1305.08,container build,0.0,3,1
+teb3,2025,7,0,1174.34,rsr support,0.0,3,1
+teb3,2025,7,0,1130.09,fluid load,0.0,3,1
+teb3,2025,7,0,855.36,each-receive,0.0,3,1
+teb3,2025,7,0,865.58,,0.0,3,1
+teb3,2025,7,0,731.37,transfer out,0.0,3,1
+teb3,2025,7,0,919.44,each transfer in,0.0,3,1
+teb3,2025,7,0,611.8,pick support,0.0,3,1
+teb3,2025,7,0,567.23,pack support,0.0,3,1
+teb3,2025,7,0,465.92,receive dock,0.0,3,1
+teb3,2025,7,0,393.38,receive-support,0.0,3,1
+teb3,2025,7,0,461.02,pack multis,0.0,3,1
+teb3,2025,7,0,380.38,ib problem solve,0.0,3,1
+teb3,2025,7,0,418.43,transfer in dock,0.0,3,1
+teb3,2025,7,0,203.25,transfer out dock,0.0,3,1
+teb3,2025,7,0,294.22,outbound lead/pa,0.0,3,1
+teb3,2025,7,0,248.33,container load,0.0,3,1
+teb3,2025,7,0,169.99,ship dock support,0.0,3,1
+teb3,2025,7,0,97.29,stow to prime spt,0.0,3,1
+teb3,2025,7,0,237.75,container move,0.0,3,1
+teb3,2025,7,0,328.95,sort-batch,0.0,3,1
+teb3,2025,7,0,278.59,transfer in support,0.0,3,1
+teb3,2025,7,0,149.29,ob problem solve,0.0,3,1
+teb3,2025,7,0,91.17,inbound lead/pa,0.0,3,1
+teb3,2025,7,0,222.87,c-returns processed,0.0,3,1
+teb3,2025,7,0,89.84,ship dock lead/pa,0.0,3,1
+teb3,2025,7,0,73.43,v-returns pick,0.0,3,1
+teb3,2025,7,0,297.57,c-returns support,0.0,3,1
+teb3,2025,7,0,130.84,pallet transfer in,0.0,3,1
+teb3,2025,7,0,62.5,pallet-receive,0.0,3,1
+teb3,2025,7,0,57.82,lp-receive,0.0,3,1
+teb3,2025,7,0,67.61,v-returns support,0.0,3,1
+teb3,2025,7,0,63.47,box on demand,0.0,3,1
+teb3,2025,7,0,76.41,prep recorder,0.0,3,1
+teb3,2025,7,0,57.53,cubiscan,0.0,3,1
+teb3,2025,7,0,106.39,whd grading support,0.0,3,1
+teb3,2025,7,0,40.35,whd grading,0.0,3,1
+teb3,2025,7,0,0.66,on boarding,0.0,3,1
+teb3,2025,7,0,15.29,transfer out lead/pa,0.0,3,1
+teb3,2025,7,0,14.14,v-returns pack,0.0,3,1
+teb3,2025,7,0,10.21,gift-wrap,0.0,3,1
+teb3,2025,7,0,11.25,unrecognizedprocess,0.0,3,1
+teb3,2025,7,0,25.53,custom packaging,0.0,3,1
+teb3,2025,7,0,0.14,v-returns rvr,0.0,3,1
+teb3,2025,8,2,3996.37,stow to prime,5.004541621521531,1,1
+teb3,2025,8,1,5441.95,pick,1.8375766039746781,2,1
+teb3,2025,8,0,2810.02,admin/hr/it,0.0,3,1
+teb3,2025,8,0,1503.51,pack singles,0.0,3,1
+teb3,2025,8,0,1633.6,ic-qa-cs,0.0,3,1
+teb3,2025,8,0,1329.83,container build,0.0,3,1
+teb3,2025,8,0,1300.42,rsr support,0.0,3,1
+teb3,2025,8,0,1048.5,fluid load,0.0,3,1
+teb3,2025,8,0,984.6,each-receive,0.0,3,1
+teb3,2025,8,0,791.3,,0.0,3,1
+teb3,2025,8,0,591.08,transfer out,0.0,3,1
+teb3,2025,8,0,1264.03,each transfer in,0.0,3,1
+teb3,2025,8,0,661.4,pick support,0.0,3,1
+teb3,2025,8,0,558.03,pack support,0.0,3,1
+teb3,2025,8,0,639.17,receive dock,0.0,3,1
+teb3,2025,8,0,480.69,receive-support,0.0,3,1
+teb3,2025,8,0,507.72,pack multis,0.0,3,1
+teb3,2025,8,0,430.12,ib problem solve,0.0,3,1
+teb3,2025,8,0,642.4,transfer in dock,0.0,3,1
+teb3,2025,8,0,179.58,transfer out dock,0.0,3,1
+teb3,2025,8,0,340.39,outbound lead/pa,0.0,3,1
+teb3,2025,8,0,296.22,container load,0.0,3,1
+teb3,2025,8,0,205.11,ship dock support,0.0,3,1
+teb3,2025,8,0,128.88,stow to prime spt,0.0,3,1
+teb3,2025,8,0,252.73,container move,0.0,3,1
+teb3,2025,8,0,383.85,sort-batch,0.0,3,1
+teb3,2025,8,0,290.43,transfer in support,0.0,3,1
+teb3,2025,8,0,139.33,ob problem solve,0.0,3,1
+teb3,2025,8,0,107.59,inbound lead/pa,0.0,3,1
+teb3,2025,8,0,137.83,c-returns processed,0.0,3,1
+teb3,2025,8,0,130.69,ship dock lead/pa,0.0,3,1
+teb3,2025,8,0,133.24,v-returns pick,0.0,3,1
+teb3,2025,8,0,254.2,c-returns support,0.0,3,1
+teb3,2025,8,0,103.76,pallet transfer in,0.0,3,1
+teb3,2025,8,0,57.66,pallet-receive,0.0,3,1
+teb3,2025,8,0,70.78,lp-receive,0.0,3,1
+teb3,2025,8,0,44.43,non fc controllable,0.0,3,1
+teb3,2025,8,0,100.02,v-returns support,0.0,3,1
+teb3,2025,8,0,38.98,box on demand,0.0,3,1
+teb3,2025,8,0,116.21,prep recorder,0.0,3,1
+teb3,2025,8,0,79.46,cubiscan,0.0,3,1
+teb3,2025,8,0,138.73,whd grading support,0.0,3,1
+teb3,2025,8,0,47.44,whd grading,0.0,3,1
+teb3,2025,8,0,17.1,transfer out lead/pa,0.0,3,1
+teb3,2025,8,0,26.52,v-returns pack,0.0,3,1
+teb3,2025,8,0,5.73,gift-wrap,0.0,3,1
+teb3,2025,8,0,5.85,unrecognizedprocess,0.0,3,1
+teb3,2025,8,0,0.58,custom packaging,0.0,3,1
+teb3,2025,8,0,0.29,v-returns rvr,0.0,3,1
+teb3,2025,9,3,6051.45,pick,4.957489527303374,1,1
+teb3,2025,9,2,3848.37,stow to prime,5.19700548543929,2,1
+teb3,2025,9,0,2745.36,admin/hr/it,0.0,3,1
+teb3,2025,9,0,1708.79,pack singles,0.0,3,1
+teb3,2025,9,0,1704.04,ic-qa-cs,0.0,3,1
+teb3,2025,9,0,1467.95,container build,0.0,3,1
+teb3,2025,9,0,1221.39,rsr support,0.0,3,1
+teb3,2025,9,0,1205.24,fluid load,0.0,3,1
+teb3,2025,9,0,1203.72,each-receive,0.0,3,1
+teb3,2025,9,0,772.18,,0.0,3,1
+teb3,2025,9,0,345.35,transfer out,0.0,3,1
+teb3,2025,9,0,720.68,each transfer in,0.0,3,1
+teb3,2025,9,0,634.05,pick support,0.0,3,1
+teb3,2025,9,0,627.49,pack support,0.0,3,1
+teb3,2025,9,0,576.11,receive dock,0.0,3,1
+teb3,2025,9,0,493.52,receive-support,0.0,3,1
+teb3,2025,9,0,589.98,pack multis,0.0,3,1
+teb3,2025,9,0,387.51,ib problem solve,0.0,3,1
+teb3,2025,9,0,356.92,transfer in dock,0.0,3,1
+teb3,2025,9,0,235.53,transfer out dock,0.0,3,1
+teb3,2025,9,0,320.11,outbound lead/pa,0.0,3,1
+teb3,2025,9,0,289.03,container load,0.0,3,1
+teb3,2025,9,0,150.22,ship dock support,0.0,3,1
+teb3,2025,9,0,106.82,stow to prime spt,0.0,3,1
+teb3,2025,9,0,273.38,container move,0.0,3,1
+teb3,2025,9,0,399.88,sort-batch,0.0,3,1
+teb3,2025,9,0,145.94,transfer in support,0.0,3,1
+teb3,2025,9,0,168.05,ob problem solve,0.0,3,1
+teb3,2025,9,0,126.73,inbound lead/pa,0.0,3,1
+teb3,2025,9,0,126.66,c-returns processed,0.0,3,1
+teb3,2025,9,0,126.09,ship dock lead/pa,0.0,3,1
+teb3,2025,9,0,121.08,v-returns pick,0.0,3,1
+teb3,2025,9,0,283.39,c-returns support,0.0,3,1
+teb3,2025,9,0,37.79,pallet transfer in,0.0,3,1
+teb3,2025,9,0,73.85,pallet-receive,0.0,3,1
+teb3,2025,9,0,75.62,lp-receive,0.0,3,1
+teb3,2025,9,0,60.01,v-returns support,0.0,3,1
+teb3,2025,9,0,106.43,box on demand,0.0,3,1
+teb3,2025,9,0,134.1,prep recorder,0.0,3,1
+teb3,2025,9,0,54.65,cubiscan,0.0,3,1
+teb3,2025,9,0,142.1,whd grading support,0.0,3,1
+teb3,2025,9,0,54.81,whd grading,0.0,3,1
+teb3,2025,9,0,13.93,transfer out lead/pa,0.0,3,1
+teb3,2025,9,0,23.42,v-returns pack,0.0,3,1
+teb3,2025,9,0,12.63,gift-wrap,0.0,3,1
+teb3,2025,9,0,4.94,unrecognizedprocess,0.0,3,1
+teb3,2025,9,0,2.41,custom packaging,0.0,3,1
+teb3,2025,10,2,3281.68,stow to prime,6.09443943346091,1,1
+teb3,2025,10,2,1546.99,ic-qa-cs,12.928331792707128,1,1
+teb3,2025,10,2,692.55,each transfer in,28.87878131542849,1,1
+teb3,2025,10,1,1251.07,fluid load,7.993157856874515,4,0
+teb3,2025,10,1,996.32,each-receive,10.036935924201059,4,0
+teb3,2025,10,1,395.68,transfer in dock,25.272947836635666,4,0
+teb3,2025,10,1,94.61,transfer out pick,105.6970721911003,4,0
+teb3,2025,10,0,7017.34,pick,0.0,8,0
+teb3,2025,10,0,2951.22,admin/hr/it,0.0,8,0
+teb3,2025,10,0,2024.51,pack singles,0.0,8,0
+teb3,2025,10,0,1646.62,container build,0.0,8,0
+teb3,2025,10,0,1107.06,rsr support,0.0,8,0
+teb3,2025,10,0,702.86,,0.0,8,0
+teb3,2025,10,0,600.78,transfer out,0.0,8,0
+teb3,2025,10,0,650.93,pick support,0.0,8,0
+teb3,2025,10,0,658.66,pack support,0.0,8,0
+teb3,2025,10,0,656.67,receive dock,0.0,8,0
+teb3,2025,10,0,471.68,receive-support,0.0,8,0
+teb3,2025,10,0,530.39,pack multis,0.0,8,0
+teb3,2025,10,0,428.56,ib problem solve,0.0,8,0
+teb3,2025,10,0,242.44,transfer out dock,0.0,8,0
+teb3,2025,10,0,274.32,outbound lead/pa,0.0,8,0
+teb3,2025,10,0,294.67,container load,0.0,8,0
+teb3,2025,10,0,195.54,ship dock support,0.0,8,0
+teb3,2025,10,0,110.77,stow to prime spt,0.0,8,0
+teb3,2025,10,0,291.36,container move,0.0,8,0
+teb3,2025,10,0,386.7,sort-batch,0.0,8,0
+teb3,2025,10,0,177.42,transfer in support,0.0,8,0
+teb3,2025,10,0,179.71,ob problem solve,0.0,8,0
+teb3,2025,10,0,130.01,inbound lead/pa,0.0,8,0
+teb3,2025,10,0,79.13,c-returns processed,0.0,8,0
+teb3,2025,10,0,119.52,ship dock lead/pa,0.0,8,0
+teb3,2025,10,0,94.67,v-returns pick,0.0,8,0
+teb3,2025,10,0,95.61,c-returns support,0.0,8,0
+teb3,2025,10,0,24.57,pallet transfer in,0.0,8,0
+teb3,2025,10,0,74.81,pallet-receive,0.0,8,0
+teb3,2025,10,0,79.6,lp-receive,0.0,8,0
+teb3,2025,10,0,46.61,v-returns support,0.0,8,0
+teb3,2025,10,0,37.7,box on demand,0.0,8,0
+teb3,2025,10,0,95.43,prep recorder,0.0,8,0
+teb3,2025,10,0,52.79,cubiscan,0.0,8,0
+teb3,2025,10,0,129.96,whd grading support,0.0,8,0
+teb3,2025,10,0,65.92,whd grading,0.0,8,0
+teb3,2025,10,0,0.62,on boarding,0.0,8,0
+teb3,2025,10,0,19.6,transfer out lead/pa,0.0,8,0
+teb3,2025,10,0,16.34,v-returns pack,0.0,8,0
+teb3,2025,10,0,32.04,gift-wrap,0.0,8,0
+teb3,2025,10,0,2.74,unrecognizedprocess,0.0,8,0
+teb3,2025,10,0,2.26,custom packaging,0.0,8,0
+teb3,2025,11,2,6766.78,pick,2.955615521710474,1,1
+teb3,2025,11,2,2655.75,stow to prime,7.53082933258025,1,1
+teb3,2025,11,1,2191.77,ic-qa-cs,4.56252252745498,3,1
+teb3,2025,11,1,,ship dock,,3,1
+teb3,2025,11,0,3224.91,admin/hr/it,0.0,5,0
+teb3,2025,11,0,2081.71,pack singles,0.0,5,0
+teb3,2025,11,0,1634.26,container build,0.0,5,0
+teb3,2025,11,0,717.18,rsr support,0.0,5,0
+teb3,2025,11,0,1266.99,fluid load,0.0,5,0
+teb3,2025,11,0,824.57,each-receive,0.0,5,0
+teb3,2025,11,0,737.67,,0.0,5,0
+teb3,2025,11,0,652.88,transfer out,0.0,5,0
+teb3,2025,11,0,204.05,each transfer in,0.0,5,0
+teb3,2025,11,0,675.92,pick support,0.0,5,0
+teb3,2025,11,0,618.4,pack support,0.0,5,0
+teb3,2025,11,0,349.9,receive dock,0.0,5,0
+teb3,2025,11,0,261.3,receive-support,0.0,5,0
+teb3,2025,11,0,497.81,pack multis,0.0,5,0
+teb3,2025,11,0,293.36,ib problem solve,0.0,5,0
+teb3,2025,11,0,88.36,transfer in dock,0.0,5,0
+teb3,2025,11,0,402.49,transfer out dock,0.0,5,0
+teb3,2025,11,0,290.93,outbound lead/pa,0.0,5,0
+teb3,2025,11,0,320.34,container load,0.0,5,0
+teb3,2025,11,0,116.76,ship dock support,0.0,5,0
+teb3,2025,11,0,62.29,stow to prime spt,0.0,5,0
+teb3,2025,11,0,295.36,container move,0.0,5,0
+teb3,2025,11,0,362.79,sort-batch,0.0,5,0
+teb3,2025,11,0,54.08,transfer in support,0.0,5,0
+teb3,2025,11,0,148.43,ob problem solve,0.0,5,0
+teb3,2025,11,0,109.33,inbound lead/pa,0.0,5,0
+teb3,2025,11,0,184.07,c-returns processed,0.0,5,0
+teb3,2025,11,0,124.06,ship dock lead/pa,0.0,5,0
+teb3,2025,11,0,43.31,v-returns pick,0.0,5,0
+teb3,2025,11,0,161.59,c-returns support,0.0,5,0
+teb3,2025,11,0,7.66,pallet transfer in,0.0,5,0
+teb3,2025,11,0,50.25,pallet-receive,0.0,5,0
+teb3,2025,11,0,58.98,lp-receive,0.0,5,0
+teb3,2025,11,0,155.56,non fc controllable,0.0,5,0
+teb3,2025,11,0,25.07,v-returns support,0.0,5,0
+teb3,2025,11,0,45.39,box on demand,0.0,5,0
+teb3,2025,11,0,59.14,prep recorder,0.0,5,0
+teb3,2025,11,0,102.54,cubiscan,0.0,5,0
+teb3,2025,11,0,144.26,whd grading support,0.0,5,0
+teb3,2025,11,0,33.66,whd grading,0.0,5,0
+teb3,2025,11,0,69.36,transfer out lead/pa,0.0,5,0
+teb3,2025,11,0,11.77,v-returns pack,0.0,5,0
+teb3,2025,11,0,22.27,gift-wrap,0.0,5,0
+teb3,2025,11,0,1.39,unrecognizedprocess,0.0,5,0
+teb3,2025,11,0,1.36,custom packaging,0.0,5,0
+teb3,2025,11,0,0.61,v-returns rvr,0.0,5,0
+teb3,2025,12,2,6674.65,pick,2.9964117968732444,1,1
+teb3,2025,12,2,85.92,c-returns processed,232.77467411545624,1,1
+teb3,2025,12,1,1853.22,stow to prime,5.396013425281402,3,1
+teb3,2025,12,1,404.31,rsr support,24.733496574410726,3,1
+teb3,2025,12,0,4365.18,admin/hr/it,0.0,5,0
+teb3,2025,12,0,2193.39,pack singles,0.0,5,0
+teb3,2025,12,0,2024.94,ic-qa-cs,0.0,5,0
+teb3,2025,12,0,1595.13,container build,0.0,5,0
+teb3,2025,12,0,1090.28,fluid load,0.0,5,0
+teb3,2025,12,0,659.83,each-receive,0.0,5,0
+teb3,2025,12,0,784.45,,0.0,5,0
+teb3,2025,12,0,503.29,transfer out,0.0,5,0
+teb3,2025,12,0,126.63,each transfer in,0.0,5,0
+teb3,2025,12,0,1072.3,pick support,0.0,5,0
+teb3,2025,12,0,655.36,pack support,0.0,5,0
+teb3,2025,12,0,134.09,receive dock,0.0,5,0
+teb3,2025,12,0,236.81,receive-support,0.0,5,0
+teb3,2025,12,0,471.05,pack multis,0.0,5,0
+teb3,2025,12,0,294.28,ib problem solve,0.0,5,0
+teb3,2025,12,0,58.64,transfer in dock,0.0,5,0
+teb3,2025,12,0,148.57,transfer out dock,0.0,5,0
+teb3,2025,12,0,271.75,outbound lead/pa,0.0,5,0
+teb3,2025,12,0,350.87,container load,0.0,5,0
+teb3,2025,12,0,217.8,ship dock support,0.0,5,0
+teb3,2025,12,0,99.24,stow to prime spt,0.0,5,0
+teb3,2025,12,0,214.98,container move,0.0,5,0
+teb3,2025,12,0,332.19,sort-batch,0.0,5,0
+teb3,2025,12,0,11.81,transfer in support,0.0,5,0
+teb3,2025,12,0,177.14,ob problem solve,0.0,5,0
+teb3,2025,12,0,73.63,inbound lead/pa,0.0,5,0
+teb3,2025,12,0,106.14,ship dock lead/pa,0.0,5,0
+teb3,2025,12,0,53.72,v-returns pick,0.0,5,0
+teb3,2025,12,0,101.95,c-returns support,0.0,5,0
+teb3,2025,12,0,46.8,pallet-receive,0.0,5,0
+teb3,2025,12,0,52.08,lp-receive,0.0,5,0
+teb3,2025,12,0,42.86,v-returns support,0.0,5,0
+teb3,2025,12,0,28.91,box on demand,0.0,5,0
+teb3,2025,12,0,74.97,prep recorder,0.0,5,0
+teb3,2025,12,0,73.39,cubiscan,0.0,5,0
+teb3,2025,12,0,139.99,whd grading support,0.0,5,0
+teb3,2025,12,0,37.02,whd grading,0.0,5,0
+teb3,2025,12,0,173.24,on boarding,0.0,5,0
+teb3,2025,12,0,23.98,transfer out lead/pa,0.0,5,0
+teb3,2025,12,0,6.43,v-returns pack,0.0,5,0
+teb3,2025,12,0,17.84,gift-wrap,0.0,5,0
+teb3,2025,12,0,10.7,unrecognizedprocess,0.0,5,0
+teb3,2025,12,0,1.89,custom packaging,0.0,5,0
+teb3,2025,13,1,6656.25,pick,1.5023474178403755,1,1
+teb3,2025,13,1,649.51,pack support,15.396221767178334,1,1
+teb3,2025,13,0,5162.7,admin/hr/it,0.0,3,1
+teb3,2025,13,0,1173.12,stow to prime,0.0,3,1
+teb3,2025,13,0,2369.07,pack singles,0.0,3,1
+teb3,2025,13,0,1738.14,ic-qa-cs,0.0,3,1
+teb3,2025,13,0,1588.03,container build,0.0,3,1
+teb3,2025,13,0,220.04,rsr support,0.0,3,1
+teb3,2025,13,0,1174.52,fluid load,0.0,3,1
+teb3,2025,13,0,579.53,each-receive,0.0,3,1
+teb3,2025,13,0,537.51,,0.0,3,1
+teb3,2025,13,0,445.06,transfer out,0.0,3,1
+teb3,2025,13,0,917.52,pick support,0.0,3,1
+teb3,2025,13,0,118.5,receive dock,0.0,3,1
+teb3,2025,13,0,151.0,receive-support,0.0,3,1
+teb3,2025,13,0,388.05,pack multis,0.0,3,1
+teb3,2025,13,0,254.99,ib problem solve,0.0,3,1
+teb3,2025,13,0,133.7,transfer out dock,0.0,3,1
+teb3,2025,13,0,297.95,outbound lead/pa,0.0,3,1
+teb3,2025,13,0,392.78,container load,0.0,3,1
+teb3,2025,13,0,207.54,ship dock support,0.0,3,1
+teb3,2025,13,0,10.19,stow to prime spt,0.0,3,1
+teb3,2025,13,0,166.71,container move,0.0,3,1
+teb3,2025,13,0,289.84,sort-batch,0.0,3,1
+teb3,2025,13,0,171.75,ob problem solve,0.0,3,1
+teb3,2025,13,0,4.5,inbound lead/pa,0.0,3,1
+teb3,2025,13,0,60.03,c-returns processed,0.0,3,1
+teb3,2025,13,0,140.5,ship dock lead/pa,0.0,3,1
+teb3,2025,13,0,72.14,v-returns pick,0.0,3,1
+teb3,2025,13,0,31.14,c-returns support,0.0,3,1
+teb3,2025,13,0,44.57,pallet-receive,0.0,3,1
+teb3,2025,13,0,39.24,lp-receive,0.0,3,1
+teb3,2025,13,0,190.68,non fc controllable,0.0,3,1
+teb3,2025,13,0,42.7,v-returns support,0.0,3,1
+teb3,2025,13,0,30.87,prep recorder,0.0,3,1
+teb3,2025,13,0,41.06,cubiscan,0.0,3,1
+teb3,2025,13,0,45.93,whd grading support,0.0,3,1
+teb3,2025,13,0,28.27,whd grading,0.0,3,1
+teb3,2025,13,0,103.65,on boarding,0.0,3,1
+teb3,2025,13,0,17.94,transfer out lead/pa,0.0,3,1
+teb3,2025,13,0,8.52,v-returns pack,0.0,3,1
+teb3,2025,13,0,10.01,gift-wrap,0.0,3,1
+teb3,2025,13,0,5.75,unrecognizedprocess,0.0,3,1
+teb3,2025,13,0,1.73,custom packaging,0.0,3,1
+teb3,2025,13,0,0.51,v-returns rvr,0.0,3,1
+teb3,2025,14,2,6900.18,pick,2.8984751122434487,1,1
+teb3,2025,14,0,4288.92,admin/hr/it,0.0,2,1
+teb3,2025,14,0,1489.12,stow to prime,0.0,2,1
+teb3,2025,14,0,2429.94,pack singles,0.0,2,1
+teb3,2025,14,0,1692.26,ic-qa-cs,0.0,2,1
+teb3,2025,14,0,1701.31,container build,0.0,2,1
+teb3,2025,14,0,391.8,rsr support,0.0,2,1
+teb3,2025,14,0,1195.42,fluid load,0.0,2,1
+teb3,2025,14,0,757.87,each-receive,0.0,2,1
+teb3,2025,14,0,534.94,,0.0,2,1
+teb3,2025,14,0,473.58,transfer out,0.0,2,1
+teb3,2025,14,0,1401.35,pick support,0.0,2,1
+teb3,2025,14,0,656.22,pack support,0.0,2,1
+teb3,2025,14,0,319.03,receive dock,0.0,2,1
+teb3,2025,14,0,434.54,receive-support,0.0,2,1
+teb3,2025,14,0,428.21,pack multis,0.0,2,1
+teb3,2025,14,0,261.5,ib problem solve,0.0,2,1
+teb3,2025,14,0,46.09,transfer out dock,0.0,2,1
+teb3,2025,14,0,302.59,outbound lead/pa,0.0,2,1
+teb3,2025,14,0,448.13,container load,0.0,2,1
+teb3,2025,14,0,250.95,ship dock support,0.0,2,1
+teb3,2025,14,0,92.76,stow to prime spt,0.0,2,1
+teb3,2025,14,0,175.7,container move,0.0,2,1
+teb3,2025,14,0,308.72,sort-batch,0.0,2,1
+teb3,2025,14,0,0.0,transfer in support,,2,1
+teb3,2025,14,0,158.74,ob problem solve,0.0,2,1
+teb3,2025,14,0,60.97,inbound lead/pa,0.0,2,1
+teb3,2025,14,0,95.33,c-returns processed,0.0,2,1
+teb3,2025,14,0,119.11,ship dock lead/pa,0.0,2,1
+teb3,2025,14,0,88.82,v-returns pick,0.0,2,1
+teb3,2025,14,0,58.63,c-returns support,0.0,2,1
+teb3,2025,14,0,40.65,pallet-receive,0.0,2,1
+teb3,2025,14,0,67.68,lp-receive,0.0,2,1
+teb3,2025,14,0,63.85,v-returns support,0.0,2,1
+teb3,2025,14,0,28.81,box on demand,0.0,2,1
+teb3,2025,14,0,37.5,prep recorder,0.0,2,1
+teb3,2025,14,0,76.68,cubiscan,0.0,2,1
+teb3,2025,14,0,18.22,whd grading support,0.0,2,1
+teb3,2025,14,0,47.5,whd grading,0.0,2,1
+teb3,2025,14,0,232.55,on boarding,0.0,2,1
+teb3,2025,14,0,24.08,transfer out lead/pa,0.0,2,1
+teb3,2025,14,0,11.82,v-returns pack,0.0,2,1
+teb3,2025,14,0,11.3,gift-wrap,0.0,2,1
+teb3,2025,14,0,4.81,unrecognizedprocess,0.0,2,1
+teb3,2025,14,0,1.29,custom packaging,0.0,2,1
+teb3,2025,14,0,0.02,v-returns rvr,0.0,2,1
+teb3,2025,15,1,2478.14,pack singles,4.035284527912063,1,1
+teb3,2025,15,0,6925.42,pick,0.0,2,1
+teb3,2025,15,0,3557.59,admin/hr/it,0.0,2,1
+teb3,2025,15,0,1530.57,stow to prime,0.0,2,1
+teb3,2025,15,0,1928.08,ic-qa-cs,0.0,2,1
+teb3,2025,15,0,1753.0,container build,0.0,2,1
+teb3,2025,15,0,479.69,rsr support,0.0,2,1
+teb3,2025,15,0,1107.06,fluid load,0.0,2,1
+teb3,2025,15,0,665.48,each-receive,0.0,2,1
+teb3,2025,15,0,492.91,,0.0,2,1
+teb3,2025,15,0,491.18,transfer out,0.0,2,1
+teb3,2025,15,0,36.48,each transfer in,0.0,2,1
+teb3,2025,15,0,1255.65,pick support,0.0,2,1
+teb3,2025,15,0,590.29,pack support,0.0,2,1
+teb3,2025,15,0,292.14,receive dock,0.0,2,1
+teb3,2025,15,0,331.7,receive-support,0.0,2,1
+teb3,2025,15,0,385.13,pack multis,0.0,2,1
+teb3,2025,15,0,250.59,ib problem solve,0.0,2,1
+teb3,2025,15,0,21.44,transfer in dock,0.0,2,1
+teb3,2025,15,0,175.23,transfer out dock,0.0,2,1
+teb3,2025,15,0,351.23,outbound lead/pa,0.0,2,1
+teb3,2025,15,0,397.34,container load,0.0,2,1
+teb3,2025,15,0,310.37,ship dock support,0.0,2,1
+teb3,2025,15,0,56.41,stow to prime spt,0.0,2,1
+teb3,2025,15,0,197.81,container move,0.0,2,1
+teb3,2025,15,0,261.95,sort-batch,0.0,2,1
+teb3,2025,15,0,0.38,transfer in support,0.0,2,1
+teb3,2025,15,0,161.27,ob problem solve,0.0,2,1
+teb3,2025,15,0,30.32,inbound lead/pa,0.0,2,1
+teb3,2025,15,0,84.71,c-returns processed,0.0,2,1
+teb3,2025,15,0,137.52,ship dock lead/pa,0.0,2,1
+teb3,2025,15,0,65.27,v-returns pick,0.0,2,1
+teb3,2025,15,0,54.05,c-returns support,0.0,2,1
+teb3,2025,15,0,41.41,pallet-receive,0.0,2,1
+teb3,2025,15,0,53.29,lp-receive,0.0,2,1
+teb3,2025,15,0,122.62,non fc controllable,0.0,2,1
+teb3,2025,15,0,35.0,v-returns support,0.0,2,1
+teb3,2025,15,0,65.51,box on demand,0.0,2,1
+teb3,2025,15,0,45.47,prep recorder,0.0,2,1
+teb3,2025,15,0,87.94,cubiscan,0.0,2,1
+teb3,2025,15,0,7.17,whd grading support,0.0,2,1
+teb3,2025,15,0,32.87,whd grading,0.0,2,1
+teb3,2025,15,0,501.29,on boarding,0.0,2,1
+teb3,2025,15,0,41.12,transfer out lead/pa,0.0,2,1
+teb3,2025,15,0,13.14,v-returns pack,0.0,2,1
+teb3,2025,15,0,5.92,gift-wrap,0.0,2,1
+teb3,2025,15,0,10.95,unrecognizedprocess,0.0,2,1
+teb3,2025,15,0,4.06,custom packaging,0.0,2,1
+teb3,2025,15,0,1.35,v-returns rvr,0.0,2,1
+teb3,2025,16,2,6259.87,pick,3.194954527809683,1,1
+teb3,2025,16,1,1461.75,stow to prime,6.841115101761587,2,1
+teb3,2025,16,1,1090.89,fluid load,9.166827086140673,2,1
+teb3,2025,16,0,3630.81,admin/hr/it,0.0,4,0
+teb3,2025,16,0,2141.9,pack singles,0.0,4,0
+teb3,2025,16,0,1781.25,ic-qa-cs,0.0,4,0
+teb3,2025,16,0,1623.97,container build,0.0,4,0
+teb3,2025,16,0,585.19,rsr support,0.0,4,0
+teb3,2025,16,0,713.0,each-receive,0.0,4,0
+teb3,2025,16,0,749.22,,0.0,4,0
+teb3,2025,16,0,506.07,transfer out,0.0,4,0
+teb3,2025,16,0,234.68,each transfer in,0.0,4,0
+teb3,2025,16,0,1345.17,pick support,0.0,4,0
+teb3,2025,16,0,566.74,pack support,0.0,4,0
+teb3,2025,16,0,184.77,receive dock,0.0,4,0
+teb3,2025,16,0,266.7,receive-support,0.0,4,0
+teb3,2025,16,0,315.56,pack multis,0.0,4,0
+teb3,2025,16,0,273.53,ib problem solve,0.0,4,0
+teb3,2025,16,0,150.98,transfer in dock,0.0,4,0
+teb3,2025,16,0,337.27,transfer out dock,0.0,4,0
+teb3,2025,16,0,373.19,outbound lead/pa,0.0,4,0
+teb3,2025,16,0,366.57,container load,0.0,4,0
+teb3,2025,16,0,243.75,ship dock support,0.0,4,0
+teb3,2025,16,0,190.51,stow to prime spt,0.0,4,0
+teb3,2025,16,0,180.36,container move,0.0,4,0
+teb3,2025,16,0,208.11,sort-batch,0.0,4,0
+teb3,2025,16,0,48.18,transfer in support,0.0,4,0
+teb3,2025,16,0,169.17,ob problem solve,0.0,4,0
+teb3,2025,16,0,27.04,inbound lead/pa,0.0,4,0
+teb3,2025,16,0,96.81,c-returns processed,0.0,4,0
+teb3,2025,16,0,115.7,ship dock lead/pa,0.0,4,0
+teb3,2025,16,0,86.69,v-returns pick,0.0,4,0
+teb3,2025,16,0,72.13,c-returns support,0.0,4,0
+teb3,2025,16,0,30.46,pallet transfer in,0.0,4,0
+teb3,2025,16,0,56.56,pallet-receive,0.0,4,0
+teb3,2025,16,0,55.81,lp-receive,0.0,4,0
+teb3,2025,16,0,317.54,non fc controllable,0.0,4,0
+teb3,2025,16,0,70.11,v-returns support,0.0,4,0
+teb3,2025,16,0,34.4,box on demand,0.0,4,0
+teb3,2025,16,0,49.96,prep recorder,0.0,4,0
+teb3,2025,16,0,51.84,cubiscan,0.0,4,0
+teb3,2025,16,0,2.13,whd grading support,0.0,4,0
+teb3,2025,16,0,21.48,whd grading,0.0,4,0
+teb3,2025,16,0,281.33,on boarding,0.0,4,0
+teb3,2025,16,0,11.78,transfer out lead/pa,0.0,4,0
+teb3,2025,16,0,14.92,v-returns pack,0.0,4,0
+teb3,2025,16,0,8.16,gift-wrap,0.0,4,0
+teb3,2025,16,0,5.87,unrecognizedprocess,0.0,4,0
+teb3,2025,16,0,0.65,custom packaging,0.0,4,0
+teb3,2025,16,0,0.11,v-returns rvr,0.0,4,0
+teb3,2025,17,1,2348.51,pack singles,4.258018914120016,1,1
+teb3,2025,17,0,6972.47,pick,0.0,2,1
+teb3,2025,17,0,3307.82,admin/hr/it,0.0,2,1
+teb3,2025,17,0,1341.05,stow to prime,0.0,2,1
+teb3,2025,17,0,2304.32,ic-qa-cs,0.0,2,1
+teb3,2025,17,0,1676.86,container build,0.0,2,1
+teb3,2025,17,0,678.81,rsr support,0.0,2,1
+teb3,2025,17,0,874.41,fluid load,0.0,2,1
+teb3,2025,17,0,642.45,each-receive,0.0,2,1
+teb3,2025,17,0,593.18,,0.0,2,1
+teb3,2025,17,0,501.65,transfer out,0.0,2,1
+teb3,2025,17,0,481.53,each transfer in,0.0,2,1
+teb3,2025,17,0,856.59,pick support,0.0,2,1
+teb3,2025,17,0,594.35,pack support,0.0,2,1
+teb3,2025,17,0,162.65,receive dock,0.0,2,1
+teb3,2025,17,0,215.53,receive-support,0.0,2,1
+teb3,2025,17,0,318.05,pack multis,0.0,2,1
+teb3,2025,17,0,230.37,ib problem solve,0.0,2,1
+teb3,2025,17,0,289.39,transfer in dock,0.0,2,1
+teb3,2025,17,0,495.85,transfer out dock,0.0,2,1
+teb3,2025,17,0,297.27,outbound lead/pa,0.0,2,1
+teb3,2025,17,0,385.97,container load,0.0,2,1
+teb3,2025,17,0,213.83,ship dock support,0.0,2,1
+teb3,2025,17,0,489.71,stow to prime spt,0.0,2,1
+teb3,2025,17,0,208.09,container move,0.0,2,1
+teb3,2025,17,0,191.99,sort-batch,0.0,2,1
+teb3,2025,17,0,225.18,transfer in support,0.0,2,1
+teb3,2025,17,0,172.64,ob problem solve,0.0,2,1
+teb3,2025,17,0,63.32,inbound lead/pa,0.0,2,1
+teb3,2025,17,0,44.41,c-returns processed,0.0,2,1
+teb3,2025,17,0,138.79,ship dock lead/pa,0.0,2,1
+teb3,2025,17,0,108.53,v-returns pick,0.0,2,1
+teb3,2025,17,0,35.35,c-returns support,0.0,2,1
+teb3,2025,17,0,178.63,pallet transfer in,0.0,2,1
+teb3,2025,17,0,42.0,pallet-receive,0.0,2,1
+teb3,2025,17,0,62.43,lp-receive,0.0,2,1
+teb3,2025,17,0,294.55,non fc controllable,0.0,2,1
+teb3,2025,17,0,45.81,v-returns support,0.0,2,1
+teb3,2025,17,0,51.43,box on demand,0.0,2,1
+teb3,2025,17,0,52.68,prep recorder,0.0,2,1
+teb3,2025,17,0,68.69,cubiscan,0.0,2,1
+teb3,2025,17,0,26.11,whd grading support,0.0,2,1
+teb3,2025,17,0,68.96,whd grading,0.0,2,1
+teb3,2025,17,0,280.44,on boarding,0.0,2,1
+teb3,2025,17,0,14.56,transfer out lead/pa,0.0,2,1
+teb3,2025,17,0,10.52,v-returns pack,0.0,2,1
+teb3,2025,17,0,6.02,gift-wrap,0.0,2,1
+teb3,2025,17,0,3.45,unrecognizedprocess,0.0,2,1
+teb3,2025,17,0,0.47,custom packaging,0.0,2,1
+teb3,2025,17,0,15.33,c-returns stow,0.0,2,1
+teb3,2025,17,0,0.0,v-returns rvr,,2,1
+teb3,2025,18,1,7428.24,pick,1.3462139080051265,1,1
+teb3,2025,18,1,2300.16,stow to prime,4.347523650528659,1,1
+teb3,2025,18,1,2483.75,pack singles,4.026170105686965,1,1
+teb3,2025,18,1,123.14,stow to prime spt,81.20838070488874,1,1
+teb3,2025,18,0,3320.91,admin/hr/it,0.0,5,0
+teb3,2025,18,0,2807.17,ic-qa-cs,0.0,5,0
+teb3,2025,18,0,1773.34,container build,0.0,5,0
+teb3,2025,18,0,1227.83,rsr support,0.0,5,0
+teb3,2025,18,0,1152.76,fluid load,0.0,5,0
+teb3,2025,18,0,1001.49,each-receive,0.0,5,0
+teb3,2025,18,0,530.29,,0.0,5,0
+teb3,2025,18,0,391.54,transfer out,0.0,5,0
+teb3,2025,18,0,924.49,each transfer in,0.0,5,0
+teb3,2025,18,0,624.52,pick support,0.0,5,0
+teb3,2025,18,0,640.73,pack support,0.0,5,0
+teb3,2025,18,0,358.37,receive dock,0.0,5,0
+teb3,2025,18,0,352.09,receive-support,0.0,5,0
+teb3,2025,18,0,326.12,pack multis,0.0,5,0
+teb3,2025,18,0,383.32,ib problem solve,0.0,5,0
+teb3,2025,18,0,590.35,transfer in dock,0.0,5,0
+teb3,2025,18,0,377.76,transfer out dock,0.0,5,0
+teb3,2025,18,0,391.76,outbound lead/pa,0.0,5,0
+teb3,2025,18,0,385.75,container load,0.0,5,0
+teb3,2025,18,0,201.24,ship dock support,0.0,5,0
+teb3,2025,18,0,218.54,container move,0.0,5,0
+teb3,2025,18,0,211.18,sort-batch,0.0,5,0
+teb3,2025,18,0,554.64,transfer in support,0.0,5,0
+teb3,2025,18,0,222.97,ob problem solve,0.0,5,0
+teb3,2025,18,0,116.92,inbound lead/pa,0.0,5,0
+teb3,2025,18,0,87.92,c-returns processed,0.0,5,0
+teb3,2025,18,0,140.26,ship dock lead/pa,0.0,5,0
+teb3,2025,18,0,143.07,v-returns pick,0.0,5,0
+teb3,2025,18,0,105.59,c-returns support,0.0,5,0
+teb3,2025,18,0,300.6,pallet transfer in,0.0,5,0
+teb3,2025,18,0,49.56,pallet-receive,0.0,5,0
+teb3,2025,18,0,91.16,lp-receive,0.0,5,0
+teb3,2025,18,0,50.87,v-returns support,0.0,5,0
+teb3,2025,18,0,52.92,box on demand,0.0,5,0
+teb3,2025,18,0,53.68,prep recorder,0.0,5,0
+teb3,2025,18,0,112.04,cubiscan,0.0,5,0
+teb3,2025,18,0,23.13,whd grading support,0.0,5,0
+teb3,2025,18,0,61.68,whd grading,0.0,5,0
+teb3,2025,18,0,10.04,transfer out lead/pa,0.0,5,0
+teb3,2025,18,0,18.37,v-returns pack,0.0,5,0
+teb3,2025,18,0,8.49,gift-wrap,0.0,5,0
+teb3,2025,18,0,12.31,unrecognizedprocess,0.0,5,0
+teb3,2025,18,0,0.91,custom packaging,0.0,5,0
+teb3,2025,18,0,0.0,v-returns rvr,,5,0
+teb3,2025,19,2,2681.71,pack singles,7.4579279638737965,1,1
+teb3,2025,19,1,1869.72,stow to prime,5.348394411997519,2,1
+teb3,2025,19,1,370.97,pack multis,26.95635765695339,2,1
+teb3,2025,19,0,7336.93,pick,0.0,4,0
+teb3,2025,19,0,3079.31,admin/hr/it,0.0,4,0
+teb3,2025,19,0,2596.47,ic-qa-cs,0.0,4,0
+teb3,2025,19,0,1867.4,container build,0.0,4,0
+teb3,2025,19,0,1058.53,rsr support,0.0,4,0
+teb3,2025,19,0,1146.71,fluid load,0.0,4,0
+teb3,2025,19,0,615.51,each-receive,0.0,4,0
+teb3,2025,19,0,528.78,,0.0,4,0
+teb3,2025,19,0,309.12,transfer out,0.0,4,0
+teb3,2025,19,0,1238.66,each transfer in,0.0,4,0
+teb3,2025,19,0,487.89,pick support,0.0,4,0
+teb3,2025,19,0,648.9,pack support,0.0,4,0
+teb3,2025,19,0,388.89,receive dock,0.0,4,0
+teb3,2025,19,0,282.53,receive-support,0.0,4,0
+teb3,2025,19,0,417.82,ib problem solve,0.0,4,0
+teb3,2025,19,0,822.29,transfer in dock,0.0,4,0
+teb3,2025,19,0,410.41,transfer out dock,0.0,4,0
+teb3,2025,19,0,386.03,outbound lead/pa,0.0,4,0
+teb3,2025,19,0,412.18,container load,0.0,4,0
+teb3,2025,19,0,269.29,ship dock support,0.0,4,0
+teb3,2025,19,0,116.73,stow to prime spt,0.0,4,0
+teb3,2025,19,0,207.21,container move,0.0,4,0
+teb3,2025,19,0,177.38,sort-batch,0.0,4,0
+teb3,2025,19,0,522.42,transfer in support,0.0,4,0
+teb3,2025,19,0,227.73,ob problem solve,0.0,4,0
+teb3,2025,19,0,111.29,inbound lead/pa,0.0,4,0
+teb3,2025,19,0,90.3,c-returns processed,0.0,4,0
+teb3,2025,19,0,117.92,ship dock lead/pa,0.0,4,0
+teb3,2025,19,0,116.56,v-returns pick,0.0,4,0
+teb3,2025,19,0,105.73,c-returns support,0.0,4,0
+teb3,2025,19,0,259.16,pallet transfer in,0.0,4,0
+teb3,2025,19,0,61.4,pallet-receive,0.0,4,0
+teb3,2025,19,0,58.9,lp-receive,0.0,4,0
+teb3,2025,19,0,54.33,v-returns support,0.0,4,0
+teb3,2025,19,0,38.71,box on demand,0.0,4,0
+teb3,2025,19,0,29.38,prep recorder,0.0,4,0
+teb3,2025,19,0,76.53,cubiscan,0.0,4,0
+teb3,2025,19,0,14.28,whd grading support,0.0,4,0
+teb3,2025,19,0,62.04,whd grading,0.0,4,0
+teb3,2025,19,0,43.4,transfer out lead/pa,0.0,4,0
+teb3,2025,19,0,19.81,v-returns pack,0.0,4,0
+teb3,2025,19,0,9.18,gift-wrap,0.0,4,0
+teb3,2025,19,0,5.22,unrecognizedprocess,0.0,4,0
+teb3,2025,19,0,1.4,custom packaging,0.0,4,0
+teb3,2025,19,0,2.8,c-returns stow,0.0,4,0
+teb3,2025,19,0,0.4,v-returns rvr,0.0,4,0
+teb3,2025,20,1,138.63,stow to prime spt,72.13445863088798,1,1
+teb3,2025,20,1,111.49,transfer out pick,89.69414297246391,1,1
+teb3,2025,20,0,6804.29,pick,0.0,3,1
+teb3,2025,20,0,2956.05,admin/hr/it,0.0,3,1
+teb3,2025,20,0,2554.81,stow to prime,0.0,3,1
+teb3,2025,20,0,2526.2,pack singles,0.0,3,1
+teb3,2025,20,0,2352.87,ic-qa-cs,0.0,3,1
+teb3,2025,20,0,1722.91,container build,0.0,3,1
+teb3,2025,20,0,1184.05,rsr support,0.0,3,1
+teb3,2025,20,0,1055.48,fluid load,0.0,3,1
+teb3,2025,20,0,971.1,each-receive,0.0,3,1
+teb3,2025,20,0,584.46,,0.0,3,1
+teb3,2025,20,0,435.81,transfer out,0.0,3,1
+teb3,2025,20,0,1031.18,each transfer in,0.0,3,1
+teb3,2025,20,0,501.12,pick support,0.0,3,1
+teb3,2025,20,0,684.63,pack support,0.0,3,1
+teb3,2025,20,0,479.97,receive dock,0.0,3,1
+teb3,2025,20,0,369.71,receive-support,0.0,3,1
+teb3,2025,20,0,365.58,pack multis,0.0,3,1
+teb3,2025,20,0,404.77,ib problem solve,0.0,3,1
+teb3,2025,20,0,698.43,transfer in dock,0.0,3,1
+teb3,2025,20,0,278.77,transfer out dock,0.0,3,1
+teb3,2025,20,0,350.42,outbound lead/pa,0.0,3,1
+teb3,2025,20,0,379.56,container load,0.0,3,1
+teb3,2025,20,0,235.42,ship dock support,0.0,3,1
+teb3,2025,20,0,188.37,container move,0.0,3,1
+teb3,2025,20,0,111.74,sort-batch,0.0,3,1
+teb3,2025,20,0,486.9,transfer in support,0.0,3,1
+teb3,2025,20,0,231.61,ob problem solve,0.0,3,1
+teb3,2025,20,0,160.9,inbound lead/pa,0.0,3,1
+teb3,2025,20,0,122.2,c-returns processed,0.0,3,1
+teb3,2025,20,0,150.3,ship dock lead/pa,0.0,3,1
+teb3,2025,20,0,136.46,v-returns pick,0.0,3,1
+teb3,2025,20,0,137.34,c-returns support,0.0,3,1
+teb3,2025,20,0,299.81,pallet transfer in,0.0,3,1
+teb3,2025,20,0,109.52,pallet-receive,0.0,3,1
+teb3,2025,20,0,80.33,lp-receive,0.0,3,1
+teb3,2025,20,0,73.16,v-returns support,0.0,3,1
+teb3,2025,20,0,26.8,box on demand,0.0,3,1
+teb3,2025,20,0,57.96,prep recorder,0.0,3,1
+teb3,2025,20,0,72.35,cubiscan,0.0,3,1
+teb3,2025,20,0,17.09,whd grading support,0.0,3,1
+teb3,2025,20,0,59.86,whd grading,0.0,3,1
+teb3,2025,20,0,23.92,transfer out lead/pa,0.0,3,1
+teb3,2025,20,0,14.33,v-returns pack,0.0,3,1
+teb3,2025,20,0,8.59,gift-wrap,0.0,3,1
+teb3,2025,20,0,11.28,unrecognizedprocess,0.0,3,1
+teb3,2025,20,0,0.09,custom packaging,0.0,3,1
+teb3,2025,20,0,1.32,c-returns stow,0.0,3,1
+teb3,2025,21,2,6698.34,pick,2.985814395805528,1,1
+teb3,2025,21,1,128.7,v-returns pick,77.70007770007771,2,1
+teb3,2025,21,0,3000.55,admin/hr/it,0.0,3,1
+teb3,2025,21,0,2878.07,stow to prime,0.0,3,1
+teb3,2025,21,0,2487.13,pack singles,0.0,3,1
+teb3,2025,21,0,2338.35,ic-qa-cs,0.0,3,1
+teb3,2025,21,0,1697.1,container build,0.0,3,1
+teb3,2025,21,0,1349.6,rsr support,0.0,3,1
+teb3,2025,21,0,1070.75,fluid load,0.0,3,1
+teb3,2025,21,0,1059.42,each-receive,0.0,3,1
+teb3,2025,21,0,673.42,,0.0,3,1
+teb3,2025,21,0,504.93,transfer out,0.0,3,1
+teb3,2025,21,0,975.54,each transfer in,0.0,3,1
+teb3,2025,21,0,490.75,pick support,0.0,3,1
+teb3,2025,21,0,638.28,pack support,0.0,3,1
+teb3,2025,21,0,551.24,receive dock,0.0,3,1
+teb3,2025,21,0,430.04,receive-support,0.0,3,1
+teb3,2025,21,0,350.22,pack multis,0.0,3,1
+teb3,2025,21,0,537.45,ib problem solve,0.0,3,1
+teb3,2025,21,0,617.39,transfer in dock,0.0,3,1
+teb3,2025,21,0,215.86,transfer out dock,0.0,3,1
+teb3,2025,21,0,346.54,outbound lead/pa,0.0,3,1
+teb3,2025,21,0,385.03,container load,0.0,3,1
+teb3,2025,21,0,316.38,ship dock support,0.0,3,1
+teb3,2025,21,0,152.33,stow to prime spt,0.0,3,1
+teb3,2025,21,0,200.25,container move,0.0,3,1
+teb3,2025,21,0,109.39,sort-batch,0.0,3,1
+teb3,2025,21,0,536.49,transfer in support,0.0,3,1
+teb3,2025,21,0,201.18,ob problem solve,0.0,3,1
+teb3,2025,21,0,157.78,inbound lead/pa,0.0,3,1
+teb3,2025,21,0,128.4,c-returns processed,0.0,3,1
+teb3,2025,21,0,121.16,ship dock lead/pa,0.0,3,1
+teb3,2025,21,0,76.72,c-returns support,0.0,3,1
+teb3,2025,21,0,324.03,pallet transfer in,0.0,3,1
+teb3,2025,21,0,105.97,pallet-receive,0.0,3,1
+teb3,2025,21,0,102.92,lp-receive,0.0,3,1
+teb3,2025,21,0,106.87,v-returns support,0.0,3,1
+teb3,2025,21,0,49.07,box on demand,0.0,3,1
+teb3,2025,21,0,105.97,prep recorder,0.0,3,1
+teb3,2025,21,0,74.53,cubiscan,0.0,3,1
+teb3,2025,21,0,32.29,whd grading support,0.0,3,1
+teb3,2025,21,0,45.81,whd grading,0.0,3,1
+teb3,2025,21,0,0.89,on boarding,0.0,3,1
+teb3,2025,21,0,2.94,transfer out lead/pa,0.0,3,1
+teb3,2025,21,0,18.2,v-returns pack,0.0,3,1
+teb3,2025,21,0,4.82,gift-wrap,0.0,3,1
+teb3,2025,21,0,9.61,unrecognizedprocess,0.0,3,1
+teb3,2025,21,0,3.09,custom packaging,0.0,3,1
+teb3,2025,21,0,6.6,c-returns stow,0.0,3,1
+teb3,2025,21,0,0.19,v-returns rvr,0.0,3,1
+teb3,2025,22,1,6651.84,pick,1.5033434358012219,1,1
+teb3,2025,22,1,2386.96,stow to prime,4.189429232161411,1,1
+teb3,2025,22,1,1269.56,fluid load,7.876744698950818,1,1
+teb3,2025,22,0,2920.57,admin/hr/it,0.0,4,0
+teb3,2025,22,0,2509.33,pack singles,0.0,4,0
+teb3,2025,22,0,2061.49,ic-qa-cs,0.0,4,0
+teb3,2025,22,0,1771.41,container build,0.0,4,0
+teb3,2025,22,0,1595.2,rsr support,0.0,4,0
+teb3,2025,22,0,803.34,each-receive,0.0,4,0
+teb3,2025,22,0,563.97,,0.0,4,0
+teb3,2025,22,0,524.68,transfer out,0.0,4,0
+teb3,2025,22,0,1288.54,each transfer in,0.0,4,0
+teb3,2025,22,0,546.47,pick support,0.0,4,0
+teb3,2025,22,0,662.15,pack support,0.0,4,0
+teb3,2025,22,0,465.26,receive dock,0.0,4,0
+teb3,2025,22,0,358.35,receive-support,0.0,4,0
+teb3,2025,22,0,377.34,pack multis,0.0,4,0
+teb3,2025,22,0,505.41,ib problem solve,0.0,4,0
+teb3,2025,22,0,863.03,transfer in dock,0.0,4,0
+teb3,2025,22,0,73.08,transfer out dock,0.0,4,0
+teb3,2025,22,0,361.02,outbound lead/pa,0.0,4,0
+teb3,2025,22,0,394.69,container load,0.0,4,0
+teb3,2025,22,0,193.69,ship dock support,0.0,4,0
+teb3,2025,22,0,119.44,stow to prime spt,0.0,4,0
+teb3,2025,22,0,191.31,container move,0.0,4,0
+teb3,2025,22,0,120.48,sort-batch,0.0,4,0
+teb3,2025,22,0,542.57,transfer in support,0.0,4,0
+teb3,2025,22,0,211.96,ob problem solve,0.0,4,0
+teb3,2025,22,0,154.82,inbound lead/pa,0.0,4,0
+teb3,2025,22,0,79.45,c-returns processed,0.0,4,0
+teb3,2025,22,0,113.76,ship dock lead/pa,0.0,4,0
+teb3,2025,22,0,115.51,v-returns pick,0.0,4,0
+teb3,2025,22,0,85.78,c-returns support,0.0,4,0
+teb3,2025,22,0,272.66,pallet transfer in,0.0,4,0
+teb3,2025,22,0,101.59,pallet-receive,0.0,4,0
+teb3,2025,22,0,69.62,lp-receive,0.0,4,0
+teb3,2025,22,0,99.24,v-returns support,0.0,4,0
+teb3,2025,22,0,68.6,box on demand,0.0,4,0
+teb3,2025,22,0,94.83,prep recorder,0.0,4,0
+teb3,2025,22,0,66.59,cubiscan,0.0,4,0
+teb3,2025,22,0,60.93,whd grading support,0.0,4,0
+teb3,2025,22,0,59.56,whd grading,0.0,4,0
+teb3,2025,22,0,30.23,transfer out lead/pa,0.0,4,0
+teb3,2025,22,0,18.59,v-returns pack,0.0,4,0
+teb3,2025,22,0,6.75,gift-wrap,0.0,4,0
+teb3,2025,22,0,3.16,unrecognizedprocess,0.0,4,0
+teb3,2025,22,0,3.7,custom packaging,0.0,4,0
+teb3,2025,23,2,3050.12,stow to prime,6.557119064167967,1,1
+teb3,2025,23,1,6609.33,pick,1.5130126654290224,2,1
+teb3,2025,23,1,583.59,transfer out,17.135317603111773,2,1
+teb3,2025,23,0,2976.98,admin/hr/it,0.0,4,0
+teb3,2025,23,0,2492.52,pack singles,0.0,4,0
+teb3,2025,23,0,2016.24,ic-qa-cs,0.0,4,0
+teb3,2025,23,0,1736.74,container build,0.0,4,0
+teb3,2025,23,0,1934.76,rsr support,0.0,4,0
+teb3,2025,23,0,1082.81,fluid load,0.0,4,0
+teb3,2025,23,0,1024.2,each-receive,0.0,4,0
+teb3,2025,23,0,685.19,,0.0,4,0
+teb3,2025,23,0,900.98,each transfer in,0.0,4,0
+teb3,2025,23,0,551.11,pick support,0.0,4,0
+teb3,2025,23,0,604.89,pack support,0.0,4,0
+teb3,2025,23,0,551.11,receive dock,0.0,4,0
+teb3,2025,23,0,428.98,receive-support,0.0,4,0
+teb3,2025,23,0,385.33,pack multis,0.0,4,0
+teb3,2025,23,0,537.47,ib problem solve,0.0,4,0
+teb3,2025,23,0,619.49,transfer in dock,0.0,4,0
+teb3,2025,23,0,264.62,transfer out dock,0.0,4,0
+teb3,2025,23,0,310.11,outbound lead/pa,0.0,4,0
+teb3,2025,23,0,419.28,container load,0.0,4,0
+teb3,2025,23,0,279.58,ship dock support,0.0,4,0
+teb3,2025,23,0,109.83,stow to prime spt,0.0,4,0
+teb3,2025,23,0,197.99,container move,0.0,4,0
+teb3,2025,23,0,131.28,sort-batch,0.0,4,0
+teb3,2025,23,0,326.92,transfer in support,0.0,4,0
+teb3,2025,23,0,199.62,ob problem solve,0.0,4,0
+teb3,2025,23,0,173.03,inbound lead/pa,0.0,4,0
+teb3,2025,23,0,88.59,c-returns processed,0.0,4,0
+teb3,2025,23,0,104.3,ship dock lead/pa,0.0,4,0
+teb3,2025,23,0,110.11,v-returns pick,0.0,4,0
+teb3,2025,23,0,125.75,c-returns support,0.0,4,0
+teb3,2025,23,0,219.86,pallet transfer in,0.0,4,0
+teb3,2025,23,0,124.03,pallet-receive,0.0,4,0
+teb3,2025,23,0,95.16,lp-receive,0.0,4,0
+teb3,2025,23,0,125.5,non fc controllable,0.0,4,0
+teb3,2025,23,0,85.84,v-returns support,0.0,4,0
+teb3,2025,23,0,72.22,box on demand,0.0,4,0
+teb3,2025,23,0,73.34,prep recorder,0.0,4,0
+teb3,2025,23,0,50.14,cubiscan,0.0,4,0
+teb3,2025,23,0,22.5,whd grading support,0.0,4,0
+teb3,2025,23,0,45.97,whd grading,0.0,4,0
+teb3,2025,23,0,68.94,transfer out lead/pa,0.0,4,0
+teb3,2025,23,0,22.68,v-returns pack,0.0,4,0
+teb3,2025,23,0,9.39,gift-wrap,0.0,4,0
+teb3,2025,23,0,5.61,unrecognizedprocess,0.0,4,0
+teb3,2025,23,0,1.16,custom packaging,0.0,4,0
+teb3,2025,24,1,6978.23,pick,1.4330281461058179,1,1
+teb3,2025,24,1,515.05,receive-support,19.415590719347637,1,1
+teb3,2025,24,0,2977.42,admin/hr/it,0.0,3,1
+teb3,2025,24,0,3441.47,stow to prime,0.0,3,1
+teb3,2025,24,0,2615.54,pack singles,0.0,3,1
+teb3,2025,24,0,1932.21,ic-qa-cs,0.0,3,1
+teb3,2025,24,0,1875.56,container build,0.0,3,1
+teb3,2025,24,0,1885.96,rsr support,0.0,3,1
+teb3,2025,24,0,1242.4,fluid load,0.0,3,1
+teb3,2025,24,0,1314.97,each-receive,0.0,3,1
+teb3,2025,24,0,387.22,,0.0,3,1
+teb3,2025,24,0,352.51,transfer out,0.0,3,1
+teb3,2025,24,0,902.87,each transfer in,0.0,3,1
+teb3,2025,24,0,660.09,pick support,0.0,3,1
+teb3,2025,24,0,695.11,pack support,0.0,3,1
+teb3,2025,24,0,603.52,receive dock,0.0,3,1
+teb3,2025,24,0,379.3,pack multis,0.0,3,1
+teb3,2025,24,0,587.58,ib problem solve,0.0,3,1
+teb3,2025,24,0,544.8,transfer in dock,0.0,3,1
+teb3,2025,24,0,120.2,transfer out dock,0.0,3,1
+teb3,2025,24,0,321.53,outbound lead/pa,0.0,3,1
+teb3,2025,24,0,452.63,container load,0.0,3,1
+teb3,2025,24,0,259.35,ship dock support,0.0,3,1
+teb3,2025,24,0,148.99,stow to prime spt,0.0,3,1
+teb3,2025,24,0,203.83,container move,0.0,3,1
+teb3,2025,24,0,141.66,sort-batch,0.0,3,1
+teb3,2025,24,0,332.78,transfer in support,0.0,3,1
+teb3,2025,24,0,213.9,ob problem solve,0.0,3,1
+teb3,2025,24,0,121.13,inbound lead/pa,0.0,3,1
+teb3,2025,24,0,151.81,c-returns processed,0.0,3,1
+teb3,2025,24,0,84.16,ship dock lead/pa,0.0,3,1
+teb3,2025,24,0,102.58,v-returns pick,0.0,3,1
+teb3,2025,24,0,165.35,c-returns support,0.0,3,1
+teb3,2025,24,0,163.3,pallet transfer in,0.0,3,1
+teb3,2025,24,0,114.44,pallet-receive,0.0,3,1
+teb3,2025,24,0,124.27,lp-receive,0.0,3,1
+teb3,2025,24,0,72.63,v-returns support,0.0,3,1
+teb3,2025,24,0,77.87,box on demand,0.0,3,1
+teb3,2025,24,0,116.14,prep recorder,0.0,3,1
+teb3,2025,24,0,53.5,cubiscan,0.0,3,1
+teb3,2025,24,0,56.51,whd grading support,0.0,3,1
+teb3,2025,24,0,42.19,whd grading,0.0,3,1
+teb3,2025,24,0,50.91,transfer out lead/pa,0.0,3,1
+teb3,2025,24,0,15.41,v-returns pack,0.0,3,1
+teb3,2025,24,0,12.55,gift-wrap,0.0,3,1
+teb3,2025,24,0,5.87,unrecognizedprocess,0.0,3,1
+teb3,2025,24,0,2.78,custom packaging,0.0,3,1
+teb3,2025,24,0,0.63,v-returns rvr,0.0,3,1
+teb3,2025,25,1,7212.6,pick,1.3864625793749825,1,1
+teb3,2025,25,1,2665.65,pack singles,3.751430232776246,1,1
+teb3,2025,25,1,1950.77,container build,5.126180943934959,1,1
+teb3,2025,25,1,1106.18,each transfer in,9.0401200527943,1,1
+teb3,2025,25,0,2887.88,admin/hr/it,0.0,5,0
+teb3,2025,25,0,3955.53,stow to prime,0.0,5,0
+teb3,2025,25,0,2164.68,ic-qa-cs,0.0,5,0
+teb3,2025,25,0,1903.57,rsr support,0.0,5,0
+teb3,2025,25,0,1180.26,fluid load,0.0,5,0
+teb3,2025,25,0,1329.18,each-receive,0.0,5,0
+teb3,2025,25,0,441.33,,0.0,5,0
+teb3,2025,25,0,400.94,transfer out,0.0,5,0
+teb3,2025,25,0,494.96,pick support,0.0,5,0
+teb3,2025,25,0,672.94,pack support,0.0,5,0
+teb3,2025,25,0,739.68,receive dock,0.0,5,0
+teb3,2025,25,0,589.64,receive-support,0.0,5,0
+teb3,2025,25,0,387.56,pack multis,0.0,5,0
+teb3,2025,25,0,615.09,ib problem solve,0.0,5,0
+teb3,2025,25,0,627.66,transfer in dock,0.0,5,0
+teb3,2025,25,0,229.5,transfer out dock,0.0,5,0
+teb3,2025,25,0,327.13,outbound lead/pa,0.0,5,0
+teb3,2025,25,0,473.07,container load,0.0,5,0
+teb3,2025,25,0,305.68,ship dock support,0.0,5,0
+teb3,2025,25,0,165.28,stow to prime spt,0.0,5,0
+teb3,2025,25,0,208.62,container move,0.0,5,0
+teb3,2025,25,0,132.76,sort-batch,0.0,5,0
+teb3,2025,25,0,330.22,transfer in support,0.0,5,0
+teb3,2025,25,0,185.89,ob problem solve,0.0,5,0
+teb3,2025,25,0,189.99,inbound lead/pa,0.0,5,0
+teb3,2025,25,0,69.9,c-returns processed,0.0,5,0
+teb3,2025,25,0,92.63,ship dock lead/pa,0.0,5,0
+teb3,2025,25,0,126.12,v-returns pick,0.0,5,0
+teb3,2025,25,0,114.62,c-returns support,0.0,5,0
+teb3,2025,25,0,171.78,pallet transfer in,0.0,5,0
+teb3,2025,25,0,112.66,pallet-receive,0.0,5,0
+teb3,2025,25,0,121.18,lp-receive,0.0,5,0
+teb3,2025,25,0,94.08,v-returns support,0.0,5,0
+teb3,2025,25,0,109.45,box on demand,0.0,5,0
+teb3,2025,25,0,98.43,prep recorder,0.0,5,0
+teb3,2025,25,0,59.0,cubiscan,0.0,5,0
+teb3,2025,25,0,117.4,whd grading support,0.0,5,0
+teb3,2025,25,0,47.73,whd grading,0.0,5,0
+teb3,2025,25,0,56.63,transfer out lead/pa,0.0,5,0
+teb3,2025,25,0,22.02,v-returns pack,0.0,5,0
+teb3,2025,25,0,12.0,gift-wrap,0.0,5,0
+teb3,2025,25,0,3.97,unrecognizedprocess,0.0,5,0
+teb3,2025,25,0,6.64,custom packaging,0.0,5,0
+teb3,2025,25,0,0.17,v-returns rvr,0.0,5,0
+teb3,2025,26,3,7381.59,pick,4.064165037613847,1,1
+teb3,2025,26,1,1971.44,ic-qa-cs,5.072434362699346,2,1
+teb3,2025,26,1,1940.27,container build,5.15392187685219,2,1
+teb3,2025,26,1,472.48,transfer out,21.164917033525228,2,1
+teb3,2025,26,0,2947.78,admin/hr/it,0.0,5,0
+teb3,2025,26,0,3553.07,stow to prime,0.0,5,0
+teb3,2025,26,0,2760.31,pack singles,0.0,5,0
+teb3,2025,26,0,1836.12,rsr support,0.0,5,0
+teb3,2025,26,0,1264.57,fluid load,0.0,5,0
+teb3,2025,26,0,1069.25,each-receive,0.0,5,0
+teb3,2025,26,0,569.57,,0.0,5,0
+teb3,2025,26,0,1258.22,each transfer in,0.0,5,0
+teb3,2025,26,0,635.22,pick support,0.0,5,0
+teb3,2025,26,0,713.19,pack support,0.0,5,0
+teb3,2025,26,0,568.15,receive dock,0.0,5,0
+teb3,2025,26,0,539.13,receive-support,0.0,5,0
+teb3,2025,26,0,390.04,pack multis,0.0,5,0
+teb3,2025,26,0,545.63,ib problem solve,0.0,5,0
+teb3,2025,26,0,810.8,transfer in dock,0.0,5,0
+teb3,2025,26,0,180.42,transfer out dock,0.0,5,0
+teb3,2025,26,0,413.15,outbound lead/pa,0.0,5,0
+teb3,2025,26,0,435.71,container load,0.0,5,0
+teb3,2025,26,0,216.37,ship dock support,0.0,5,0
+teb3,2025,26,0,138.6,stow to prime spt,0.0,5,0
+teb3,2025,26,0,227.85,container move,0.0,5,0
+teb3,2025,26,0,122.2,sort-batch,0.0,5,0
+teb3,2025,26,0,474.56,transfer in support,0.0,5,0
+teb3,2025,26,0,222.14,ob problem solve,0.0,5,0
+teb3,2025,26,0,221.65,inbound lead/pa,0.0,5,0
+teb3,2025,26,0,78.89,c-returns processed,0.0,5,0
+teb3,2025,26,0,112.65,ship dock lead/pa,0.0,5,0
+teb3,2025,26,0,102.09,v-returns pick,0.0,5,0
+teb3,2025,26,0,80.65,c-returns support,0.0,5,0
+teb3,2025,26,0,267.37,pallet transfer in,0.0,5,0
+teb3,2025,26,0,96.93,pallet-receive,0.0,5,0
+teb3,2025,26,0,111.77,lp-receive,0.0,5,0
+teb3,2025,26,0,195.7,non fc controllable,0.0,5,0
+teb3,2025,26,0,80.98,v-returns support,0.0,5,0
+teb3,2025,26,0,158.21,box on demand,0.0,5,0
+teb3,2025,26,0,140.63,prep recorder,0.0,5,0
+teb3,2025,26,0,87.02,cubiscan,0.0,5,0
+teb3,2025,26,0,66.25,whd grading support,0.0,5,0
+teb3,2025,26,0,72.22,whd grading,0.0,5,0
+teb3,2025,26,0,3.61,on boarding,0.0,5,0
+teb3,2025,26,0,102.12,transfer out lead/pa,0.0,5,0
+teb3,2025,26,0,15.22,v-returns pack,0.0,5,0
+teb3,2025,26,0,9.51,gift-wrap,0.0,5,0
+teb3,2025,26,0,7.64,unrecognizedprocess,0.0,5,0
+teb3,2025,26,0,3.87,custom packaging,0.0,5,0
+teb3,2025,26,0,,ship dock,,5,0
+teb3,2025,27,1,1736.01,ic-qa-cs,5.760335481938468,1,1
+teb3,2025,27,1,240.6,transfer in support,41.562759767248544,1,1
+teb3,2025,27,0,6539.84,pick,0.0,3,1
+teb3,2025,27,0,3005.82,admin/hr/it,0.0,3,1
+teb3,2025,27,0,3038.12,stow to prime,0.0,3,1
+teb3,2025,27,0,2292.35,pack singles,0.0,3,1
+teb3,2025,27,0,1628.26,container build,0.0,3,1
+teb3,2025,27,0,1439.84,rsr support,0.0,3,1
+teb3,2025,27,0,970.49,fluid load,0.0,3,1
+teb3,2025,27,0,992.19,each-receive,0.0,3,1
+teb3,2025,27,0,676.8,,0.0,3,1
+teb3,2025,27,0,897.55,transfer out,0.0,3,1
+teb3,2025,27,0,810.96,each transfer in,0.0,3,1
+teb3,2025,27,0,410.1,pick support,0.0,3,1
+teb3,2025,27,0,599.67,pack support,0.0,3,1
+teb3,2025,27,0,376.13,receive dock,0.0,3,1
+teb3,2025,27,0,314.44,receive-support,0.0,3,1
+teb3,2025,27,0,320.65,pack multis,0.0,3,1
+teb3,2025,27,0,400.87,ib problem solve,0.0,3,1
+teb3,2025,27,0,502.22,transfer in dock,0.0,3,1
+teb3,2025,27,0,383.83,transfer out dock,0.0,3,1
+teb3,2025,27,0,322.03,outbound lead/pa,0.0,3,1
+teb3,2025,27,0,405.98,container load,0.0,3,1
+teb3,2025,27,0,200.16,ship dock support,0.0,3,1
+teb3,2025,27,0,416.06,stow to prime spt,0.0,3,1
+teb3,2025,27,0,192.33,container move,0.0,3,1
+teb3,2025,27,0,117.7,sort-batch,0.0,3,1
+teb3,2025,27,0,154.04,ob problem solve,0.0,3,1
+teb3,2025,27,0,142.59,inbound lead/pa,0.0,3,1
+teb3,2025,27,0,118.65,c-returns processed,0.0,3,1
+teb3,2025,27,0,98.93,ship dock lead/pa,0.0,3,1
+teb3,2025,27,0,110.45,v-returns pick,0.0,3,1
+teb3,2025,27,0,154.46,c-returns support,0.0,3,1
+teb3,2025,27,0,175.72,pallet transfer in,0.0,3,1
+teb3,2025,27,0,102.66,pallet-receive,0.0,3,1
+teb3,2025,27,0,94.6,lp-receive,0.0,3,1
+teb3,2025,27,0,71.03,v-returns support,0.0,3,1
+teb3,2025,27,0,141.29,box on demand,0.0,3,1
+teb3,2025,27,0,74.65,prep recorder,0.0,3,1
+teb3,2025,27,0,22.24,cubiscan,0.0,3,1
+teb3,2025,27,0,35.68,whd grading support,0.0,3,1
+teb3,2025,27,0,57.9,whd grading,0.0,3,1
+teb3,2025,27,0,142.56,on boarding,0.0,3,1
+teb3,2025,27,0,16.31,transfer out lead/pa,0.0,3,1
+teb3,2025,27,0,17.95,v-returns pack,0.0,3,1
+teb3,2025,27,0,7.27,gift-wrap,0.0,3,1
+teb3,2025,27,0,9.03,unrecognizedprocess,0.0,3,1
+teb3,2025,27,0,5.79,custom packaging,0.0,3,1
+teb3,2025,28,3,3811.69,pack singles,7.870524622936283,1,1
+teb3,2025,28,2,2959.55,container build,6.757784122586203,2,1
+teb3,2025,28,1,10104.59,pick,0.9896492584063282,3,1
+teb3,2025,28,1,2386.02,ic-qa-cs,4.191079705953848,3,1
+teb3,2025,28,0,3122.95,admin/hr/it,0.0,5,0
+teb3,2025,28,0,3487.04,stow to prime,0.0,5,0
+teb3,2025,28,0,1445.61,rsr support,0.0,5,0
+teb3,2025,28,0,1674.75,fluid load,0.0,5,0
+teb3,2025,28,0,1142.28,each-receive,0.0,5,0
+teb3,2025,28,0,579.59,,0.0,5,0
+teb3,2025,28,0,697.54,transfer out,0.0,5,0
+teb3,2025,28,0,1367.08,each transfer in,0.0,5,0
+teb3,2025,28,0,657.61,pick support,0.0,5,0
+teb3,2025,28,0,1030.02,pack support,0.0,5,0
+teb3,2025,28,0,440.38,receive dock,0.0,5,0
+teb3,2025,28,0,421.52,receive-support,0.0,5,0
+teb3,2025,28,0,623.65,pack multis,0.0,5,0
+teb3,2025,28,0,505.04,ib problem solve,0.0,5,0
+teb3,2025,28,0,834.57,transfer in dock,0.0,5,0
+teb3,2025,28,0,335.06,transfer out dock,0.0,5,0
+teb3,2025,28,0,406.55,outbound lead/pa,0.0,5,0
+teb3,2025,28,0,662.49,container load,0.0,5,0
+teb3,2025,28,0,260.02,ship dock support,0.0,5,0
+teb3,2025,28,0,149.74,stow to prime spt,0.0,5,0
+teb3,2025,28,0,384.71,container move,0.0,5,0
+teb3,2025,28,0,281.4,sort-batch,0.0,5,0
+teb3,2025,28,0,253.79,transfer in support,0.0,5,0
+teb3,2025,28,0,222.61,ob problem solve,0.0,5,0
+teb3,2025,28,0,179.3,inbound lead/pa,0.0,5,0
+teb3,2025,28,0,81.05,c-returns processed,0.0,5,0
+teb3,2025,28,0,114.94,ship dock lead/pa,0.0,5,0
+teb3,2025,28,0,71.7,v-returns pick,0.0,5,0
+teb3,2025,28,0,106.52,c-returns support,0.0,5,0
+teb3,2025,28,0,70.39,pallet transfer in,0.0,5,0
+teb3,2025,28,0,88.55,pallet-receive,0.0,5,0
+teb3,2025,28,0,113.37,lp-receive,0.0,5,0
+teb3,2025,28,0,44.27,v-returns support,0.0,5,0
+teb3,2025,28,0,231.35,box on demand,0.0,5,0
+teb3,2025,28,0,97.35,prep recorder,0.0,5,0
+teb3,2025,28,0,40.31,cubiscan,0.0,5,0
+teb3,2025,28,0,111.59,whd grading support,0.0,5,0
+teb3,2025,28,0,31.76,whd grading,0.0,5,0
+teb3,2025,28,0,15.54,transfer out lead/pa,0.0,5,0
+teb3,2025,28,0,15.69,v-returns pack,0.0,5,0
+teb3,2025,28,0,10.54,gift-wrap,0.0,5,0
+teb3,2025,28,0,10.47,unrecognizedprocess,0.0,5,0
+teb3,2025,28,0,5.12,custom packaging,0.0,5,0
+teb3,2025,29,5,7423.76,pick,6.735131523648394,1,1
+teb3,2025,29,2,2445.09,ic-qa-cs,8.179658008498665,2,1
+teb3,2025,29,2,2078.75,container build,9.621166566446181,2,1
+teb3,2025,29,1,894.71,transfer out,11.176805892412066,4,0
+teb3,2025,29,1,1729.09,each transfer in,5.783388950257072,4,0
+teb3,2025,29,1,503.62,receive-support,19.856240816488622,4,0
+teb3,2025,29,1,1049.66,transfer in dock,9.526894422956005,4,0
+teb3,2025,29,1,341.79,transfer out dock,29.257731355510693,4,0
+teb3,2025,29,0,3159.32,admin/hr/it,0.0,9,0
+teb3,2025,29,0,3821.3,stow to prime,0.0,9,0
+teb3,2025,29,0,2700.79,pack singles,0.0,9,0
+teb3,2025,29,0,1430.27,rsr support,0.0,9,0
+teb3,2025,29,0,1395.41,fluid load,0.0,9,0
+teb3,2025,29,0,1417.41,each-receive,0.0,9,0
+teb3,2025,29,0,700.84,,0.0,9,0
+teb3,2025,29,0,515.11,pick support,0.0,9,0
+teb3,2025,29,0,691.37,pack support,0.0,9,0
+teb3,2025,29,0,555.85,receive dock,0.0,9,0
+teb3,2025,29,0,477.84,pack multis,0.0,9,0
+teb3,2025,29,0,531.85,ib problem solve,0.0,9,0
+teb3,2025,29,0,338.37,outbound lead/pa,0.0,9,0
+teb3,2025,29,0,492.31,container load,0.0,9,0
+teb3,2025,29,0,157.46,ship dock support,0.0,9,0
+teb3,2025,29,0,118.11,stow to prime spt,0.0,9,0
+teb3,2025,29,0,239.53,container move,0.0,9,0
+teb3,2025,29,0,191.74,sort-batch,0.0,9,0
+teb3,2025,29,0,316.18,transfer in support,0.0,9,0
+teb3,2025,29,0,204.38,ob problem solve,0.0,9,0
+teb3,2025,29,0,205.56,inbound lead/pa,0.0,9,0
+teb3,2025,29,0,179.71,c-returns processed,0.0,9,0
+teb3,2025,29,0,84.11,ship dock lead/pa,0.0,9,0
+teb3,2025,29,0,158.75,v-returns pick,0.0,9,0
+teb3,2025,29,0,145.5,c-returns support,0.0,9,0
+teb3,2025,29,0,79.33,pallet transfer in,0.0,9,0
+teb3,2025,29,0,122.33,pallet-receive,0.0,9,0
+teb3,2025,29,0,142.3,lp-receive,0.0,9,0
+teb3,2025,29,0,99.38,v-returns support,0.0,9,0
+teb3,2025,29,0,163.76,box on demand,0.0,9,0
+teb3,2025,29,0,78.51,prep recorder,0.0,9,0
+teb3,2025,29,0,86.07,cubiscan,0.0,9,0
+teb3,2025,29,0,94.24,whd grading support,0.0,9,0
+teb3,2025,29,0,79.94,whd grading,0.0,9,0
+teb3,2025,29,0,55.12,transfer out lead/pa,0.0,9,0
+teb3,2025,29,0,28.9,v-returns pack,0.0,9,0
+teb3,2025,29,0,16.63,gift-wrap,0.0,9,0
+teb3,2025,29,0,13.29,unrecognizedprocess,0.0,9,0
+teb3,2025,29,0,7.2,custom packaging,0.0,9,0
+teb3,2025,30,3,2615.83,stow to prime,11.468635194183108,1,1
+teb3,2025,30,1,5926.34,pick,1.6873820941761695,2,1
+teb3,2025,30,1,1796.15,ic-qa-cs,5.5674637418923805,2,1
+teb3,2025,30,0,3040.59,admin/hr/it,0.0,4,0
+teb3,2025,30,0,2086.47,pack singles,0.0,4,0
+teb3,2025,30,0,1409.26,container build,0.0,4,0
+teb3,2025,30,0,1172.04,rsr support,0.0,4,0
+teb3,2025,30,0,1094.65,fluid load,0.0,4,0
+teb3,2025,30,0,1023.08,each-receive,0.0,4,0
+teb3,2025,30,0,548.97,,0.0,4,0
+teb3,2025,30,0,578.02,transfer out,0.0,4,0
+teb3,2025,30,0,1224.78,each transfer in,0.0,4,0
+teb3,2025,30,0,400.38,pick support,0.0,4,0
+teb3,2025,30,0,564.47,pack support,0.0,4,0
+teb3,2025,30,0,417.32,receive dock,0.0,4,0
+teb3,2025,30,0,450.64,receive-support,0.0,4,0
+teb3,2025,30,0,331.12,pack multis,0.0,4,0
+teb3,2025,30,0,406.29,ib problem solve,0.0,4,0
+teb3,2025,30,0,774.64,transfer in dock,0.0,4,0
+teb3,2025,30,0,228.75,transfer out dock,0.0,4,0
+teb3,2025,30,0,338.36,outbound lead/pa,0.0,4,0
+teb3,2025,30,0,328.75,container load,0.0,4,0
+teb3,2025,30,0,155.92,ship dock support,0.0,4,0
+teb3,2025,30,0,76.81,stow to prime spt,0.0,4,0
+teb3,2025,30,0,167.61,container move,0.0,4,0
+teb3,2025,30,0,121.38,sort-batch,0.0,4,0
+teb3,2025,30,0,312.53,transfer in support,0.0,4,0
+teb3,2025,30,0,170.9,ob problem solve,0.0,4,0
+teb3,2025,30,0,187.45,inbound lead/pa,0.0,4,0
+teb3,2025,30,0,166.17,c-returns processed,0.0,4,0
+teb3,2025,30,0,78.74,ship dock lead/pa,0.0,4,0
+teb3,2025,30,0,86.08,v-returns pick,0.0,4,0
+teb3,2025,30,0,188.31,c-returns support,0.0,4,0
+teb3,2025,30,0,129.8,pallet transfer in,0.0,4,0
+teb3,2025,30,0,106.36,pallet-receive,0.0,4,0
+teb3,2025,30,0,149.99,lp-receive,0.0,4,0
+teb3,2025,30,0,63.8,v-returns support,0.0,4,0
+teb3,2025,30,0,100.93,box on demand,0.0,4,0
+teb3,2025,30,0,67.75,prep recorder,0.0,4,0
+teb3,2025,30,0,61.08,cubiscan,0.0,4,0
+teb3,2025,30,0,43.48,whd grading support,0.0,4,0
+teb3,2025,30,0,49.99,whd grading,0.0,4,0
+teb3,2025,30,0,1.88,on boarding,0.0,4,0
+teb3,2025,30,0,25.11,transfer out lead/pa,0.0,4,0
+teb3,2025,30,0,23.79,v-returns pack,0.0,4,0
+teb3,2025,30,0,10.7,gift-wrap,0.0,4,0
+teb3,2025,30,0,6.91,unrecognizedprocess,0.0,4,0
+teb3,2025,30,0,2.82,custom packaging,0.0,4,0
+teb3,2025,30,0,0.04,v-returns rvr,0.0,4,0
+teb3,2025,31,2,5799.0,pick,3.448870494912916,1,1
+teb3,2025,31,2,1973.2,pack singles,10.135819987837015,1,1
+teb3,2025,31,1,2645.3,stow to prime,3.7802895701810755,3,1
+teb3,2025,31,1,527.24,transfer in dock,18.966694484485245,3,1
+teb3,2025,31,1,36.3,transfer out lead/pa,275.4820936639119,3,1
+teb3,2025,31,0,2693.66,admin/hr/it,0.0,6,0
+teb3,2025,31,0,1665.79,ic-qa-cs,0.0,6,0
+teb3,2025,31,0,1407.79,container build,0.0,6,0
+teb3,2025,31,0,1268.86,rsr support,0.0,6,0
+teb3,2025,31,0,943.7,fluid load,0.0,6,0
+teb3,2025,31,0,905.07,each-receive,0.0,6,0
+teb3,2025,31,0,562.26,,0.0,6,0
+teb3,2025,31,0,907.47,transfer out,0.0,6,0
+teb3,2025,31,0,894.12,each transfer in,0.0,6,0
+teb3,2025,31,0,395.27,pick support,0.0,6,0
+teb3,2025,31,0,562.93,pack support,0.0,6,0
+teb3,2025,31,0,398.62,receive dock,0.0,6,0
+teb3,2025,31,0,341.12,receive-support,0.0,6,0
+teb3,2025,31,0,314.8,pack multis,0.0,6,0
+teb3,2025,31,0,503.94,ib problem solve,0.0,6,0
+teb3,2025,31,0,292.3,transfer out dock,0.0,6,0
+teb3,2025,31,0,326.5,outbound lead/pa,0.0,6,0
+teb3,2025,31,0,299.28,container load,0.0,6,0
+teb3,2025,31,0,183.88,ship dock support,0.0,6,0
+teb3,2025,31,0,311.96,stow to prime spt,0.0,6,0
+teb3,2025,31,0,161.99,container move,0.0,6,0
+teb3,2025,31,0,126.52,sort-batch,0.0,6,0
+teb3,2025,31,0,316.76,transfer in support,0.0,6,0
+teb3,2025,31,0,144.33,ob problem solve,0.0,6,0
+teb3,2025,31,0,149.62,inbound lead/pa,0.0,6,0
+teb3,2025,31,0,142.49,c-returns processed,0.0,6,0
+teb3,2025,31,0,113.51,ship dock lead/pa,0.0,6,0
+teb3,2025,31,0,122.84,v-returns pick,0.0,6,0
+teb3,2025,31,0,141.58,c-returns support,0.0,6,0
+teb3,2025,31,0,196.53,pallet transfer in,0.0,6,0
+teb3,2025,31,0,107.75,pallet-receive,0.0,6,0
+teb3,2025,31,0,95.33,lp-receive,0.0,6,0
+teb3,2025,31,0,162.98,non fc controllable,0.0,6,0
+teb3,2025,31,0,62.94,v-returns support,0.0,6,0
+teb3,2025,31,0,128.11,box on demand,0.0,6,0
+teb3,2025,31,0,64.88,prep recorder,0.0,6,0
+teb3,2025,31,0,71.26,cubiscan,0.0,6,0
+teb3,2025,31,0,75.98,whd grading support,0.0,6,0
+teb3,2025,31,0,51.99,whd grading,0.0,6,0
+teb3,2025,31,0,22.53,v-returns pack,0.0,6,0
+teb3,2025,31,0,8.78,gift-wrap,0.0,6,0
+teb3,2025,31,0,7.9,unrecognizedprocess,0.0,6,0
+teb3,2025,31,0,0.63,custom packaging,0.0,6,0
+teb3,2025,31,0,0.26,v-returns rvr,0.0,6,0
+teb3,2025,32,2,5738.43,pick,3.485273846679318,1,1
+teb3,2025,32,2,3824.37,stow to prime,5.229619519031893,1,1
+teb3,2025,32,2,1061.65,each-receive,18.838600291998304,1,1
+teb3,2025,32,1,1964.55,pack singles,5.090224224377084,4,0
+teb3,2025,32,1,1600.07,rsr support,6.249726574462367,4,0
+teb3,2025,32,1,488.26,each transfer in,20.480891328390612,4,0
+teb3,2025,32,0,2543.05,admin/hr/it,0.0,7,0
+teb3,2025,32,0,1614.33,ic-qa-cs,0.0,7,0
+teb3,2025,32,0,1319.65,container build,0.0,7,0
+teb3,2025,32,0,950.66,fluid load,0.0,7,0
+teb3,2025,32,0,691.95,,0.0,7,0
+teb3,2025,32,0,767.51,transfer out,0.0,7,0
+teb3,2025,32,0,471.39,pick support,0.0,7,0
+teb3,2025,32,0,487.86,pack support,0.0,7,0
+teb3,2025,32,0,516.67,receive dock,0.0,7,0
+teb3,2025,32,0,478.37,receive-support,0.0,7,0
+teb3,2025,32,0,340.78,pack multis,0.0,7,0
+teb3,2025,32,0,455.4,ib problem solve,0.0,7,0
+teb3,2025,32,0,278.3,transfer in dock,0.0,7,0
+teb3,2025,32,0,322.51,transfer out dock,0.0,7,0
+teb3,2025,32,0,308.69,outbound lead/pa,0.0,7,0
+teb3,2025,32,0,257.71,container load,0.0,7,0
+teb3,2025,32,0,132.48,ship dock support,0.0,7,0
+teb3,2025,32,0,277.39,stow to prime spt,0.0,7,0
+teb3,2025,32,0,215.15,container move,0.0,7,0
+teb3,2025,32,0,146.32,sort-batch,0.0,7,0
+teb3,2025,32,0,301.18,transfer in support,0.0,7,0
+teb3,2025,32,0,131.48,ob problem solve,0.0,7,0
+teb3,2025,32,0,234.28,inbound lead/pa,0.0,7,0
+teb3,2025,32,0,276.43,c-returns processed,0.0,7,0
+teb3,2025,32,0,107.38,ship dock lead/pa,0.0,7,0
+teb3,2025,32,0,175.54,v-returns pick,0.0,7,0
+teb3,2025,32,0,88.12,c-returns support,0.0,7,0
+teb3,2025,32,0,172.6,pallet transfer in,0.0,7,0
+teb3,2025,32,0,100.73,pallet-receive,0.0,7,0
+teb3,2025,32,0,74.35,lp-receive,0.0,7,0
+teb3,2025,32,0,71.75,v-returns support,0.0,7,0
+teb3,2025,32,0,115.09,box on demand,0.0,7,0
+teb3,2025,32,0,47.95,prep recorder,0.0,7,0
+teb3,2025,32,0,75.56,cubiscan,0.0,7,0
+teb3,2025,32,0,79.02,whd grading support,0.0,7,0
+teb3,2025,32,0,44.9,whd grading,0.0,7,0
+teb3,2025,32,0,1.06,on boarding,0.0,7,0
+teb3,2025,32,0,14.12,transfer out lead/pa,0.0,7,0
+teb3,2025,32,0,36.07,v-returns pack,0.0,7,0
+teb3,2025,32,0,20.49,gift-wrap,0.0,7,0
+teb3,2025,32,0,2.75,unrecognizedprocess,0.0,7,0
+teb3,2025,32,0,1.61,custom packaging,0.0,7,0
+teb3,2025,32,0,0.25,c-returns stow,0.0,7,0
+teb3,2025,32,0,0.38,v-returns rvr,0.0,7,0
+teb3,2025,33,2,5512.07,pick,3.6284009455612867,1,1
+teb3,2025,33,2,1785.73,pack singles,11.19990144086732,1,1
+teb3,2025,33,1,1028.5,each transfer in,9.722897423432183,3,1
+teb3,2025,33,0,2660.54,admin/hr/it,0.0,4,0
+teb3,2025,33,0,3762.23,stow to prime,0.0,4,0
+teb3,2025,33,0,1672.98,ic-qa-cs,0.0,4,0
+teb3,2025,33,0,1311.0,container build,0.0,4,0
+teb3,2025,33,0,1662.97,rsr support,0.0,4,0
+teb3,2025,33,0,819.73,fluid load,0.0,4,0
+teb3,2025,33,0,810.27,each-receive,0.0,4,0
+teb3,2025,33,0,803.54,,0.0,4,0
+teb3,2025,33,0,1110.91,transfer out,0.0,4,0
+teb3,2025,33,0,469.4,pick support,0.0,4,0
+teb3,2025,33,0,488.97,pack support,0.0,4,0
+teb3,2025,33,0,505.3,receive dock,0.0,4,0
+teb3,2025,33,0,487.1,receive-support,0.0,4,0
+teb3,2025,33,0,387.32,pack multis,0.0,4,0
+teb3,2025,33,0,439.7,ib problem solve,0.0,4,0
+teb3,2025,33,0,515.03,transfer in dock,0.0,4,0
+teb3,2025,33,0,262.65,transfer out dock,0.0,4,0
+teb3,2025,33,0,299.61,outbound lead/pa,0.0,4,0
+teb3,2025,33,0,264.33,container load,0.0,4,0
+teb3,2025,33,0,138.66,ship dock support,0.0,4,0
+teb3,2025,33,0,292.67,stow to prime spt,0.0,4,0
+teb3,2025,33,0,230.11,container move,0.0,4,0
+teb3,2025,33,0,186.14,sort-batch,0.0,4,0
+teb3,2025,33,0,354.51,transfer in support,0.0,4,0
+teb3,2025,33,0,142.4,ob problem solve,0.0,4,0
+teb3,2025,33,0,90.43,inbound lead/pa,0.0,4,0
+teb3,2025,33,0,179.06,c-returns processed,0.0,4,0
+teb3,2025,33,0,125.31,ship dock lead/pa,0.0,4,0
+teb3,2025,33,0,139.11,v-returns pick,0.0,4,0
+teb3,2025,33,0,52.05,c-returns support,0.0,4,0
+teb3,2025,33,0,152.42,pallet transfer in,0.0,4,0
+teb3,2025,33,0,122.03,pallet-receive,0.0,4,0
+teb3,2025,33,0,57.48,lp-receive,0.0,4,0
+teb3,2025,33,0,33.62,non fc controllable,0.0,4,0
+teb3,2025,33,0,95.52,v-returns support,0.0,4,0
+teb3,2025,33,0,126.4,box on demand,0.0,4,0
+teb3,2025,33,0,33.35,prep recorder,0.0,4,0
+teb3,2025,33,0,64.49,cubiscan,0.0,4,0
+teb3,2025,33,0,75.61,whd grading support,0.0,4,0
+teb3,2025,33,0,13.55,whd grading,0.0,4,0
+teb3,2025,33,0,2.15,transfer out lead/pa,0.0,4,0
+teb3,2025,33,0,24.4,v-returns pack,0.0,4,0
+teb3,2025,33,0,21.27,gift-wrap,0.0,4,0
+teb3,2025,33,0,10.48,unrecognizedprocess,0.0,4,0
+teb3,2025,33,0,3.2,custom packaging,0.0,4,0
+teb3,2025,33,0,0.12,v-returns rvr,0.0,4,0
+teb3,2025,34,1,1908.6,pack singles,5.239442523315519,1,1
+teb3,2025,34,1,1005.33,each-receive,9.946982582833497,1,1
+teb3,2025,34,1,104.64,transfer out pick,95.565749235474,1,1
+teb3,2025,34,0,5854.33,pick,0.0,4,0
+teb3,2025,34,0,2666.53,admin/hr/it,0.0,4,0
+teb3,2025,34,0,3799.8,stow to prime,0.0,4,0
+teb3,2025,34,0,1721.82,ic-qa-cs,0.0,4,0
+teb3,2025,34,0,1328.83,container build,0.0,4,0
+teb3,2025,34,0,1571.46,rsr support,0.0,4,0
+teb3,2025,34,0,829.2,fluid load,0.0,4,0
+teb3,2025,34,0,876.99,,0.0,4,0
+teb3,2025,34,0,826.97,transfer out,0.0,4,0
+teb3,2025,34,0,503.93,each transfer in,0.0,4,0
+teb3,2025,34,0,447.27,pick support,0.0,4,0
+teb3,2025,34,0,531.11,pack support,0.0,4,0
+teb3,2025,34,0,518.86,receive dock,0.0,4,0
+teb3,2025,34,0,520.25,receive-support,0.0,4,0
+teb3,2025,34,0,404.39,pack multis,0.0,4,0
+teb3,2025,34,0,457.2,ib problem solve,0.0,4,0
+teb3,2025,34,0,264.58,transfer in dock,0.0,4,0
+teb3,2025,34,0,367.48,transfer out dock,0.0,4,0
+teb3,2025,34,0,264.08,outbound lead/pa,0.0,4,0
+teb3,2025,34,0,266.38,container load,0.0,4,0
+teb3,2025,34,0,160.85,ship dock support,0.0,4,0
+teb3,2025,34,0,346.79,stow to prime spt,0.0,4,0
+teb3,2025,34,0,241.08,container move,0.0,4,0
+teb3,2025,34,0,177.27,sort-batch,0.0,4,0
+teb3,2025,34,0,278.81,transfer in support,0.0,4,0
+teb3,2025,34,0,138.1,ob problem solve,0.0,4,0
+teb3,2025,34,0,163.32,inbound lead/pa,0.0,4,0
+teb3,2025,34,0,157.54,c-returns processed,0.0,4,0
+teb3,2025,34,0,108.26,ship dock lead/pa,0.0,4,0
+teb3,2025,34,0,97.35,v-returns pick,0.0,4,0
+teb3,2025,34,0,49.89,c-returns support,0.0,4,0
+teb3,2025,34,0,162.45,pallet transfer in,0.0,4,0
+teb3,2025,34,0,111.19,pallet-receive,0.0,4,0
+teb3,2025,34,0,73.64,lp-receive,0.0,4,0
+teb3,2025,34,0,72.8,v-returns support,0.0,4,0
+teb3,2025,34,0,146.49,box on demand,0.0,4,0
+teb3,2025,34,0,48.28,prep recorder,0.0,4,0
+teb3,2025,34,0,21.57,cubiscan,0.0,4,0
+teb3,2025,34,0,98.08,whd grading support,0.0,4,0
+teb3,2025,34,0,42.12,whd grading,0.0,4,0
+teb3,2025,34,0,14.86,transfer out lead/pa,0.0,4,0
+teb3,2025,34,0,17.89,v-returns pack,0.0,4,0
+teb3,2025,34,0,15.68,gift-wrap,0.0,4,0
+teb3,2025,34,0,3.68,unrecognizedprocess,0.0,4,0
+teb3,2025,34,0,1.63,custom packaging,0.0,4,0
+teb3,2025,34,0,0.63,v-returns rvr,0.0,4,0
+teb3,2025,35,1,3474.71,stow to prime,2.8779380149710336,1,1
+teb3,2025,35,1,1729.58,ic-qa-cs,5.781750482776165,1,1
+teb3,2025,35,1,979.23,fluid load,10.212105429776457,1,1
+teb3,2025,35,1,402.06,pack multis,24.871909665224095,1,1
+teb3,2025,35,1,145.26,transfer in dock,68.84207627702052,1,1
+teb3,2025,35,0,6224.45,pick,0.0,6,0
+teb3,2025,35,0,2582.34,admin/hr/it,0.0,6,0
+teb3,2025,35,0,2172.82,pack singles,0.0,6,0
+teb3,2025,35,0,1274.38,container build,0.0,6,0
+teb3,2025,35,0,1405.3,rsr support,0.0,6,0
+teb3,2025,35,0,1006.85,each-receive,0.0,6,0
+teb3,2025,35,0,913.64,,0.0,6,0
+teb3,2025,35,0,997.63,transfer out,0.0,6,0
+teb3,2025,35,0,332.96,each transfer in,0.0,6,0
+teb3,2025,35,0,504.14,pick support,0.0,6,0
+teb3,2025,35,0,602.45,pack support,0.0,6,0
+teb3,2025,35,0,571.13,receive dock,0.0,6,0
+teb3,2025,35,0,515.46,receive-support,0.0,6,0
+teb3,2025,35,0,363.85,ib problem solve,0.0,6,0
+teb3,2025,35,0,186.85,transfer out dock,0.0,6,0
+teb3,2025,35,0,326.04,outbound lead/pa,0.0,6,0
+teb3,2025,35,0,275.72,container load,0.0,6,0
+teb3,2025,35,0,317.86,ship dock support,0.0,6,0
+teb3,2025,35,0,262.36,stow to prime spt,0.0,6,0
+teb3,2025,35,0,242.57,container move,0.0,6,0
+teb3,2025,35,0,160.72,sort-batch,0.0,6,0
+teb3,2025,35,0,136.06,transfer in support,0.0,6,0
+teb3,2025,35,0,130.46,ob problem solve,0.0,6,0
+teb3,2025,35,0,155.22,inbound lead/pa,0.0,6,0
+teb3,2025,35,0,169.38,c-returns processed,0.0,6,0
+teb3,2025,35,0,75.38,ship dock lead/pa,0.0,6,0
+teb3,2025,35,0,156.85,v-returns pick,0.0,6,0
+teb3,2025,35,0,31.71,c-returns support,0.0,6,0
+teb3,2025,35,0,67.77,pallet transfer in,0.0,6,0
+teb3,2025,35,0,132.69,pallet-receive,0.0,6,0
+teb3,2025,35,0,81.99,lp-receive,0.0,6,0
+teb3,2025,35,0,62.21,v-returns support,0.0,6,0
+teb3,2025,35,0,136.3,box on demand,0.0,6,0
+teb3,2025,35,0,36.73,prep recorder,0.0,6,0
+teb3,2025,35,0,11.23,cubiscan,0.0,6,0
+teb3,2025,35,0,28.17,whd grading support,0.0,6,0
+teb3,2025,35,0,62.1,whd grading,0.0,6,0
+teb3,2025,35,0,25.11,v-returns pack,0.0,6,0
+teb3,2025,35,0,5.31,gift-wrap,0.0,6,0
+teb3,2025,35,0,11.07,unrecognizedprocess,0.0,6,0
+teb3,2025,35,0,1.54,custom packaging,0.0,6,0
+teb3,2025,36,1,3629.61,stow to prime,2.755116940938558,1,1
+teb3,2025,36,1,503.23,pick support,19.871629274884246,1,1
+teb3,2025,36,0,5442.99,pick,0.0,3,1
+teb3,2025,36,0,2713.83,admin/hr/it,0.0,3,1
+teb3,2025,36,0,1908.35,pack singles,0.0,3,1
+teb3,2025,36,0,1873.13,ic-qa-cs,0.0,3,1
+teb3,2025,36,0,1039.88,container build,0.0,3,1
+teb3,2025,36,0,1203.38,rsr support,0.0,3,1
+teb3,2025,36,0,975.83,fluid load,0.0,3,1
+teb3,2025,36,0,1091.51,each-receive,0.0,3,1
+teb3,2025,36,0,1127.37,,0.0,3,1
+teb3,2025,36,0,1334.54,transfer out,0.0,3,1
+teb3,2025,36,0,15.59,each transfer in,0.0,3,1
+teb3,2025,36,0,525.96,pack support,0.0,3,1
+teb3,2025,36,0,607.21,receive dock,0.0,3,1
+teb3,2025,36,0,603.16,receive-support,0.0,3,1
+teb3,2025,36,0,425.64,pack multis,0.0,3,1
+teb3,2025,36,0,450.12,ib problem solve,0.0,3,1
+teb3,2025,36,0,4.09,transfer in dock,0.0,3,1
+teb3,2025,36,0,341.61,transfer out dock,0.0,3,1
+teb3,2025,36,0,327.13,outbound lead/pa,0.0,3,1
+teb3,2025,36,0,240.28,container load,0.0,3,1
+teb3,2025,36,0,378.11,ship dock support,0.0,3,1
+teb3,2025,36,0,314.15,stow to prime spt,0.0,3,1
+teb3,2025,36,0,204.91,container move,0.0,3,1
+teb3,2025,36,0,186.08,sort-batch,0.0,3,1
+teb3,2025,36,0,37.1,transfer in support,0.0,3,1
+teb3,2025,36,0,142.99,ob problem solve,0.0,3,1
+teb3,2025,36,0,167.81,inbound lead/pa,0.0,3,1
+teb3,2025,36,0,178.45,c-returns processed,0.0,3,1
+teb3,2025,36,0,118.28,ship dock lead/pa,0.0,3,1
+teb3,2025,36,0,110.67,v-returns pick,0.0,3,1
+teb3,2025,36,0,42.43,c-returns support,0.0,3,1
+teb3,2025,36,0,0.08,pallet transfer in,0.0,3,1
+teb3,2025,36,0,126.01,pallet-receive,0.0,3,1
+teb3,2025,36,0,88.02,lp-receive,0.0,3,1
+teb3,2025,36,0,0.0,non fc controllable,,3,1
+teb3,2025,36,0,59.38,v-returns support,0.0,3,1
+teb3,2025,36,0,69.71,box on demand,0.0,3,1
+teb3,2025,36,0,49.67,prep recorder,0.0,3,1
+teb3,2025,36,0,86.27,cubiscan,0.0,3,1
+teb3,2025,36,0,26.07,whd grading support,0.0,3,1
+teb3,2025,36,0,62.49,whd grading,0.0,3,1
+teb3,2025,36,0,2.69,on boarding,0.0,3,1
+teb3,2025,36,0,2.69,transfer out lead/pa,0.0,3,1
+teb3,2025,36,0,23.25,v-returns pack,0.0,3,1
+teb3,2025,36,0,10.08,gift-wrap,0.0,3,1
+teb3,2025,36,0,12.5,unrecognizedprocess,0.0,3,1
+teb3,2025,36,0,1.92,custom packaging,0.0,3,1
+teb3,2025,36,0,3.54,v-returns rvr,0.0,3,1
+teb3,2025,37,2,1978.93,ic-qa-cs,10.106471679139737,1,1
+teb3,2025,37,1,4437.59,pick,2.253475422470305,2,1
+teb3,2025,37,1,3597.48,stow to prime,2.7797235842867787,2,1
+teb3,2025,37,1,1145.96,rsr support,8.72630807358023,2,1
+teb3,2025,37,1,159.54,transfer out pick,62.68020559107434,2,1
+teb3,2025,37,0,2300.68,admin/hr/it,0.0,6,0
+teb3,2025,37,0,1594.33,pack singles,0.0,6,0
+teb3,2025,37,0,944.73,container build,0.0,6,0
+teb3,2025,37,0,671.58,fluid load,0.0,6,0
+teb3,2025,37,0,1090.62,each-receive,0.0,6,0
+teb3,2025,37,0,897.9,,0.0,6,0
+teb3,2025,37,0,1372.58,transfer out,0.0,6,0
+teb3,2025,37,0,23.41,each transfer in,0.0,6,0
+teb3,2025,37,0,362.25,pick support,0.0,6,0
+teb3,2025,37,0,428.99,pack support,0.0,6,0
+teb3,2025,37,0,446.39,receive dock,0.0,6,0
+teb3,2025,37,0,481.0,receive-support,0.0,6,0
+teb3,2025,37,0,344.99,pack multis,0.0,6,0
+teb3,2025,37,0,449.66,ib problem solve,0.0,6,0
+teb3,2025,37,0,11.08,transfer in dock,0.0,6,0
+teb3,2025,37,0,900.56,transfer out dock,0.0,6,0
+teb3,2025,37,0,311.46,outbound lead/pa,0.0,6,0
+teb3,2025,37,0,226.76,container load,0.0,6,0
+teb3,2025,37,0,190.4,ship dock support,0.0,6,0
+teb3,2025,37,0,338.39,stow to prime spt,0.0,6,0
+teb3,2025,37,0,166.57,container move,0.0,6,0
+teb3,2025,37,0,151.5,sort-batch,0.0,6,0
+teb3,2025,37,0,6.21,transfer in support,0.0,6,0
+teb3,2025,37,0,105.65,ob problem solve,0.0,6,0
+teb3,2025,37,0,175.25,inbound lead/pa,0.0,6,0
+teb3,2025,37,0,256.43,c-returns processed,0.0,6,0
+teb3,2025,37,0,119.89,ship dock lead/pa,0.0,6,0
+teb3,2025,37,0,83.63,v-returns pick,0.0,6,0
+teb3,2025,37,0,79.48,c-returns support,0.0,6,0
+teb3,2025,37,0,136.91,pallet-receive,0.0,6,0
+teb3,2025,37,0,98.25,lp-receive,0.0,6,0
+teb3,2025,37,0,257.36,non fc controllable,0.0,6,0
+teb3,2025,37,0,77.46,v-returns support,0.0,6,0
+teb3,2025,37,0,32.61,prep recorder,0.0,6,0
+teb3,2025,37,0,85.73,cubiscan,0.0,6,0
+teb3,2025,37,0,14.89,whd grading support,0.0,6,0
+teb3,2025,37,0,67.12,whd grading,0.0,6,0
+teb3,2025,37,0,27.85,transfer out lead/pa,0.0,6,0
+teb3,2025,37,0,19.09,v-returns pack,0.0,6,0
+teb3,2025,37,0,10.6,gift-wrap,0.0,6,0
+teb3,2025,37,0,8.2,unrecognizedprocess,0.0,6,0
+teb3,2025,37,0,3.46,custom packaging,0.0,6,0
+teb3,2025,37,0,1.17,v-returns rvr,0.0,6,0
+teb3,2025,38,2,2759.49,stow to prime,7.247716063475498,1,1
+teb3,2025,38,1,927.2,rsr support,10.78515962036238,2,1
+teb3,2025,38,0,4973.3,pick,0.0,3,1
+teb3,2025,38,0,2735.06,admin/hr/it,0.0,3,1
+teb3,2025,38,0,1826.48,pack singles,0.0,3,1
+teb3,2025,38,0,1732.92,ic-qa-cs,0.0,3,1
+teb3,2025,38,0,970.76,container build,0.0,3,1
+teb3,2025,38,0,701.5,fluid load,0.0,3,1
+teb3,2025,38,0,849.7,each-receive,0.0,3,1
+teb3,2025,38,0,1125.88,,0.0,3,1
+teb3,2025,38,0,1111.37,transfer out,0.0,3,1
+teb3,2025,38,0,49.62,each transfer in,0.0,3,1
+teb3,2025,38,0,475.5,pick support,0.0,3,1
+teb3,2025,38,0,515.91,pack support,0.0,3,1
+teb3,2025,38,0,437.35,receive dock,0.0,3,1
+teb3,2025,38,0,431.74,receive-support,0.0,3,1
+teb3,2025,38,0,363.49,pack multis,0.0,3,1
+teb3,2025,38,0,324.04,ib problem solve,0.0,3,1
+teb3,2025,38,0,37.11,transfer in dock,0.0,3,1
+teb3,2025,38,0,694.71,transfer out dock,0.0,3,1
+teb3,2025,38,0,298.36,outbound lead/pa,0.0,3,1
+teb3,2025,38,0,213.14,container load,0.0,3,1
+teb3,2025,38,0,445.79,ship dock support,0.0,3,1
+teb3,2025,38,0,301.76,stow to prime spt,0.0,3,1
+teb3,2025,38,0,151.83,container move,0.0,3,1
+teb3,2025,38,0,170.62,sort-batch,0.0,3,1
+teb3,2025,38,0,1.84,transfer in support,0.0,3,1
+teb3,2025,38,0,89.89,ob problem solve,0.0,3,1
+teb3,2025,38,0,194.06,inbound lead/pa,0.0,3,1
+teb3,2025,38,0,137.97,c-returns processed,0.0,3,1
+teb3,2025,38,0,132.04,ship dock lead/pa,0.0,3,1
+teb3,2025,38,0,107.11,v-returns pick,0.0,3,1
+teb3,2025,38,0,61.93,c-returns support,0.0,3,1
+teb3,2025,38,0,6.31,pallet transfer in,0.0,3,1
+teb3,2025,38,0,118.12,pallet-receive,0.0,3,1
+teb3,2025,38,0,89.91,lp-receive,0.0,3,1
+teb3,2025,38,0,78.7,v-returns support,0.0,3,1
+teb3,2025,38,0,25.72,prep recorder,0.0,3,1
+teb3,2025,38,0,72.0,cubiscan,0.0,3,1
+teb3,2025,38,0,13.56,whd grading support,0.0,3,1
+teb3,2025,38,0,52.09,whd grading,0.0,3,1
+teb3,2025,38,0,23.44,transfer out lead/pa,0.0,3,1
+teb3,2025,38,0,22.51,v-returns pack,0.0,3,1
+teb3,2025,38,0,10.92,gift-wrap,0.0,3,1
+teb3,2025,38,0,2.45,unrecognizedprocess,0.0,3,1
+teb3,2025,38,0,1.09,custom packaging,0.0,3,1
+teb3,2025,38,0,0.4,v-returns rvr,0.0,3,1
+teb3,2025,39,1,919.73,each-receive,10.872756134952649,1,1
+teb3,2025,39,0,4731.01,pick,0.0,2,1
+teb3,2025,39,0,2187.19,admin/hr/it,0.0,2,1
+teb3,2025,39,0,3125.16,stow to prime,0.0,2,1
+teb3,2025,39,0,1642.2,pack singles,0.0,2,1
+teb3,2025,39,0,1939.48,ic-qa-cs,0.0,2,1
+teb3,2025,39,0,881.89,container build,0.0,2,1
+teb3,2025,39,0,1198.07,rsr support,0.0,2,1
+teb3,2025,39,0,734.81,fluid load,0.0,2,1
+teb3,2025,39,0,927.08,,0.0,2,1
+teb3,2025,39,0,917.15,transfer out,0.0,2,1
+teb3,2025,39,0,264.36,each transfer in,0.0,2,1
+teb3,2025,39,0,535.37,pick support,0.0,2,1
+teb3,2025,39,0,479.18,pack support,0.0,2,1
+teb3,2025,39,0,483.22,receive dock,0.0,2,1
+teb3,2025,39,0,449.68,receive-support,0.0,2,1
+teb3,2025,39,0,344.12,pack multis,0.0,2,1
+teb3,2025,39,0,312.9,ib problem solve,0.0,2,1
+teb3,2025,39,0,155.4,transfer in dock,0.0,2,1
+teb3,2025,39,0,635.73,transfer out dock,0.0,2,1
+teb3,2025,39,0,272.72,outbound lead/pa,0.0,2,1
+teb3,2025,39,0,198.11,container load,0.0,2,1
+teb3,2025,39,0,392.65,ship dock support,0.0,2,1
+teb3,2025,39,0,454.55,stow to prime spt,0.0,2,1
+teb3,2025,39,0,147.47,container move,0.0,2,1
+teb3,2025,39,0,135.62,sort-batch,0.0,2,1
+teb3,2025,39,0,34.62,transfer in support,0.0,2,1
+teb3,2025,39,0,97.09,ob problem solve,0.0,2,1
+teb3,2025,39,0,172.45,inbound lead/pa,0.0,2,1
+teb3,2025,39,0,113.14,c-returns processed,0.0,2,1
+teb3,2025,39,0,77.53,ship dock lead/pa,0.0,2,1
+teb3,2025,39,0,90.94,v-returns pick,0.0,2,1
+teb3,2025,39,0,63.55,c-returns support,0.0,2,1
+teb3,2025,39,0,6.18,pallet transfer in,0.0,2,1
+teb3,2025,39,0,104.27,pallet-receive,0.0,2,1
+teb3,2025,39,0,76.82,lp-receive,0.0,2,1
+teb3,2025,39,0,65.57,v-returns support,0.0,2,1
+teb3,2025,39,0,28.85,prep recorder,0.0,2,1
+teb3,2025,39,0,69.44,cubiscan,0.0,2,1
+teb3,2025,39,0,14.41,whd grading support,0.0,2,1
+teb3,2025,39,0,40.91,whd grading,0.0,2,1
+teb3,2025,39,0,30.29,transfer out lead/pa,0.0,2,1
+teb3,2025,39,0,10.87,v-returns pack,0.0,2,1
+teb3,2025,39,0,11.94,gift-wrap,0.0,2,1
+teb3,2025,39,0,6.34,unrecognizedprocess,0.0,2,1
+teb3,2025,39,0,0.14,custom packaging,0.0,2,1
+teb3,2025,39,0,0.27,v-returns rvr,0.0,2,1
+teb3,2025,40,1,5328.37,pick,1.8767465472555398,1,1
+teb3,2025,40,1,1922.29,ic-qa-cs,5.2021287110685694,1,1
+teb3,2025,40,1,784.35,stow to prime spt,12.749410339771785,1,1
+teb3,2025,40,0,2507.77,admin/hr/it,0.0,4,0
+teb3,2025,40,0,3840.35,stow to prime,0.0,4,0
+teb3,2025,40,0,1786.15,pack singles,0.0,4,0
+teb3,2025,40,0,905.22,container build,0.0,4,0
+teb3,2025,40,0,1570.42,rsr support,0.0,4,0
+teb3,2025,40,0,811.02,fluid load,0.0,4,0
+teb3,2025,40,0,958.75,each-receive,0.0,4,0
+teb3,2025,40,0,1002.31,,0.0,4,0
+teb3,2025,40,0,993.55,transfer out,0.0,4,0
+teb3,2025,40,0,476.57,each transfer in,0.0,4,0
+teb3,2025,40,0,440.46,pick support,0.0,4,0
+teb3,2025,40,0,493.98,pack support,0.0,4,0
+teb3,2025,40,0,496.3,receive dock,0.0,4,0
+teb3,2025,40,0,451.8,receive-support,0.0,4,0
+teb3,2025,40,0,356.1,pack multis,0.0,4,0
+teb3,2025,40,0,364.33,ib problem solve,0.0,4,0
+teb3,2025,40,0,272.72,transfer in dock,0.0,4,0
+teb3,2025,40,0,471.87,transfer out dock,0.0,4,0
+teb3,2025,40,0,270.43,outbound lead/pa,0.0,4,0
+teb3,2025,40,0,197.98,container load,0.0,4,0
+teb3,2025,40,0,501.63,ship dock support,0.0,4,0
+teb3,2025,40,0,169.54,container move,0.0,4,0
+teb3,2025,40,0,154.91,sort-batch,0.0,4,0
+teb3,2025,40,0,69.61,transfer in support,0.0,4,0
+teb3,2025,40,0,136.09,ob problem solve,0.0,4,0
+teb3,2025,40,0,191.18,inbound lead/pa,0.0,4,0
+teb3,2025,40,0,188.92,c-returns processed,0.0,4,0
+teb3,2025,40,0,95.57,ship dock lead/pa,0.0,4,0
+teb3,2025,40,0,103.07,v-returns pick,0.0,4,0
+teb3,2025,40,0,49.9,c-returns support,0.0,4,0
+teb3,2025,40,0,17.31,pallet transfer in,0.0,4,0
+teb3,2025,40,0,115.86,pallet-receive,0.0,4,0
+teb3,2025,40,0,90.91,lp-receive,0.0,4,0
+teb3,2025,40,0,69.13,v-returns support,0.0,4,0
+teb3,2025,40,0,28.63,prep recorder,0.0,4,0
+teb3,2025,40,0,41.07,cubiscan,0.0,4,0
+teb3,2025,40,0,8.33,whd grading support,0.0,4,0
+teb3,2025,40,0,44.08,whd grading,0.0,4,0
+teb3,2025,40,0,127.33,on boarding,0.0,4,0
+teb3,2025,40,0,33.02,transfer out lead/pa,0.0,4,0
+teb3,2025,40,0,20.75,v-returns pack,0.0,4,0
+teb3,2025,40,0,11.78,gift-wrap,0.0,4,0
+teb3,2025,40,0,4.06,unrecognizedprocess,0.0,4,0
+teb3,2025,40,0,0.17,custom packaging,0.0,4,0
+teb3,2025,41,3,3220.19,stow to prime,9.316220471462865,1,1
+teb3,2025,41,1,7148.06,pick,1.3989809822525272,2,1
+teb3,2025,41,1,563.35,pick support,17.750954113783614,2,1
+teb3,2025,41,1,524.52,pack multis,19.065049950430872,2,1
+teb3,2025,41,1,154.69,c-returns processed,64.64541987200207,2,1
+teb3,2025,41,0,2642.84,admin/hr/it,0.0,6,0
+teb3,2025,41,0,2433.32,pack singles,0.0,6,0
+teb3,2025,41,0,2225.07,ic-qa-cs,0.0,6,0
+teb3,2025,41,0,1435.6,container build,0.0,6,0
+teb3,2025,41,0,1472.94,rsr support,0.0,6,0
+teb3,2025,41,0,1058.09,fluid load,0.0,6,0
+teb3,2025,41,0,1094.32,each-receive,0.0,6,0
+teb3,2025,41,0,748.06,,0.0,6,0
+teb3,2025,41,0,797.9,transfer out,0.0,6,0
+teb3,2025,41,0,320.52,each transfer in,0.0,6,0
+teb3,2025,41,0,646.84,pack support,0.0,6,0
+teb3,2025,41,0,480.63,receive dock,0.0,6,0
+teb3,2025,41,0,556.46,receive-support,0.0,6,0
+teb3,2025,41,0,450.82,ib problem solve,0.0,6,0
+teb3,2025,41,0,205.18,transfer in dock,0.0,6,0
+teb3,2025,41,0,350.32,transfer out dock,0.0,6,0
+teb3,2025,41,0,364.86,outbound lead/pa,0.0,6,0
+teb3,2025,41,0,277.16,container load,0.0,6,0
+teb3,2025,41,0,748.98,ship dock support,0.0,6,0
+teb3,2025,41,0,335.87,stow to prime spt,0.0,6,0
+teb3,2025,41,0,256.54,container move,0.0,6,0
+teb3,2025,41,0,222.33,sort-batch,0.0,6,0
+teb3,2025,41,0,60.15,transfer in support,0.0,6,0
+teb3,2025,41,0,137.17,ob problem solve,0.0,6,0
+teb3,2025,41,0,206.52,inbound lead/pa,0.0,6,0
+teb3,2025,41,0,123.16,ship dock lead/pa,0.0,6,0
+teb3,2025,41,0,160.56,v-returns pick,0.0,6,0
+teb3,2025,41,0,78.3,c-returns support,0.0,6,0
+teb3,2025,41,0,7.12,pallet transfer in,0.0,6,0
+teb3,2025,41,0,134.37,pallet-receive,0.0,6,0
+teb3,2025,41,0,82.38,lp-receive,0.0,6,0
+teb3,2025,41,0,99.7,v-returns support,0.0,6,0
+teb3,2025,41,0,211.33,box on demand,0.0,6,0
+teb3,2025,41,0,31.41,prep recorder,0.0,6,0
+teb3,2025,41,0,50.8,cubiscan,0.0,6,0
+teb3,2025,41,0,22.59,whd grading support,0.0,6,0
+teb3,2025,41,0,57.23,whd grading,0.0,6,0
+teb3,2025,41,0,1.72,on boarding,0.0,6,0
+teb3,2025,41,0,22.5,transfer out lead/pa,0.0,6,0
+teb3,2025,41,0,22.99,v-returns pack,0.0,6,0
+teb3,2025,41,0,13.64,gift-wrap,0.0,6,0
+teb3,2025,41,0,6.55,unrecognizedprocess,0.0,6,0
+teb3,2025,41,0,3.32,custom packaging,0.0,6,0
+teb3,2025,41,0,0.13,v-returns rvr,0.0,6,0
+teb3,2025,42,1,5115.6,pick,1.954804910469935,1,1
+teb3,2025,42,1,3421.54,stow to prime,2.9226605563576635,1,1
+teb3,2025,42,1,1173.15,each-receive,8.524059156970548,1,1
+teb3,2025,42,1,519.72,transfer out dock,19.241129839144154,1,1
+teb3,2025,42,1,,transfer out pick,,1,1
+teb3,2025,42,0,2219.09,admin/hr/it,0.0,6,0
+teb3,2025,42,0,1681.51,pack singles,0.0,6,0
+teb3,2025,42,0,1875.45,ic-qa-cs,0.0,6,0
+teb3,2025,42,0,959.33,container build,0.0,6,0
+teb3,2025,42,0,1280.0,rsr support,0.0,6,0
+teb3,2025,42,0,861.56,fluid load,0.0,6,0
+teb3,2025,42,0,907.17,,0.0,6,0
+teb3,2025,42,0,711.94,transfer out,0.0,6,0
+teb3,2025,42,0,363.01,each transfer in,0.0,6,0
+teb3,2025,42,0,513.11,pick support,0.0,6,0
+teb3,2025,42,0,518.44,pack support,0.0,6,0
+teb3,2025,42,0,477.45,receive dock,0.0,6,0
+teb3,2025,42,0,616.7,receive-support,0.0,6,0
+teb3,2025,42,0,384.81,pack multis,0.0,6,0
+teb3,2025,42,0,453.85,ib problem solve,0.0,6,0
+teb3,2025,42,0,208.43,transfer in dock,0.0,6,0
+teb3,2025,42,0,315.66,outbound lead/pa,0.0,6,0
+teb3,2025,42,0,204.21,container load,0.0,6,0
+teb3,2025,42,0,456.36,ship dock support,0.0,6,0
+teb3,2025,42,0,394.25,stow to prime spt,0.0,6,0
+teb3,2025,42,0,163.94,container move,0.0,6,0
+teb3,2025,42,0,208.16,sort-batch,0.0,6,0
+teb3,2025,42,0,76.07,transfer in support,0.0,6,0
+teb3,2025,42,0,107.82,ob problem solve,0.0,6,0
+teb3,2025,42,0,186.62,inbound lead/pa,0.0,6,0
+teb3,2025,42,0,185.16,c-returns processed,0.0,6,0
+teb3,2025,42,0,97.61,ship dock lead/pa,0.0,6,0
+teb3,2025,42,0,147.24,v-returns pick,0.0,6,0
+teb3,2025,42,0,62.47,c-returns support,0.0,6,0
+teb3,2025,42,0,8.14,pallet transfer in,0.0,6,0
+teb3,2025,42,0,139.07,pallet-receive,0.0,6,0
+teb3,2025,42,0,73.28,lp-receive,0.0,6,0
+teb3,2025,42,0,10.94,non fc controllable,0.0,6,0
+teb3,2025,42,0,77.86,v-returns support,0.0,6,0
+teb3,2025,42,0,48.18,box on demand,0.0,6,0
+teb3,2025,42,0,46.23,prep recorder,0.0,6,0
+teb3,2025,42,0,68.49,cubiscan,0.0,6,0
+teb3,2025,42,0,19.18,whd grading support,0.0,6,0
+teb3,2025,42,0,38.26,whd grading,0.0,6,0
+teb3,2025,42,0,14.8,on boarding,0.0,6,0
+teb3,2025,42,0,27.09,transfer out lead/pa,0.0,6,0
+teb3,2025,42,0,25.26,v-returns pack,0.0,6,0
+teb3,2025,42,0,8.63,gift-wrap,0.0,6,0
+teb3,2025,42,0,4.68,unrecognizedprocess,0.0,6,0
+teb3,2025,42,0,2.95,custom packaging,0.0,6,0
+teb3,2025,43,1,784.58,fluid load,12.745672844069437,1,1
+teb3,2025,43,1,627.11,transfer out,15.946165744446747,1,1
+teb3,2025,43,0,4643.46,pick,0.0,3,1
+teb3,2025,43,0,2404.04,admin/hr/it,0.0,3,1
+teb3,2025,43,0,2176.23,stow to prime,0.0,3,1
+teb3,2025,43,0,1545.48,pack singles,0.0,3,1
+teb3,2025,43,0,1748.36,ic-qa-cs,0.0,3,1
+teb3,2025,43,0,929.1,container build,0.0,3,1
+teb3,2025,43,0,972.31,rsr support,0.0,3,1
+teb3,2025,43,0,674.15,each-receive,0.0,3,1
+teb3,2025,43,0,772.86,,0.0,3,1
+teb3,2025,43,0,452.99,each transfer in,0.0,3,1
+teb3,2025,43,0,395.33,pick support,0.0,3,1
+teb3,2025,43,0,438.08,pack support,0.0,3,1
+teb3,2025,43,0,313.38,receive dock,0.0,3,1
+teb3,2025,43,0,344.26,receive-support,0.0,3,1
+teb3,2025,43,0,368.37,pack multis,0.0,3,1
+teb3,2025,43,0,341.22,ib problem solve,0.0,3,1
+teb3,2025,43,0,241.57,transfer in dock,0.0,3,1
+teb3,2025,43,0,605.63,transfer out dock,0.0,3,1
+teb3,2025,43,0,332.47,outbound lead/pa,0.0,3,1
+teb3,2025,43,0,180.67,container load,0.0,3,1
+teb3,2025,43,0,431.68,ship dock support,0.0,3,1
+teb3,2025,43,0,261.25,stow to prime spt,0.0,3,1
+teb3,2025,43,0,156.95,container move,0.0,3,1
+teb3,2025,43,0,170.91,sort-batch,0.0,3,1
+teb3,2025,43,0,64.69,transfer in support,0.0,3,1
+teb3,2025,43,0,144.78,ob problem solve,0.0,3,1
+teb3,2025,43,0,163.4,inbound lead/pa,0.0,3,1
+teb3,2025,43,0,137.32,c-returns processed,0.0,3,1
+teb3,2025,43,0,107.96,ship dock lead/pa,0.0,3,1
+teb3,2025,43,0,118.83,v-returns pick,0.0,3,1
+teb3,2025,43,0,68.49,c-returns support,0.0,3,1
+teb3,2025,43,0,7.7,pallet transfer in,0.0,3,1
+teb3,2025,43,0,113.35,pallet-receive,0.0,3,1
+teb3,2025,43,0,75.23,lp-receive,0.0,3,1
+teb3,2025,43,0,2114.57,non fc controllable,0.0,3,1
+teb3,2025,43,0,53.3,v-returns support,0.0,3,1
+teb3,2025,43,0,50.02,box on demand,0.0,3,1
+teb3,2025,43,0,35.5,prep recorder,0.0,3,1
+teb3,2025,43,0,46.94,cubiscan,0.0,3,1
+teb3,2025,43,0,9.26,whd grading support,0.0,3,1
+teb3,2025,43,0,36.77,whd grading,0.0,3,1
+teb3,2025,43,0,17.3,transfer out lead/pa,0.0,3,1
+teb3,2025,43,0,17.21,v-returns pack,0.0,3,1
+teb3,2025,43,0,9.83,gift-wrap,0.0,3,1
+teb3,2025,43,0,13.1,unrecognizedprocess,0.0,3,1
+teb3,2025,43,0,0.96,custom packaging,0.0,3,1
+teb3,2025,44,1,3652.63,stow to prime,2.737753344850149,1,1
+teb3,2025,44,0,4512.03,pick,0.0,2,1
+teb3,2025,44,0,2388.54,admin/hr/it,0.0,2,1
+teb3,2025,44,0,1591.52,pack singles,0.0,2,1
+teb3,2025,44,0,1912.29,ic-qa-cs,0.0,2,1
+teb3,2025,44,0,983.04,container build,0.0,2,1
+teb3,2025,44,0,1570.63,rsr support,0.0,2,1
+teb3,2025,44,0,770.52,fluid load,0.0,2,1
+teb3,2025,44,0,969.81,each-receive,0.0,2,1
+teb3,2025,44,0,825.1,,0.0,2,1
+teb3,2025,44,0,813.91,transfer out,0.0,2,1
+teb3,2025,44,0,316.3,each transfer in,0.0,2,1
+teb3,2025,44,0,433.24,pick support,0.0,2,1
+teb3,2025,44,0,468.61,pack support,0.0,2,1
+teb3,2025,44,0,482.68,receive dock,0.0,2,1
+teb3,2025,44,0,503.25,receive-support,0.0,2,1
+teb3,2025,44,0,345.75,pack multis,0.0,2,1
+teb3,2025,44,0,442.15,ib problem solve,0.0,2,1
+teb3,2025,44,0,176.43,transfer in dock,0.0,2,1
+teb3,2025,44,0,611.11,transfer out dock,0.0,2,1
+teb3,2025,44,0,300.58,outbound lead/pa,0.0,2,1
+teb3,2025,44,0,207.11,container load,0.0,2,1
+teb3,2025,44,0,277.29,ship dock support,0.0,2,1
+teb3,2025,44,0,379.7,stow to prime spt,0.0,2,1
+teb3,2025,44,0,191.85,container move,0.0,2,1
+teb3,2025,44,0,165.53,sort-batch,0.0,2,1
+teb3,2025,44,0,36.79,transfer in support,0.0,2,1
+teb3,2025,44,0,109.19,ob problem solve,0.0,2,1
+teb3,2025,44,0,174.22,inbound lead/pa,0.0,2,1
+teb3,2025,44,0,196.48,c-returns processed,0.0,2,1
+teb3,2025,44,0,131.76,ship dock lead/pa,0.0,2,1
+teb3,2025,44,0,113.04,v-returns pick,0.0,2,1
+teb3,2025,44,0,87.38,c-returns support,0.0,2,1
+teb3,2025,44,0,10.2,pallet transfer in,0.0,2,1
+teb3,2025,44,0,130.88,pallet-receive,0.0,2,1
+teb3,2025,44,0,118.83,lp-receive,0.0,2,1
+teb3,2025,44,0,65.46,v-returns support,0.0,2,1
+teb3,2025,44,0,16.13,box on demand,0.0,2,1
+teb3,2025,44,0,58.77,prep recorder,0.0,2,1
+teb3,2025,44,0,61.18,cubiscan,0.0,2,1
+teb3,2025,44,0,5.96,whd grading support,0.0,2,1
+teb3,2025,44,0,54.2,whd grading,0.0,2,1
+teb3,2025,44,0,0.87,on boarding,0.0,2,1
+teb3,2025,44,0,42.64,transfer out lead/pa,0.0,2,1
+teb3,2025,44,0,16.77,v-returns pack,0.0,2,1
+teb3,2025,44,0,7.49,gift-wrap,0.0,2,1
+teb3,2025,44,0,14.21,unrecognizedprocess,0.0,2,1
+teb3,2025,44,0,2.56,custom packaging,0.0,2,1
+teb3,2025,44,0,0.35,v-returns rvr,0.0,2,1
+teb3,2025,45,2,4707.48,pick,4.248557614689814,1,1
+teb3,2025,45,1,1034.49,container build,9.666599000473663,2,1
+teb3,2025,45,0,2338.84,admin/hr/it,0.0,3,1
+teb3,2025,45,0,2618.39,stow to prime,0.0,3,1
+teb3,2025,45,0,1712.45,pack singles,0.0,3,1
+teb3,2025,45,0,1918.99,ic-qa-cs,0.0,3,1
+teb3,2025,45,0,1161.3,rsr support,0.0,3,1
+teb3,2025,45,0,646.71,fluid load,0.0,3,1
+teb3,2025,45,0,669.83,each-receive,0.0,3,1
+teb3,2025,45,0,810.95,,0.0,3,1
+teb3,2025,45,0,890.93,transfer out,0.0,3,1
+teb3,2025,45,0,363.93,each transfer in,0.0,3,1
+teb3,2025,45,0,380.14,pick support,0.0,3,1
+teb3,2025,45,0,500.07,pack support,0.0,3,1
+teb3,2025,45,0,348.45,receive dock,0.0,3,1
+teb3,2025,45,0,435.45,receive-support,0.0,3,1
+teb3,2025,45,0,280.12,pack multis,0.0,3,1
+teb3,2025,45,0,338.49,ib problem solve,0.0,3,1
+teb3,2025,45,0,149.99,transfer in dock,0.0,3,1
+teb3,2025,45,0,681.81,transfer out dock,0.0,3,1
+teb3,2025,45,0,312.46,outbound lead/pa,0.0,3,1
+teb3,2025,45,0,235.36,container load,0.0,3,1
+teb3,2025,45,0,354.52,ship dock support,0.0,3,1
+teb3,2025,45,0,318.01,stow to prime spt,0.0,3,1
+teb3,2025,45,0,193.08,container move,0.0,3,1
+teb3,2025,45,0,141.04,sort-batch,0.0,3,1
+teb3,2025,45,0,33.84,transfer in support,0.0,3,1
+teb3,2025,45,0,107.75,ob problem solve,0.0,3,1
+teb3,2025,45,0,127.56,inbound lead/pa,0.0,3,1
+teb3,2025,45,0,182.08,c-returns processed,0.0,3,1
+teb3,2025,45,0,122.54,ship dock lead/pa,0.0,3,1
+teb3,2025,45,0,99.92,v-returns pick,0.0,3,1
+teb3,2025,45,0,117.05,c-returns support,0.0,3,1
+teb3,2025,45,0,10.32,pallet transfer in,0.0,3,1
+teb3,2025,45,0,124.67,pallet-receive,0.0,3,1
+teb3,2025,45,0,95.07,lp-receive,0.0,3,1
+teb3,2025,45,0,99.74,v-returns support,0.0,3,1
+teb3,2025,45,0,0.73,box on demand,0.0,3,1
+teb3,2025,45,0,78.15,prep recorder,0.0,3,1
+teb3,2025,45,0,50.72,cubiscan,0.0,3,1
+teb3,2025,45,0,22.43,whd grading support,0.0,3,1
+teb3,2025,45,0,41.89,whd grading,0.0,3,1
+teb3,2025,45,0,38.25,transfer out lead/pa,0.0,3,1
+teb3,2025,45,0,15.5,v-returns pack,0.0,3,1
+teb3,2025,45,0,16.93,gift-wrap,0.0,3,1
+teb3,2025,45,0,5.69,unrecognizedprocess,0.0,3,1
+teb3,2025,45,0,1.94,custom packaging,0.0,3,1
+teb3,2025,45,0,0.87,v-returns rvr,0.0,3,1
+teb3,2025,46,1,2647.55,stow to prime,3.777076920171479,1,1
+teb3,2025,46,0,4655.19,pick,0.0,2,1
+teb3,2025,46,0,2482.38,admin/hr/it,0.0,2,1
+teb3,2025,46,0,1660.07,pack singles,0.0,2,1
+teb3,2025,46,0,1873.35,ic-qa-cs,0.0,2,1
+teb3,2025,46,0,1097.45,container build,0.0,2,1
+teb3,2025,46,0,1253.02,rsr support,0.0,2,1
+teb3,2025,46,0,726.24,fluid load,0.0,2,1
+teb3,2025,46,0,725.68,each-receive,0.0,2,1
+teb3,2025,46,0,852.94,,0.0,2,1
+teb3,2025,46,0,913.91,transfer out,0.0,2,1
+teb3,2025,46,0,310.09,each transfer in,0.0,2,1
+teb3,2025,46,0,434.61,pick support,0.0,2,1
+teb3,2025,46,0,487.49,pack support,0.0,2,1
+teb3,2025,46,0,397.02,receive dock,0.0,2,1
+teb3,2025,46,0,611.72,receive-support,0.0,2,1
+teb3,2025,46,0,283.35,pack multis,0.0,2,1
+teb3,2025,46,0,426.98,ib problem solve,0.0,2,1
+teb3,2025,46,0,139.17,transfer in dock,0.0,2,1
+teb3,2025,46,0,822.34,transfer out dock,0.0,2,1
+teb3,2025,46,0,303.01,outbound lead/pa,0.0,2,1
+teb3,2025,46,0,201.17,container load,0.0,2,1
+teb3,2025,46,0,263.13,ship dock support,0.0,2,1
+teb3,2025,46,0,375.99,stow to prime spt,0.0,2,1
+teb3,2025,46,0,203.86,container move,0.0,2,1
+teb3,2025,46,0,127.23,sort-batch,0.0,2,1
+teb3,2025,46,0,23.65,transfer in support,0.0,2,1
+teb3,2025,46,0,107.8,ob problem solve,0.0,2,1
+teb3,2025,46,0,189.12,inbound lead/pa,0.0,2,1
+teb3,2025,46,0,16.9,c-returns processed,0.0,2,1
+teb3,2025,46,0,74.46,ship dock lead/pa,0.0,2,1
+teb3,2025,46,0,119.1,v-returns pick,0.0,2,1
+teb3,2025,46,0,49.9,c-returns support,0.0,2,1
+teb3,2025,46,0,8.96,pallet transfer in,0.0,2,1
+teb3,2025,46,0,131.74,pallet-receive,0.0,2,1
+teb3,2025,46,0,107.26,lp-receive,0.0,2,1
+teb3,2025,46,0,110.91,v-returns support,0.0,2,1
+teb3,2025,46,0,1.1,box on demand,0.0,2,1
+teb3,2025,46,0,30.25,prep recorder,0.0,2,1
+teb3,2025,46,0,39.99,cubiscan,0.0,2,1
+teb3,2025,46,0,20.68,whd grading support,0.0,2,1
+teb3,2025,46,0,12.99,whd grading,0.0,2,1
+teb3,2025,46,0,40.37,transfer out lead/pa,0.0,2,1
+teb3,2025,46,0,21.43,v-returns pack,0.0,2,1
+teb3,2025,46,0,9.08,gift-wrap,0.0,2,1
+teb3,2025,46,0,3.92,unrecognizedprocess,0.0,2,1
+teb3,2025,46,0,2.46,custom packaging,0.0,2,1
+teb3,2025,47,1,5574.24,pick,1.7939665317603835,1,1
+teb3,2025,47,1,2496.58,stow to prime,4.0054794959504605,1,1
+teb3,2025,47,1,1229.9,rsr support,8.130742336775347,1,1
+teb3,2025,47,1,904.6,transfer out,11.054609772275038,1,1
+teb3,2025,47,0,2325.27,admin/hr/it,0.0,5,0
+teb3,2025,47,0,1867.73,pack singles,0.0,5,0
+teb3,2025,47,0,1799.92,ic-qa-cs,0.0,5,0
+teb3,2025,47,0,1257.83,container build,0.0,5,0
+teb3,2025,47,0,790.67,fluid load,0.0,5,0
+teb3,2025,47,0,699.47,each-receive,0.0,5,0
+teb3,2025,47,0,883.27,,0.0,5,0
+teb3,2025,47,0,480.53,each transfer in,0.0,5,0
+teb3,2025,47,0,425.94,pick support,0.0,5,0
+teb3,2025,47,0,558.68,pack support,0.0,5,0
+teb3,2025,47,0,484.54,receive dock,0.0,5,0
+teb3,2025,47,0,401.98,receive-support,0.0,5,0
+teb3,2025,47,0,368.58,pack multis,0.0,5,0
+teb3,2025,47,0,445.46,ib problem solve,0.0,5,0
+teb3,2025,47,0,318.45,transfer in dock,0.0,5,0
+teb3,2025,47,0,623.54,transfer out dock,0.0,5,0
+teb3,2025,47,0,333.01,outbound lead/pa,0.0,5,0
+teb3,2025,47,0,257.12,container load,0.0,5,0
+teb3,2025,47,0,393.44,ship dock support,0.0,5,0
+teb3,2025,47,0,342.34,stow to prime spt,0.0,5,0
+teb3,2025,47,0,236.36,container move,0.0,5,0
+teb3,2025,47,0,157.56,sort-batch,0.0,5,0
+teb3,2025,47,0,130.24,transfer in support,0.0,5,0
+teb3,2025,47,0,113.76,ob problem solve,0.0,5,0
+teb3,2025,47,0,204.97,inbound lead/pa,0.0,5,0
+teb3,2025,47,0,54.37,c-returns processed,0.0,5,0
+teb3,2025,47,0,92.75,ship dock lead/pa,0.0,5,0
+teb3,2025,47,0,108.79,v-returns pick,0.0,5,0
+teb3,2025,47,0,58.97,c-returns support,0.0,5,0
+teb3,2025,47,0,27.43,pallet transfer in,0.0,5,0
+teb3,2025,47,0,126.33,pallet-receive,0.0,5,0
+teb3,2025,47,0,103.0,lp-receive,0.0,5,0
+teb3,2025,47,0,108.68,v-returns support,0.0,5,0
+teb3,2025,47,0,45.73,prep recorder,0.0,5,0
+teb3,2025,47,0,37.43,cubiscan,0.0,5,0
+teb3,2025,47,0,10.77,whd grading support,0.0,5,0
+teb3,2025,47,0,10.25,whd grading,0.0,5,0
+teb3,2025,47,0,1.67,on boarding,0.0,5,0
+teb3,2025,47,0,189.31,temporary light duty,0.0,5,0
+teb3,2025,47,0,17.01,transfer out lead/pa,0.0,5,0
+teb3,2025,47,0,27.12,v-returns pack,0.0,5,0
+teb3,2025,47,0,10.9,gift-wrap,0.0,5,0
+teb3,2025,47,0,6.51,unrecognizedprocess,0.0,5,0
+teb3,2025,47,0,5.15,custom packaging,0.0,5,0
+teb3,2025,47,0,0.28,v-returns rvr,0.0,5,0
+teb3,2025,48,2,1897.78,admin/hr/it,10.538629345867276,1,1
+teb3,2025,48,1,7683.3,pick,1.3015240847031875,2,1
+teb3,2025,48,1,2237.49,stow to prime,4.469293717513822,2,1
+teb3,2025,48,1,1174.14,fluid load,8.516871923280018,2,1
+teb3,2025,48,0,2513.36,pack singles,0.0,5,0
+teb3,2025,48,0,2039.2,ic-qa-cs,0.0,5,0
+teb3,2025,48,0,1948.17,container build,0.0,5,0
+teb3,2025,48,0,1302.33,rsr support,0.0,5,0
+teb3,2025,48,0,800.85,each-receive,0.0,5,0
+teb3,2025,48,0,855.22,,0.0,5,0
+teb3,2025,48,0,1009.07,transfer out,0.0,5,0
+teb3,2025,48,0,366.98,each transfer in,0.0,5,0
+teb3,2025,48,0,585.19,pick support,0.0,5,0
+teb3,2025,48,0,817.17,pack support,0.0,5,0
+teb3,2025,48,0,405.97,receive dock,0.0,5,0
+teb3,2025,48,0,467.41,receive-support,0.0,5,0
+teb3,2025,48,0,638.16,pack multis,0.0,5,0
+teb3,2025,48,0,420.93,ib problem solve,0.0,5,0
+teb3,2025,48,0,215.55,transfer in dock,0.0,5,0
+teb3,2025,48,0,915.15,transfer out dock,0.0,5,0
+teb3,2025,48,0,383.99,outbound lead/pa,0.0,5,0
+teb3,2025,48,0,373.49,container load,0.0,5,0
+teb3,2025,48,0,405.68,ship dock support,0.0,5,0
+teb3,2025,48,0,268.04,stow to prime spt,0.0,5,0
+teb3,2025,48,0,373.34,container move,0.0,5,0
+teb3,2025,48,0,286.22,sort-batch,0.0,5,0
+teb3,2025,48,0,185.32,transfer in support,0.0,5,0
+teb3,2025,48,0,136.31,ob problem solve,0.0,5,0
+teb3,2025,48,0,141.48,inbound lead/pa,0.0,5,0
+teb3,2025,48,0,120.06,c-returns processed,0.0,5,0
+teb3,2025,48,0,126.15,ship dock lead/pa,0.0,5,0
+teb3,2025,48,0,84.59,v-returns pick,0.0,5,0
+teb3,2025,48,0,68.83,c-returns support,0.0,5,0
+teb3,2025,48,0,125.1,pallet transfer in,0.0,5,0
+teb3,2025,48,0,120.85,pallet-receive,0.0,5,0
+teb3,2025,48,0,107.49,lp-receive,0.0,5,0
+teb3,2025,48,0,57.08,v-returns support,0.0,5,0
+teb3,2025,48,0,17.46,box on demand,0.0,5,0
+teb3,2025,48,0,31.91,prep recorder,0.0,5,0
+teb3,2025,48,0,37.49,cubiscan,0.0,5,0
+teb3,2025,48,0,7.11,whd grading support,0.0,5,0
+teb3,2025,48,0,64.98,whd grading,0.0,5,0
+teb3,2025,48,0,343.93,temporary light duty,0.0,5,0
+teb3,2025,48,0,25.77,transfer out lead/pa,0.0,5,0
+teb3,2025,48,0,20.8,v-returns pack,0.0,5,0
+teb3,2025,48,0,19.7,gift-wrap,0.0,5,0
+teb3,2025,48,0,3.62,unrecognizedprocess,0.0,5,0
+teb3,2025,48,0,3.58,custom packaging,0.0,5,0
+teb3,2025,48,0,0.08,v-returns rvr,0.0,5,0
+teb3,2025,49,1,2442.79,container build,4.093679767806484,1,1
+teb3,2025,49,1,1156.33,rsr support,8.648050297060529,1,1
+teb3,2025,49,1,384.45,ship dock support,26.011184809468073,1,1
+teb3,2025,49,0,8806.4,pick,0.0,4,0
+teb3,2025,49,0,2317.74,admin/hr/it,0.0,4,0
+teb3,2025,49,0,2242.53,stow to prime,0.0,4,0
+teb3,2025,49,0,3292.86,pack singles,0.0,4,0
+teb3,2025,49,0,2116.59,ic-qa-cs,0.0,4,0
+teb3,2025,49,0,1386.29,fluid load,0.0,4,0
+teb3,2025,49,0,982.63,each-receive,0.0,4,0
+teb3,2025,49,0,757.11,,0.0,4,0
+teb3,2025,49,0,874.32,transfer out,0.0,4,0
+teb3,2025,49,0,239.28,each transfer in,0.0,4,0
+teb3,2025,49,0,630.12,pick support,0.0,4,0
+teb3,2025,49,0,888.94,pack support,0.0,4,0
+teb3,2025,49,0,571.61,receive dock,0.0,4,0
+teb3,2025,49,0,460.06,receive-support,0.0,4,0
+teb3,2025,49,0,850.21,pack multis,0.0,4,0
+teb3,2025,49,0,419.66,ib problem solve,0.0,4,0
+teb3,2025,49,0,211.57,transfer in dock,0.0,4,0
+teb3,2025,49,0,723.14,transfer out dock,0.0,4,0
+teb3,2025,49,0,393.53,outbound lead/pa,0.0,4,0
+teb3,2025,49,0,519.37,container load,0.0,4,0
+teb3,2025,49,0,251.09,stow to prime spt,0.0,4,0
+teb3,2025,49,0,481.01,container move,0.0,4,0
+teb3,2025,49,0,433.0,sort-batch,0.0,4,0
+teb3,2025,49,0,68.93,transfer in support,0.0,4,0
+teb3,2025,49,0,153.45,ob problem solve,0.0,4,0
+teb3,2025,49,0,85.86,inbound lead/pa,0.0,4,0
+teb3,2025,49,0,111.26,c-returns processed,0.0,4,0
+teb3,2025,49,0,117.11,ship dock lead/pa,0.0,4,0
+teb3,2025,49,0,166.06,v-returns pick,0.0,4,0
+teb3,2025,49,0,88.27,c-returns support,0.0,4,0
+teb3,2025,49,0,41.78,pallet transfer in,0.0,4,0
+teb3,2025,49,0,152.49,pallet-receive,0.0,4,0
+teb3,2025,49,0,120.53,lp-receive,0.0,4,0
+teb3,2025,49,0,108.52,v-returns support,0.0,4,0
+teb3,2025,49,0,1.59,box on demand,0.0,4,0
+teb3,2025,49,0,46.34,prep recorder,0.0,4,0
+teb3,2025,49,0,53.4,cubiscan,0.0,4,0
+teb3,2025,49,0,6.43,whd grading support,0.0,4,0
+teb3,2025,49,0,70.52,whd grading,0.0,4,0
+teb3,2025,49,0,484.78,temporary light duty,0.0,4,0
+teb3,2025,49,0,29.2,transfer out lead/pa,0.0,4,0
+teb3,2025,49,0,37.19,v-returns pack,0.0,4,0
+teb3,2025,49,0,52.02,gift-wrap,0.0,4,0
+teb3,2025,49,0,4.07,unrecognizedprocess,0.0,4,0
+teb3,2025,49,0,10.7,custom packaging,0.0,4,0
+teb3,2025,50,1,7458.05,pick,1.340833059579917,1,1
+teb3,2025,50,1,1237.56,rsr support,8.080416303047933,1,1
+teb3,2025,50,1,523.53,receive-support,19.10110213359311,1,1
+teb3,2025,50,1,,ship dock,,1,1
+teb3,2025,50,0,2280.28,admin/hr/it,0.0,5,0
+teb3,2025,50,0,2505.19,stow to prime,0.0,5,0
+teb3,2025,50,0,2772.66,pack singles,0.0,5,0
+teb3,2025,50,0,2571.85,ic-qa-cs,0.0,5,0
+teb3,2025,50,0,1866.97,container build,0.0,5,0
+teb3,2025,50,0,1291.28,fluid load,0.0,5,0
+teb3,2025,50,0,1157.73,each-receive,0.0,5,0
+teb3,2025,50,0,897.39,,0.0,5,0
+teb3,2025,50,0,781.93,transfer out,0.0,5,0
+teb3,2025,50,0,655.76,each transfer in,0.0,5,0
+teb3,2025,50,0,544.16,pick support,0.0,5,0
+teb3,2025,50,0,755.44,pack support,0.0,5,0
+teb3,2025,50,0,642.73,receive dock,0.0,5,0
+teb3,2025,50,0,656.64,pack multis,0.0,5,0
+teb3,2025,50,0,496.69,ib problem solve,0.0,5,0
+teb3,2025,50,0,462.27,transfer in dock,0.0,5,0
+teb3,2025,50,0,654.91,transfer out dock,0.0,5,0
+teb3,2025,50,0,378.73,outbound lead/pa,0.0,5,0
+teb3,2025,50,0,386.52,container load,0.0,5,0
+teb3,2025,50,0,478.23,ship dock support,0.0,5,0
+teb3,2025,50,0,353.76,stow to prime spt,0.0,5,0
+teb3,2025,50,0,337.15,container move,0.0,5,0
+teb3,2025,50,0,288.0,sort-batch,0.0,5,0
+teb3,2025,50,0,114.58,transfer in support,0.0,5,0
+teb3,2025,50,0,121.32,ob problem solve,0.0,5,0
+teb3,2025,50,0,157.58,inbound lead/pa,0.0,5,0
+teb3,2025,50,0,123.17,c-returns processed,0.0,5,0
+teb3,2025,50,0,93.06,ship dock lead/pa,0.0,5,0
+teb3,2025,50,0,132.42,v-returns pick,0.0,5,0
+teb3,2025,50,0,97.78,c-returns support,0.0,5,0
+teb3,2025,50,0,15.76,pallet transfer in,0.0,5,0
+teb3,2025,50,0,140.09,pallet-receive,0.0,5,0
+teb3,2025,50,0,114.66,lp-receive,0.0,5,0
+teb3,2025,50,0,99.71,v-returns support,0.0,5,0
+teb3,2025,50,0,71.21,box on demand,0.0,5,0
+teb3,2025,50,0,77.26,prep recorder,0.0,5,0
+teb3,2025,50,0,46.47,cubiscan,0.0,5,0
+teb3,2025,50,0,56.52,whd grading support,0.0,5,0
+teb3,2025,50,0,74.66,whd grading,0.0,5,0
+teb3,2025,50,0,523.01,temporary light duty,0.0,5,0
+teb3,2025,50,0,31.58,transfer out lead/pa,0.0,5,0
+teb3,2025,50,0,25.65,v-returns pack,0.0,5,0
+teb3,2025,50,0,54.8,gift-wrap,0.0,5,0
+teb3,2025,50,0,3.06,unrecognizedprocess,0.0,5,0
+teb3,2025,50,0,3.75,custom packaging,0.0,5,0
+teb3,2025,50,0,0.12,v-returns rvr,0.0,5,0
+teb3,2025,50,0,0.38,case-receive,0.0,5,0
+teb3,2025,51,1,7051.45,pick,1.418148040473945,1,1
+teb3,2025,51,1,108.76,lp-receive,91.94556822361162,1,1
+teb3,2025,51,1,,ic/qa/cs,,1,1
+teb3,2025,51,0,2379.51,admin/hr/it,0.0,4,0
+teb3,2025,51,0,1571.52,stow to prime,0.0,4,0
+teb3,2025,51,0,2814.41,pack singles,0.0,4,0
+teb3,2025,51,0,2496.76,ic-qa-cs,0.0,4,0
+teb3,2025,51,0,1924.5,container build,0.0,4,0
+teb3,2025,51,0,1031.91,rsr support,0.0,4,0
+teb3,2025,51,0,1176.14,fluid load,0.0,4,0
+teb3,2025,51,0,727.95,each-receive,0.0,4,0
+teb3,2025,51,0,981.01,,0.0,4,0
+teb3,2025,51,0,990.71,transfer out,0.0,4,0
+teb3,2025,51,0,705.58,each transfer in,0.0,4,0
+teb3,2025,51,0,521.5,pick support,0.0,4,0
+teb3,2025,51,0,674.69,pack support,0.0,4,0
+teb3,2025,51,0,496.83,receive dock,0.0,4,0
+teb3,2025,51,0,348.13,receive-support,0.0,4,0
+teb3,2025,51,0,538.4,pack multis,0.0,4,0
+teb3,2025,51,0,426.15,ib problem solve,0.0,4,0
+teb3,2025,51,0,477.82,transfer in dock,0.0,4,0
+teb3,2025,51,0,661.73,transfer out dock,0.0,4,0
+teb3,2025,51,0,365.93,outbound lead/pa,0.0,4,0
+teb3,2025,51,0,387.3,container load,0.0,4,0
+teb3,2025,51,0,364.87,ship dock support,0.0,4,0
+teb3,2025,51,0,248.53,stow to prime spt,0.0,4,0
+teb3,2025,51,0,346.5,container move,0.0,4,0
+teb3,2025,51,0,250.04,sort-batch,0.0,4,0
+teb3,2025,51,0,178.93,transfer in support,0.0,4,0
+teb3,2025,51,0,112.39,ob problem solve,0.0,4,0
+teb3,2025,51,0,142.32,inbound lead/pa,0.0,4,0
+teb3,2025,51,0,78.05,c-returns processed,0.0,4,0
+teb3,2025,51,0,100.28,ship dock lead/pa,0.0,4,0
+teb3,2025,51,0,119.2,v-returns pick,0.0,4,0
+teb3,2025,51,0,61.21,c-returns support,0.0,4,0
+teb3,2025,51,0,64.09,pallet transfer in,0.0,4,0
+teb3,2025,51,0,124.83,pallet-receive,0.0,4,0
+teb3,2025,51,0,97.75,v-returns support,0.0,4,0
+teb3,2025,51,0,95.01,box on demand,0.0,4,0
+teb3,2025,51,0,40.0,prep recorder,0.0,4,0
+teb3,2025,51,0,65.87,cubiscan,0.0,4,0
+teb3,2025,51,0,17.96,whd grading support,0.0,4,0
+teb3,2025,51,0,53.84,whd grading,0.0,4,0
+teb3,2025,51,0,445.16,temporary light duty,0.0,4,0
+teb3,2025,51,0,21.22,transfer out lead/pa,0.0,4,0
+teb3,2025,51,0,51.72,v-returns pack,0.0,4,0
+teb3,2025,51,0,79.75,gift-wrap,0.0,4,0
+teb3,2025,51,0,6.21,unrecognizedprocess,0.0,4,0
+teb3,2025,51,0,3.51,custom packaging,0.0,4,0
+teb3,2025,51,0,0.02,case-receive,0.0,4,0
+teb3,2025,52,1,701.28,rsr support,14.259639516313028,1,1
+teb3,2025,52,0,4166.14,pick,0.0,2,1
+teb3,2025,52,0,1376.02,admin/hr/it,0.0,2,1
+teb3,2025,52,0,1137.94,stow to prime,0.0,2,1
+teb3,2025,52,0,1650.21,pack singles,0.0,2,1
+teb3,2025,52,0,1356.99,ic-qa-cs,0.0,2,1
+teb3,2025,52,0,1083.44,container build,0.0,2,1
+teb3,2025,52,0,619.59,fluid load,0.0,2,1
+teb3,2025,52,0,545.76,each-receive,0.0,2,1
+teb3,2025,52,0,740.6,,0.0,2,1
+teb3,2025,52,0,429.57,transfer out,0.0,2,1
+teb3,2025,52,0,213.47,each transfer in,0.0,2,1
+teb3,2025,52,0,300.82,pick support,0.0,2,1
+teb3,2025,52,0,415.89,pack support,0.0,2,1
+teb3,2025,52,0,277.88,receive dock,0.0,2,1
+teb3,2025,52,0,254.33,receive-support,0.0,2,1
+teb3,2025,52,0,296.33,pack multis,0.0,2,1
+teb3,2025,52,0,148.0,ib problem solve,0.0,2,1
+teb3,2025,52,0,181.83,transfer in dock,0.0,2,1
+teb3,2025,52,0,539.46,transfer out dock,0.0,2,1
+teb3,2025,52,0,219.55,outbound lead/pa,0.0,2,1
+teb3,2025,52,0,199.84,container load,0.0,2,1
+teb3,2025,52,0,242.65,ship dock support,0.0,2,1
+teb3,2025,52,0,178.48,stow to prime spt,0.0,2,1
+teb3,2025,52,0,186.16,container move,0.0,2,1
+teb3,2025,52,0,133.31,sort-batch,0.0,2,1
+teb3,2025,52,0,128.82,transfer in support,0.0,2,1
+teb3,2025,52,0,76.12,ob problem solve,0.0,2,1
+teb3,2025,52,0,79.97,inbound lead/pa,0.0,2,1
+teb3,2025,52,0,34.33,c-returns processed,0.0,2,1
+teb3,2025,52,0,73.39,ship dock lead/pa,0.0,2,1
+teb3,2025,52,0,47.02,v-returns pick,0.0,2,1
+teb3,2025,52,0,19.53,c-returns support,0.0,2,1
+teb3,2025,52,0,56.44,pallet transfer in,0.0,2,1
+teb3,2025,52,0,86.51,pallet-receive,0.0,2,1
+teb3,2025,52,0,75.76,lp-receive,0.0,2,1
+teb3,2025,52,0,49.87,v-returns support,0.0,2,1
+teb3,2025,52,0,36.08,box on demand,0.0,2,1
+teb3,2025,52,0,34.76,prep recorder,0.0,2,1
+teb3,2025,52,0,26.16,cubiscan,0.0,2,1
+teb3,2025,52,0,7.9,whd grading support,0.0,2,1
+teb3,2025,52,0,13.64,whd grading,0.0,2,1
+teb3,2025,52,0,222.07,temporary light duty,0.0,2,1
+teb3,2025,52,0,10.02,transfer out lead/pa,0.0,2,1
+teb3,2025,52,0,5.61,v-returns pack,0.0,2,1
+teb3,2025,52,0,33.66,gift-wrap,0.0,2,1
+teb3,2025,52,0,5.33,unrecognizedprocess,0.0,2,1
+teb3,2025,52,0,2.35,custom packaging,0.0,2,1
+teb3,2025,52,0,0.02,v-returns rvr,0.0,2,1
