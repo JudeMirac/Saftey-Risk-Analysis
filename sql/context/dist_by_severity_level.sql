@@ -5,29 +5,26 @@ DROP VIEW IF EXISTS dist_severity_level;
 
 CREATE VIEW dist_severity_level AS
 SELECT
-site, 
 severity,
-sum(incidents) as incident_count,
-AVG(incidents) as incident_avg, 
-min(incidents) as incident_min, 
-max(incidents) as incident_max, 
+incidents,
+ri,
+dart,
 
-1.0 * sum(ri)
-    /sum(sum(ri)) OVER (PARTITION by site) 
-         AS pct_of_site_ri,
+-- Proportion of Incidents 
+SUM(incidents) * 100.0
+    /SUM(SUM(incidents)) OVER ()
+        as pct_of_incidents,
 
-1.0 * sum(incidents) 
-    /SUM(SUM(incidents)) OVER (PARTITION by site)
-        AS pct_of_site_incidents,
+-- Proportion of Repetitive Injuries
+SUM(ri) * 100.0
+    /SUM(SUM(ri)) OVER () 
+        as pct_of_ri,
 
-1.0 * sum(msd_ri)
-    /sum(sum(msd_ri)) OVER (PARTITION by site)
-        AS pct_of_site_msd_ri,
-
-1.0 * sum(dart)
-    /SUM(SUM(dart)) OVER (PARTITION by site)
-        AS pct_of_site_dart
+-- Proportion of Days Away, Restricted, Transfered
+SUM(dart) * 100.0
+    /SUM(SUM(dart)) OVER ()
+        as pct_of_dart
 
 FROM stg_severity_level 
-WHERE site IS NOT NULL
-GROUP BY site, severity; 
+WHERE severity IS NOT NULL
+GROUP BY severity; 

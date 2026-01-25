@@ -1,32 +1,30 @@
 -- distribution of root_cause by site 
--- grain: site x root cause 
+-- grain: root cause x incidents 
 
 DROP VIEW IF EXISTS dist_root_cause; 
 
 CREATE VIEW dist_root_cause AS
 select 
-site, 
-root_cause, 
-sum(incidents) as incident_count, 
-AVG(incidents) as incidents_avg, 
-MIN(incidents) as incidents_min, 
-MAX(incidents) as incidents_max, 
+root_cause,
+incidents,
+ri, 
+dart,
+-- proportion of incidents
+sum(incidents) * 100.0              
+    /sum(sum(incidents)) OVER ()
+        as pct_of_incidents, 
 
-1.0 * sum(incidents)
-    /sum(sum(incident_count))
-        as pct_of_site_incident, 
-1.0 * sum(ri)
-    /sum(sum(ri)) over (PARTITION by site)
-        as pct_of_site_ri, 
-1.0 * sum(mds_ri) 
-    /sum(sum(msd_ri)) OVER (PARTITION by site)
-            as pct_of_site_msd_ri,
+-- proportion of Repetitive injuries  
+sum(ri) * 100.0
+    /sum(sum(ri)) OVER ()
+        as pct_of_ri,
 
-1.0 * sum(sum(dart)) OVER (PARTITION by site)
-    /sum(sum(dart)) 
-        as pct_of_site_dart 
+-- Proportion of Days Away Restricted or Tranfered 
+sum(dart) * 100.0 
+    /sum(sum(dart)) OVER ()
+        as pct_of_dart 
 
 FROM stg_root_cause
-WHERE site IS NOT NULL
-GROUP BY site, root_cause; 
+WHERE root_cause IS NOT NULL
+GROUP BY root_cause; 
 

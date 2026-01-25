@@ -1,7 +1,7 @@
 -- feature build out for the process path x weekly exposure 
 -- KPI: Incidents + YTD metrics  
 -- Trend: Rolling weekly incidents + hours 
--- signal: NWeekly incident rate/ hours + normalized rates  
+-- signal: Weekly incident rate/ hours + normalized rates  
 
 DROP VIEW IF EXISTS feat_site_week_hours_path_risk; 
 
@@ -27,7 +27,7 @@ select *,
     (incidents_ytd - LAG(incidents_ytd, 1, 0) OVER 
         (PARTITION by site, fiscal_year, process_path
             ORDER by week_sum) 
-                )as incidents_weekly
+                ) as incidents_weekly
 
 FROM base), 
     
@@ -49,41 +49,42 @@ rolling AS (
 
     SQRT(
         AVG(fclm_hours * fclm_hours) OVER                -- rolling deviation over 4 weeks for fclm hours (Trend) 
-            (PARTITION by process_path
+            (PARTITION BY site, fiscal_year, process_path
                 ORDER by week_sum 
                     ROWS BETWEEN 3 PRECEDING AND CURRENT ROW
         )
         -
         (
             AVG(fclm_hours) OVER 
-                (PARTITION BY process_path
+                (PARTITION BY site, fiscal_year, process_path
                     ORDER BY week_sum
                         ROWS BETWEEN 3 PRECEDING AND CURRENT ROW
         )
         *
             AVG(fclm_hours) OVER 
-                (PARTITION BY process_path
+                (PARTITION BY site, fiscal_year, process_path
                     ORDER BY week_sum 
                         ROWS BETWEEN 3 PRECEDING AND CURRENT ROW)
-                            ) AS fclm_hours_4wk_std,
+                    ) 
+                ) AS fclm_hours_4wk_std,
 
 
     SQRT(
         AVG(incidents_weekly * incidents_weekly) OVER -- Standard deviation over 4 week averages for incidents (TREND) 
-            (PARTITION by process_path
+            (PARTITION by site, fiscal_year, process_path
                 ORDER BY fiscal_year, week_sum
                     ROWS BETWEEN 3 PRECEDING AND CURRENT ROW
         ) 
         -
         ( 
         AVG(incidents_weekly) OVER 
-            (PARTITION by process_path
+            (PARTITION by site, fiscal_year, process_path
                 ORDER BY fiscal_year, week_sum
                     ROWS BETWEEN 3 PRECEDING AND CURRENT ROW 
         )
         *
         AVG(incidents_weekly) OVER 
-            (PARTITION by process_path
+            (PARTITION BY site, fiscal_year, process_path
                 ORDER BY fiscal_year, week_sum
                     ROWS BETWEEN 3 PRECEDING AND CURRENT ROW
                 )
@@ -95,18 +96,18 @@ FROM base_weekly),
 rates AS (
 
     select *,                       
-    -- normalized rate  
+                            -- normalized rates  
      --- signal Incidents per 1000 hours
-        incidents_weekly * 1000.0/nullif(fclm_hours, 0)   --- Incidents per 1000 hours 
+        incidents_weekly * 1000.0/nullif(fclm_hours, 0)   
             as incidents_per_1k_hours, 
 
-    -- deviation for the norm 
-    -- Trend (This flags week where hours are unusual relative to history) 
-    (fclm_hours - avg_hours_per_path) as hours_deviation, -- signal (This flags week where hours are unusual relative to history) 
+                        -- deviation from the norm 
+    --  sigal (This flags week where hours are unusual relative to history) 
+    (fclm_hours - avg_hours_per_path) as hours_deviation, -- signal
 
-    -- Percent deviation 
-    -- Trend (This gives a scaled percentage output on whether the week is above or under the normal in terms of hours 
-    (fclm_hours - avg_hours_per_path * 1.0/nullif(avg_hours_per_path, 0) as deviation_pct 
+                        -- Percent deviation 
+    -- signal (This gives a scaled percentage output on whether the week is above or under the normal in terms of hours 
+    (fclm_hours - avg_hours_per_path * 100.0/nullif(avg_hours_per_path, 0)) as deviation_pct 
 
     
 
