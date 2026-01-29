@@ -75,7 +75,7 @@ rolling AS (
     ) as incidents_4wk_std, 
 
         SQRT (
-            AVG(hours_ytd * hours_ytd) OVER 
+            AVG(hours_ytd * hours_ytd) OVER     -- standard deviation of hours over 4 week period (Trend)
             (PARTITION BY site
             ORDER BY week_sum 
             ROWS BETWEEN 3 PRECEDING AND CURRENT ROW
@@ -118,7 +118,7 @@ SELECT *,
 
 -- flags
 CASE 
-    WHEN incidents_weekly  > incidents_4wk_avg THEN 1 ELSE 0  --logic: if incidents exceed over incident 4wk average flag spike (signal)
+    WHEN incidents_weekly  >= incidents_4wk_avg THEN 1 ELSE 0  --logic: if incidents exceed over incident 4wk average flag spike (signal)
         END as incident_spike_flag, 
 CASE 
     WHEN hours_weekly < hours_4wk_avg THEN 1 ELSE 0 END as hours_drop_flag, -- Logic: if hours is greater than 4 week average... return 1 (signal)
