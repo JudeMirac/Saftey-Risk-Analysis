@@ -98,7 +98,7 @@ rates AS (
     select *,                       
                             -- normalized rates  
      --- signal Incidents per 1000 hours
-        incidents_weekly * 1000.0/nullif(fclm_hours, 0)   
+        abs(incidents_weekly * 1000/nullif(fclm_hours, 0)) 
             as incidents_per_1k_hours, 
 
                         -- deviation from the norm 
