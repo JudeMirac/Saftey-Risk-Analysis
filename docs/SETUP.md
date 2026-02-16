@@ -115,7 +115,6 @@ This will open a browser window with the Jupyter interface.
 2. **data_health_checks.ipynb** - Validate data quality
 3. **Context_EDA.ipynb** - Analyze incident distributions
 4. **process_path_EDA.ipynb** - Process path specific analysis
-5. **Incident_count_model.ipynb** - Predictive modeling
 
 ## Directory Structure After Setup
 
