@@ -2,7 +2,7 @@
 
 A comprehensive data analytics pipeline for analyzing workplace safety incidents, exposure hours, and risk factors across multiple sites and organizational units.
 
-## 📊 Project Overview
+## Project Overview
 
 This project implements an end-to-end data pipeline that:
 - Ingests safety incident data from multiple CSV sources
@@ -11,7 +11,7 @@ This project implements an end-to-end data pipeline that:
 - Analyzes incident distributions by root cause, severity, and contributing factors
 - Generates risk metrics and features for predictive modeling
 
-## 🏗️ Architecture
+## Architecture
 
 The pipeline follows a layered architecture:
 
@@ -120,7 +120,7 @@ Key notebooks:
 - `Incident_count_model.ipynb` - Predictive modeling
 - `data_health_checks.ipynb` - Data quality validation
 
-## 📈 Key Features
+## Key Features
 
 ### Risk Metrics
 - **Incident Rate**: Incidents per exposure hours
@@ -135,16 +135,15 @@ Key notebooks:
 - Validation checks for data completeness
 - Reproducible transformations using SQL views
 
-## 🔍 Analysis Capabilities
+## Analysis Capabilities
 
 The pipeline supports various analytical use cases:
 - Trend analysis of safety incidents over time
-- Site and regional safety performance comparisons
 - Identification of high-risk process paths
 - Predictive modeling for incident forecasting
 - Resource allocation based on exposure hours and risk
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Database**: SQLite3
 - **Data Processing**: Python, Pandas
@@ -152,7 +151,7 @@ The pipeline supports various analytical use cases:
 - **Analysis**: Jupyter Notebooks
 - **Visualization**: (Add your visualization libraries here)
 
-## 📝 Data Pipeline Details
+## Data Pipeline Details
 
 ### Staging Layer
 Standardizes raw data by:
@@ -182,19 +181,16 @@ Generates modeling features:
 - Time-windowed calculations
 - Normalized incident rates
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
+  
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
+##  Author
 
 **Jude Mirac**
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Data sourced from workplace safety management systems
 - Built with Python and SQLite for portability and efficiency
