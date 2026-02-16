@@ -78,7 +78,7 @@ The Safety Risk Analysis pipeline is designed with a layered architecture that e
 
 ### 5. Features Layer
 
-**Purpose**: Calculate risk metrics for modeling
+**Purpose**: Calculate risk metrics for analysis
 
 **Feature Sets**:
 - `feat_site_week_hours_risk.sql` - Overall risk features
@@ -123,14 +123,14 @@ The Safety Risk Analysis pipeline is designed with a layered architecture that e
 │   Context Layer      │  │      Features Layer          │
 │   (dist_* views)     │  │      (feat_* views)          │
 │   • Distributions    │  │   • Risk calculations        │
-│   • Statistical      │  │   • Modeling features        │
+│   • Statistical      │  │   • Analysis features        │
 │     summaries        │  │   • Rate normalization       │
 └──────────────────────┘  └──────────────────────────────┘
               │                      │
               └──────────┬───────────┘
                          ▼
               ┌─────────────────────────┐
-              │   Analysis & Modeling   │
+              │        Analysis         │
               │   (Jupyter Notebooks)   │
               └─────────────────────────┘
 ```
