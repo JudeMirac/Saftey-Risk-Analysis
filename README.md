@@ -2,6 +2,10 @@
 
 A comprehensive data analytics pipeline for analyzing workplace safety incidents, exposure hours, and risk factors across multiple sites and organizational units.
 
+## Important Note on Data
+
+**The data used in this project is synthetic and generated for demonstration purposes only.** Due to data leakage policies within the company, actual operational data cannot be shared publicly. However, the analytical pipeline and analysis methods implemented here closely mimic the yearly safety report created for a specific site of operation, maintaining the same structure, metrics, and analytical approaches used in production.
+
 ## Project Overview
 
 This project implements an end-to-end data pipeline that:
@@ -9,7 +13,7 @@ This project implements an end-to-end data pipeline that:
 - Stages and transforms data using SQL views
 - Integrates data across time periods, sites, and process paths
 - Analyzes incident distributions by root cause, severity, and contributing factors
-- Generates risk metrics and features for predictive modeling
+- Generates risk metrics and features for analysis
 
 ## Architecture
 
@@ -25,7 +29,7 @@ Raw Data (CSV) → SQLite Database → Staging → Integration → Context/Featu
 2. **Staging Layer**: Standardized views with cleaned and normalized data
 3. **Integration Layer**: Unified datasets combining site, time, and exposure data
 4. **Context Layer**: Statistical distributions of incidents by various dimensions
-5. **Features Layer**: Calculated risk metrics for modeling
+5. **Features Layer**: Calculated risk metrics for analysis
 
 ## 📁 Project Structure
 
@@ -49,9 +53,9 @@ Raw Data (CSV) → SQLite Database → Staging → Integration → Context/Featu
 │   └── features/                 # Feature engineering queries
 ├── notebooks/                     # Jupyter notebooks for analysis
 │   ├── Exploratory_Analysis.ipynb
-│   ├── Incident_count_model.ipynb
 │   ├── Context_EDA.ipynb
-│   └── ...
+│   ├── process_path_EDA.ipynb
+│   └── data_health_checks.ipynb
 └── Run_Pipeline.py               # Main pipeline execution script
 ```
 
@@ -93,7 +97,7 @@ This will:
 1. Execute all staging transformations
 2. Create integrated datasets
 3. Generate context and distribution tables
-4. Build feature tables for modeling
+4. Build feature tables for analysis
 
 #### Loading Raw Data
 
@@ -117,7 +121,7 @@ jupyter notebook
 Key notebooks:
 - `Exploratory_Analysis.ipynb` - Overall data exploration
 - `Context_EDA.ipynb` - Incident distribution analysis
-- `Incident_count_model.ipynb` - Predictive modeling
+- `process_path_EDA.ipynb` - Process path specific analysis
 - `data_health_checks.ipynb` - Data quality validation
 
 ## Key Features
@@ -140,7 +144,7 @@ Key notebooks:
 The pipeline supports various analytical use cases:
 - Trend analysis of safety incidents over time
 - Identification of high-risk process paths
-- Predictive modeling for incident forecasting
+- Root cause and contributing factor analysis
 - Resource allocation based on exposure hours and risk
 
 ##  Technology Stack
@@ -175,7 +179,7 @@ Provides statistical distributions:
 - Distribution by severity level
 
 ### Features Layer
-Generates modeling features:
+Generates metrics for analysis:
 - Site-level risk metrics
 - Process path-specific risk metrics
 - Time-windowed calculations

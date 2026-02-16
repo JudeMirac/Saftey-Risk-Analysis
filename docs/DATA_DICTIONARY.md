@@ -244,10 +244,10 @@ Use integration layer views (`int_*`) for:
 - Site comparisons
 - Regional analysis
 
-### For Modeling
+### For Analysis
 Use feature layer views (`feat_*`) for:
-- Predictive modeling
-- Risk forecasting
+- Risk analysis
+- Time-windowed metrics
 - Anomaly detection
 
 ### For Reporting
