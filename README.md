@@ -31,7 +31,7 @@ Raw Data (CSV) → SQLite Database → Staging → Integration → Context/Featu
 4. **Context Layer**: Statistical distributions of incidents by various dimensions
 5. **Features Layer**: Calculated risk metrics for analysis
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── Data/                          # Raw CSV data files
@@ -59,7 +59,7 @@ Raw Data (CSV) → SQLite Database → Staging → Integration → Context/Featu
 └── Run_Pipeline.py               # Main pipeline execution script
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
