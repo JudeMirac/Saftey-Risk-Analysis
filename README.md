@@ -4,7 +4,7 @@ A comprehensive data analytics pipeline for analyzing workplace safety incidents
 
 ## Important Note on Data
 
-**The data used in this project is synthetic and generated for demonstration purposes only.** Due to data leakage policies within the company, actual operational data cannot be shared publicly. However, the analytical pipeline and analysis methods implemented here closely mimic the yearly safety report created for a specific site of operation, maintaining the same structure, metrics, and analytical approaches used in production.
+**The data used in this project is synthetic and generated for demonstration purposes only.** Due to data leakage policies within the company, actual operational data cannot be shared publicly. However, the analytical pipeline and analysis methods implemented here closely mimic the yearly safety report created for a my site of operation, maintaining the same structure, metrics, and analytical approaches used. 
 
 ## Project Overview
 
