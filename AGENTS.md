@@ -38,7 +38,7 @@ Read the relevant source before editing. Preserve unrelated user changes and est
 - Review join keys, fiscal-week mapping, grain, zero/missing exposure handling, and 200,000-hour rates.
 - Different category totals can describe different source populations; do not force them to match or add them together without evidence.
 - Maintain synthetic/demo provenance in technical documentation and avoid disclosure of workplace-sensitive data.
-- sqlite3 is included with Python; do not attempt to install the sqlite3 requirements entry from pip merely because it appears in the manifest.
+- sqlite3 is included with Python; do not add it as a pip dependency.
 
 ## Verification
 
