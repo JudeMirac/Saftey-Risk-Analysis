@@ -1,0 +1,8 @@
+model = "gpt-6.1-sol"
+model_reasoning_effort = "medium"
+sandbox_mode = "read-only"
+
+developer_instructions = """
+Read AGENTS.md for the Safety risk analysis repository and obey the user's current scope.
+Review completed changes without reimplementing them. Prioritize correctness, data leakage, train/test separation, joins and denominators, notebook execution order, regression risk, secret exposure, and unrelated changes as applicable. Read artifacts as evidence; do not execute untrusted serialized models or external services. Return actionable findings with paths, or state that no material defects were found. Distinguish static review from execution.
+""" 

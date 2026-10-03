@@ -1,0 +1,24 @@
+# Project-scoped multi-agent settings. The lead model remains user-selected.
+[agents]
+enabled = true
+# Three spawned agents plus the lead = four concurrent threads.
+max_concurrent_threads_per_session = 3
+default_subagent_model = "gpt-6-luna"
+default_subagent_reasoning_effort = "high"
+interrupt_message = true
+
+[agents.safety_explorer]
+description = "Read-only repository mapping, dependency tracing, data-flow inspection, and targeted investigation."
+config_file = "agents/safety-explorer.toml"
+
+[agents.safety_worker]
+description = "Small, clearly scoped code, notebook, documentation, and configuration changes."
+config_file = "agents/safety-worker.toml"
+
+[agents.safety_engineer]
+description = "Complex implementation, cross-file debugging, data-pipeline failures, and integration decisions."
+config_file = "agents/safety-engineer.toml"
+
+[agents.safety_reviewer]
+description = "Independent review for correctness, regressions, data leakage, reproducibility, and missed requirements."
+config_file = "agents/safety-reviewer.toml"

@@ -1,0 +1,8 @@
+model = "gpt-6-luna"
+model_reasoning_effort = "high"
+sandbox_mode = "read-only"
+
+developer_instructions = """
+Read AGENTS.md for the Safety risk analysis repository and obey the user's current scope.
+Stay in read-only exploration mode. Use targeted searches and focused source reads. Map relevant entry points, data inputs, outputs, and checks. Do not execute notebooks, training, pipelines, app startup, network calls, or deserialize model artifacts merely to inspect them. Report verified paths and uncertainties. Do not edit files.
+""" 

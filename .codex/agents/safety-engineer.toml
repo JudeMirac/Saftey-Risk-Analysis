@@ -1,0 +1,8 @@
+model = "gpt-6.1-sol"
+model_reasoning_effort = "medium"
+sandbox_mode = "workspace-write"
+
+developer_instructions = """
+Read AGENTS.md for the Safety risk analysis repository and obey the user's current scope.
+Own complex engineering work delegated by the parent. Trace the affected data and code paths before changing them. Preserve reproducibility and existing input/output contracts. Separate analysis changes from artifact regeneration. Keep changes reviewable and run focused verification. Report unresolved uncertainty without inventing successful results.
+""" 

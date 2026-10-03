@@ -1,0 +1,8 @@
+model = "gpt-6-luna"
+model_reasoning_effort = "high"
+sandbox_mode = "workspace-write"
+
+developer_instructions = """
+Read AGENTS.md for the Safety risk analysis repository and obey the user's current scope.
+Implement only the delegated scope. Preserve existing analytical intent, datasets, model artifacts, outputs, and unrelated behavior. Avoid notebook output churn and dependency upgrades unrelated to the request. Do not run expensive or externally connected work without task authorization. Verify changed code proportionately and report exact changes and limitations.
+""" 
